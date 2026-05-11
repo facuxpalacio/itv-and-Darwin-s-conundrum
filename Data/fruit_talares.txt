@@ -1,0 +1,1000 @@
+Fecha	Punto_ID	Individuo_ID	Sp_planta	Peso_humedo_g	Peso_seco_g	N_hojas	LDMC	Peso_fruto_g	Peso_sem_g	N_frutos	N_sem
+14-7-23	T48	T48C3	Scutia_buxifolia	0.29	0.146	5	496.60	0.917	0.413	5	15
+14-7-23	T48	T48C1	Scutia_buxifolia	0.30	0.156	5	514.85				
+14-7-23	T50	T50C1	Scutia_buxifolia	0.34	0.182	5	529.07	0.068	0.031	1	3
+14-7-23	T48	T48C2	Scutia_buxifolia	0.44	0.236	5	541.28	1.214	0.39	5	15
+14-7-23	T48	T48ST1	Jodina_rhombifolia	1.43	0.682	5	476.26				
+14-7-23	T48	T48ST2	Jodina_rhombifolia	1.23	0.562	5	456.91				
+14-7-23	T41	T41M1	Schinus_longifolius	0.33	0.144	5	439.02				
+14-7-23	T41	T41C5	Scutia_buxifolia	0.24	0.144	5	600.00	0.648	0.341	5	15
+14-7-23	T41	T41ST3	Jodina_rhombifolia	0.89	0.400	5	449.94				
+14-7-23	T41	T41ST2	Jodina_rhombifolia	1.05	0.458	5	434.54				
+14-7-23	T40	T40C5	Scutia_buxifolia	0.32	0.191	5	589.51	0.624	0.28	5	15
+14-7-23	T40	T40C1	Scutia_buxifolia	0.32	0.171	5	529.41				
+14-7-23	T40	T40C3	Scutia_buxifolia	0.24	0.148	5	614.11	0.627	0.267	5	17
+14-7-23	T40	T40C2	Scutia_buxifolia	0.28	0.163	5	573.94	0.856	0.287	5	15
+14-7-23	T41	T41C4	Scutia_buxifolia	0.31	0.171	5	553.40	0.87	0.442	5	15
+14-7-23	T41	T41C3	Scutia_buxifolia	0.16	0.087	5	557.69	0.701	0.265	5	15
+14-7-23	T41	T41C1	Scutia_buxifolia	0.19	0.084	5	432.99	0.59	0.273	5	15
+14-7-23	T40	T40C4	Scutia_buxifolia	0.29	0.151	5	526.13	0.122	0.051	1	3
+14-7-23	T41	T41C2	Scutia_buxifolia	0.21	0.119	5	574.88	0.546	0.209	5	15
+20-7-23	T43	T43ST1	Jodina_rhombifolia	1.26	0.573	5	456.57				
+20-7-23	T43	T43C1	Scutia_buxifolia	0.23	0.120	5	519.48	0.785	0.335	5	15
+20-7-23	T44	T44C2	Scutia_buxifolia	0.23	0.125	5	548.25	0.87	0.296	5	15
+20-7-23	T44	T44ST1	Jodina_rhombifolia	1.51	0.777	5	514.23				
+20-7-23	T43	T43M1	Schinus_longifolius	0.46	0.196	5	422.41				
+20-7-23	T44	T44C5	Scutia_buxifolia	0.07	0.035	3	500.00				
+20-7-23	T44	T44C1	Scutia_buxifolia	0.17	0.085	5	512.05		0.187	5	15
+20-7-23	T43	T43CU1	Sapium_haematospermum	0.88	0.330	5	373.73				
+20-7-23	T43	T43ST2	Jodina_rhombifolia	1.48	0.624	5	422.48				
+20-7-23	T44	T44C3	Scutia_buxifolia	0.25	0.131	5	528.23	0.617	0.219	5	15
+20-7-23	T44	T44C4	Scutia_buxifolia	0.22	0.113	5	525.58	0.785	0.263	5	15
+20-7-23	T43	T43C3	Scutia_buxifolia	0.17	0.084	5	494.12	0.698	0.305	5	15
+25-7-23	T1	T1L1	Ligustrum_lucidum	5.91	2.129	5	360.24	0.32	0.13	5	10
+25-7-23	T1	T1C1	Scutia_buxifolia	0.20	0.104	5	520.00	0.48	0.25	4	12
+25-7-23	T1	T1C2	Scutia_buxifolia	0.20	0.103	5	515.00	0.47	0.27	5	15
+25-7-23	T1	T1ST2	Jodina_rhombifolia	1.17	0.460	5	393.16				
+25-7-23	T1	T1ST3	Jodina_rhombifolia	1.47	0.629	5	427.89				
+25-7-23	T1	T1ST1	Jodina_rhombifolia	1.56	0.629	5	403.21				
+25-7-23	T1	T1C3	Scutia_buxifolia	0.12	0.060	5	500.00				
+25-7-23	T2	T2ST2	Jodina_rhombifolia	1.34	0.541	5	403.73				
+25-7-23	T2	T2M1	Scutia_buxifolia	0.17	0.071	5	417.65				
+25-7-23	T2	T2ST1	Jodina_rhombifolia	0.56	0.218	5	389.29				
+25-7-23	T2	T2C2	Scutia_buxifolia	0.22	0.120	5	545.45	0.29	0.15	3	9
+25-7-23	T2	T2M2	Scutia_buxifolia	0.16	0.076	5	475.00				
+25-7-23	T2	T2ST3	Jodina_rhombifolia	0.87	0.336	5	386.21				
+25-7-23	T7	T7C3	Scutia_buxifolia	0.16	0.088	5	550.00				
+25-7-23	T7	T7ST1	Jodina_rhombifolia	0.79	0.340	5	430.38				
+25-7-23	T7	T7C1	Scutia_buxifolia	0.13	0.081	5	623.08	0.67	0.2	5	15
+25-7-23	T7	T7C2	Scutia_buxifolia	0.33	0.158	5	478.79				
+25-7-23	T6	T6C3	Scutia_buxifolia	0.42	0.161	5	383.33				
+25-7-23	T6	T6C1	Scutia_buxifolia	0.28	0.132	5	471.43				
+25-7-23	T6	T6ST1	Jodina_rhombifolia	1.37	0.556	5	405.84				
+25-7-23	T6	T6C2	Scutia_buxifolia	0.25	0.138	5	552.00				
+26-7-23	L5	L5L3	Ligustrum_lucidum	0.97	0.332	5	342.27				
+26-7-23	L6	L6L1	Ligustrum_lucidum	4.85	1.661	5	342.47				
+27-7-23	L1	L1L6	Ligustrum_lucidum	2.30	0.771	5	335.22				
+27-7-23	L1	L1L5	Ligustrum_lucidum	2.29	0.687	5	300.00				
+27-7-23	L1	L1C3	Scutia_buxifolia	0.35	0.152	5	434.29				
+27-7-23	L2	L2L4	Ligustrum_lucidum	1.73	0.534	5	308.67				
+27-7-23	L2	L2L5	Ligustrum_lucidum	1.45	0.431	5	297.24				
+27-7-23	L2	L2L6	Ligustrum_lucidum	2.28	0.673	5	295.18				
+27-7-23	L6	L6L5	Ligustrum_lucidum	1.92	0.613	5	319.27				
+27-7-23	L6	L6L6	Ligustrum_lucidum	1.49	0.461	5	309.40				
+27-7-23	L3	L3L4	Ligustrum_lucidum	2.32	0.667	5	287.50				
+27-7-23	L3	L3L5	Ligustrum_lucidum	1.89	0.442	5	233.86				
+27-7-23	L3	L3L6	Ligustrum_lucidum	2.41	0.701	5	290.87				
+27-7-23	L3	L3ST1	Jodina_rhombifolia	0.97	0.402	5	414.43				
+27-7-23	L1	L1L4	Ligustrum_lucidum	2.62	0.950	5	362.60				
+27-7-23	L4	L4L4	Ligustrum_lucidum	1.64	0.460	5	280.49				
+27-7-23	L4	L4L5	Ligustrum_lucidum	0.78	0.226	5	289.74				
+27-7-23	L4	L4L6	Ligustrum_lucidum	1.25	0.342	5	273.60				
+27-7-23	L8	L8L1	Ligustrum_lucidum	2.85	0.919	5	322.46				
+27-7-23	L8	L8L4	Ligustrum_lucidum	1.29	0.413	5	320.16				
+27-7-23	L8	L8L5	Ligustrum_lucidum	0.94	0.287	5	305.32				
+27-7-23	L8	L8L6	Ligustrum_lucidum	1.85	0.591	5	319.46				
+27-7-23	L9	L9L1	Ligustrum_lucidum	2.84	0.803	5	282.75				
+27-7-23	L9	L9L3	Ligustrum_lucidum	1.30	0.414	5	318.46				
+27-7-23	L9	L9L4	Ligustrum_lucidum	1.30	0.413	5	317.69				
+27-7-23	L9	L9L5	Ligustrum_lucidum	2.67	0.775	5	290.26				
+27-7-23	L9	L9L6	Ligustrum_lucidum	2.64	0.740	5	280.30				
+27-7-23	L10	L10L4	Ligustrum_lucidum	0.69	0.197	5	285.51				
+27-7-23	L10	L10L5	Ligustrum_lucidum	1.35	0.428	5	317.04				
+27-7-23	L10	L10L6	Ligustrum_lucidum	1.60	0.476	5	297.50				
+27-7-23	L10	L10C3	Scutia_buxifolia	0.26	0.125	5	480.77				
+27-7-23	L6	L6L4	Ligustrum_lucidum	1.33	0.420	5	315.79				
+27-7-23	L5	L5L4	Ligustrum_lucidum	2.71	0.841	5	310.33				
+27-7-23	L5	L5L5	Ligustrum_lucidum	1.50	0.344	5	229.33				
+27-7-23	L5	L5L6	Ligustrum_lucidum	0.87	0.243	5	279.31				
+27-7-23	L7	L7L4	Ligustrum_lucidum	1.55	0.477	5	307.74				
+27-7-23	L7	L7L5	Ligustrum_lucidum	1.11	0.298	5	268.47				
+27-7-23	L7	L7L6	Ligustrum_lucidum	3.28	1.070	5	326.22				
+28-7-23	T25	T25C1	Scutia_buxifolia	0.13	0.065	5	500.00				
+28-7-23	T25	T25C2	Scutia_buxifolia	0.36	0.200	5	555.56				
+28-7-23	T25	T25C3	Scutia_buxifolia	0.44	0.267	5	606.82				
+28-7-23	T26	T26C1	Scutia_buxifolia	0.49	0.252	5	514.29				
+28-7-23	T26	T26C2	Scutia_buxifolia	0.31	0.146	5	470.97				
+28-7-23	T26	T26C3	Scutia_buxifolia	0.21	0.116	5	552.38	0.58	0.18	5	15
+28-7-23	T27	T27C1	Scutia_buxifolia	0.29	0.169	5	582.76	0.65	0.31	5	15
+28-7-23	T27	T27C2	Scutia_buxifolia	0.32	0.176	5	550.00	0.76	0.27	5	15
+28-7-23	T27	T27C3	Scutia_buxifolia	0.24	0.132	5	550.00	0.5	0.18	5	15
+28-7-23	T27	T27M1	Schinus_longifolius	0.42	0.187	5	445.24				
+28-7-23	T28	T28C1	Scutia_buxifolia	0.52	0.266	5	511.54	0.82	0.32	5	15
+28-7-23	T28	T28C2	Scutia_buxifolia	0.24	0.137	5	570.83	0.92	0.34	5	15
+28-7-23	T28	T28C3	Scutia_buxifolia	0.27	0.122	5	451.85	0.77	0.24	5	15
+28-7-23	T32	T32C1	Scutia_buxifolia	0.26	0.126	5	484.62	0.61	0.24	5	16
+28-7-23	T32	T32C2	Scutia_buxifolia	0.15	0.069	5	460.00				
+28-7-23	T32	T32M1	Schinus_longifolius	0.19	0.071	5	373.68				
+28-7-23	T29	T29C1	Scutia_buxifolia	0.15	0.068	5	453.33				
+28-7-23	T29	T29C3	Scutia_buxifolia	0.26	0.140	5	538.46	0.54	0.25	5	15
+28-7-23	T35	T35M1	Schinus_longifolius	0.32	0.144	5	450.00				
+28-7-23	T35	T35C2	Scutia_buxifolia	0.28	0.158	5	564.29	0.7	0.32	5	16
+28-7-23	T30	T30C1	Scutia_buxifolia	0.47	0.231	5	491.49				
+28-7-23	T30	T30C2	Scutia_buxifolia	0.22	0.095	5	431.82	0.95	0.34	5	16
+28-7-23	T30	T30C3	Scutia_buxifolia	0.25	0.113	5	452.00	0.58	0.19	5	15
+28-7-23	T31	T31C3	Scutia_buxifolia	0.15	0.083	5	553.33	0.58	0.23	5	15
+28-7-23	T31	T31C2	Scutia_buxifolia	0.17	0.087	5	511.76	0.78	0.33	4	12
+28-7-23	T31	T31C1	Scutia_buxifolia	0.28	0.134	5	478.57	0.63	0.25	5	15
+28-7-23	T34	T34C1	Scutia_buxifolia	0.44	0.256	5	581.82	0.56	0.23	5	16
+28-7-23	T34	T34C2	Scutia_buxifolia	0.18	0.094	5	522.22				
+28-7-23	T42	T42C1	Scutia_buxifolia	0.19	0.106	5	557.89				
+28-7-23	T39	T39C2	Scutia_buxifolia	0.16	0.084	5	525.00				
+28-7-23	T42	T42C5	Scutia_buxifolia	0.48	0.269	5	560.42				
+28-7-23	T45	T45C2	Scutia_buxifolia	0.14	0.073	5	521.43				
+28-7-23	T39	T39C5	Scutia_buxifolia	0.35	0.205	5	585.71				
+28-7-23	T39	T39C3	Scutia_buxifolia	0.11	0.055	5	500.00	0.364	0.207	5	15
+28-7-23	T39	T39C4	Scutia_buxifolia	0.26	0.132	5	507.69	0.55	0.243	5	15
+28-7-23	T38	T38C1	Scutia_buxifolia	0.36	0.201	5	558.33	0.616	0.3	5	15
+28-7-23	T39	T39C1	Scutia_buxifolia	0.17	0.1	5	588.24				
+28-7-23	T46	T46C1	Scutia_buxifolia	0.24	0.138	5	575.00				
+28-7-23	T46	T46ST2	Jodina_rhombifolia	0.84	0.45	5	535.71				
+28-7-23	T46	T46ST1	Jodina_rhombifolia	2.62	1.211	5	462.21				
+28-7-23	T42	T42C2	Scutia_buxifolia	0.27	0.154	5	570.37	0.392	0.197	4	12
+28-7-23	T42	T42C4	Scutia_buxifolia	0.27	0.15	5	555.56	0.391	0.208	5	15
+28-7-23	T45	T45C1	Scutia_buxifolia	0.3	0.168	5	560.00				
+28-7-23	T42	T42C3	Scutia_buxifolia	0.14	0.078	5	557.14	0.462	0.24	5	15
+28-7-23	T46	T46ST3	Jodina_rhombifolia	0.76	0.326	5	428.95				
+31-8-23	T52	T52C4	Scutia_buxifolia	0.19	0.102	5	536.84	0.359	0.203	5	15
+31-8-23	T52	T52C5	Scutia_buxifolia	0.27	0.152	5	562.96				
+31-8-23	T49	T49ST1	Jodina_rhombifolia	1.32	0.747	5	565.91				
+31-8-23	T49	T49M1	Schinus_longifolius	0.26	0.147	5	565.38				
+31-8-23	T50	T50C1	Scutia_buxifolia	0.22	0.129	5	586.36				
+31-8-23	T48	T48C1	Scutia_buxifolia	0.21	0.127	5	604.76				
+31-8-23	T49	T49C4	Scutia_buxifolia	0.38	0.196	5	515.79				
+31-8-23	T37	T37C3	Scutia_buxifolia	0.19	0.098	5	515.79	0.305	0.186	5	15
+31-8-23	T49	T49ST2	Jodina_rhombifolia	0.6	0.265	5	441.67				
+31-8-23	T37	T37C5	Scutia_buxifolia	0.19	0.099	5	521.05	0.587	0.32	5	14
+31-8-23	T49	T49C1	Scutia_buxifolia	0.17	0.089	5	523.53				
+31-8-23	T49	T49C2	Scutia_buxifolia	0.33	0.168	5	509.09				
+31-8-23	T49	T49C3	Scutia_buxifolia	0.23	0.122	5	530.43				
+31-8-23	T49	T49ST3	Jodina_rhombifolia	0.85	0.568	5	668.24				
+31-8-23	T49	T49M2	Schinus_longifolius	0.19	0.097	4	510.53				
+31-8-23	T47	T47C1	Scutia_buxifolia	0.25	0.149	5	596.00				
+31-8-23	T52	T52C1	Scutia_buxifolia	0.3	0.155	5	516.67	0.061	0.032	1	3
+31-8-23	T49	T49C5	Scutia_buxifolia	0.24	0.141	5	587.50				
+31-8-23	T52	T52C3	Scutia_buxifolia	0.17	0.095	5	558.82	0.403	0.254	5	15
+31-8-23	T52	T52C2	Scutia_buxifolia	0.28	0.16	5	571.43	0.272	0.165	3	9
+31-8-23	T37	T37ST2	Jodina_rhombifolia	1.65	0.921	5	558.18				
+31-8-23	T37	T37C4	Scutia_buxifolia	0.28	0.17	5	607.14	0.426	0.172	5	15
+31-8-23	T37	T37ST1	Jodina_rhombifolia	1.31	0.71	5	541.98				
+31-8-23	T37	T37ST3	Jodina_rhombifolia	1.96	0.985	5	502.55				
+31-8-23	T37	T37C2	Scutia_buxifolia	0.19	0.099	5	521.05	0.39	0.185	5	14
+31-8-23	T37	T37C1	Scutia_buxifolia	0.14	0.073	5	521.43				
+31-8-23	T33	T33C5	Scutia_buxifolia	0.2	0.114	5	570.00				
+31-8-23	T33	T33C4	Scutia_buxifolia	0.18	0.092	5	511.11				
+31-8-23	T29	T29C5	Scutia_buxifolia	0.36	0.191	5	530.56				
+31-8-23	T30	T30C4	Scutia_buxifolia	0.33	0.163	5	493.94				
+31-8-23	T31	T31C4	Scutia_buxifolia	0.17	0.095	5	558.82				
+31-8-23	T33	T33C1	Scutia_buxifolia	0.2	0.096	5	480.00				
+31-8-23	T36	T36C1	Scutia_buxifolia	0.21	0.113	5	538.10				
+31-8-23	T36	T36C2	Scutia_buxifolia	0.31	0.173	5	558.06				
+31-8-23	T33	T33C3	Scutia_buxifolia	0.27	0.147	5	544.44				
+31-8-23	T36	T36M1	Schinus_longifolius	0.37	0.169	5	456.76				
+31-8-23	T35	T35C4	Scutia_buxifolia	0.26	0.126	4	484.62				
+31-8-23	T30	T30C5	Scutia_buxifolia	0.34	0.168	5	494.12	0.132	0.092	2	6
+31-8-23	T36	T36C3	Scutia_buxifolia	0.18	0.11	5	611.11				
+31-8-23	T33	T33C2	Scutia_buxifolia	0.28	0.149	5	532.14				
+31-8-23	T33	T33C5	Scutia_buxifolia	0.32	0.162	5	506.25				
+31-8-23	T29	T29C4	Scutia_buxifolia	0.38	0.204	5	536.84				
+31-8-23	T36	T36C4	Scutia_buxifolia	0.37	0.1	5	270.27				
+31-8-23	T36	T36C5	Scutia_buxifolia	0.11	0.063	5	572.73				
+31-8-23	T27	T27C5	Scutia_buxifolia	0.22	0.139	5	631.82				
+31-8-23	T28	T28C5	Scutia_buxifolia	0.47	0.284	5	604.26				
+31-8-23	T28	T28C4	Scutia_buxifolia	0.25	0.14	5	560.00				
+31-8-23	T25	T25C4	Scutia_buxifolia	0.31	0.197	5	635.48				
+31-8-23	T25	T25C5	Scutia_buxifolia	0.21	0.132	5	628.57				
+31-8-23	T26	T26C5	Scutia_buxifolia	0.29	0.173	5	596.55				
+31-8-23	T26	T26C4	Scutia_buxifolia	0.23	0.141	5	613.04				
+31-8-23	T27	T27C4	Scutia_buxifolia	0.28	0.183	5	653.57				
+22-9-23	T24	T24C2	Scutia_buxifolia	0.16	0.093	5	581.25	0.16	0.056	4	10
+22-9-23	T24	T24C3	Scutia_buxifolia	0.14	0.084	5	600.00				
+22-9-23	T24	T24C4	Scutia_buxifolia	0.22	0.117	5	531.82	0.099	0.018	5	5
+22-9-23	T24	T24M1	Schinus_longifolius	0.23	0.106	5	460.87				
+22-9-23	T24	T24M2	Schinus_longifolius	0.21	0.083	5	395.24				
+22-9-23	T24	T24C5	Scutia_buxifolia	0.25	0.125	5	500.00				
+22-9-23	T24	T24C1	Scutia_buxifolia	0.16	0.065	5	406.25				
+22-9-23	T23	T23C4	Scutia_buxifolia	0.17	0.09	5	529.41	0.253	0.066	2	6
+22-9-23	T23	T23C1	Scutia_buxifolia	0.14	0.084	5	600.00	0.156	0.011	4	1
+22-9-23	T23	T23C2	Scutia_buxifolia	0.24	0.142	5	591.67				
+22-9-23	T23	T23C5	Scutia_buxifolia	0.23	0.144	5	626.09				
+22-9-23	T22	T22M1	Schinus_longifolius	0.14	0.05	5	357.14				
+22-9-23	T22	T22C3	Scutia_buxifolia	0.26	0.123	5	473.08	0.096	0.056	4	3
+22-9-23	T22	T22C1	Scutia_buxifolia	0.18	0.074	5	411.11	0.182	0.09	4	11
+22-9-23	T22	T22M2	Schinus_longifolius	0.25	0.079	5	316.00				
+22-9-23	T22	T22C4	Scutia_buxifolia	0.34	0.196	5	576.47	0.256	0.098	4	3
+22-9-23	T23	T23C3	Scutia_buxifolia	0.14	0.078	5	557.14	0.273	0.076	5	4
+22-9-23	T22	T22C5	Scutia_buxifolia	0.21	0.11	5	523.81	0.039		2	
+22-9-23	T22	T22C2	Scutia_buxifolia	0.33	0.166	5	503.03				
+22-9-23	T21	T21M1	Schinus_longifolius	0.14	0.069	5	492.86				
+22-9-23	T21	T21C4	Scutia_buxifolia	0.26	0.153	5	588.46	0.229		5	
+22-9-23	T21	T21C3	Scutia_buxifolia	0.28	0.153	5	546.43	0.313		3	
+22-9-23	T21	T21C1	Scutia_buxifolia	0.12	0.048	5	400.00				
+22-9-23	T21	T21M2	Schinus_longifolius	0.17	0.083	5	488.24				
+22-9-23	T21	T21C2	Scutia_buxifolia	0.21	0.116	5	552.38	0.312	0.117	4	12
+22-9-23	T21	T21C5	Scutia_buxifolia	0.22	0.147	5	668.18				
+22-9-23	T20	T20C3	Scutia_buxifolia	0.14	0.085	5	607.14				
+22-9-23	T20	T20C2	Scutia_buxifolia	0.24	0.138	5	575.00				
+22-9-23	T20	T20C1	Scutia_buxifolia	0.14	0.074	5	528.57				
+22-9-23	T20	T20ST1	Jodina_rhombifolia	0.76	0.347	5	456.58				
+22-9-23	T20	T20C4	Scutia_buxifolia	0.15	0.087	5	580.00				
+22-9-23	T20	T20C5	Scutia_buxifolia	0.25	0.134	5	536.00		0.041	2	1
+10/5/2023	T16	T16C2	Scutia_buxifolia	0.17	0.07	5	411.76				
+10/5/2023	T13	T13C1	Scutia_buxifolia	0.12	0.045	5	375.00				
+10/5/2023	T13	T13C4	Scutia_buxifolia	0.17	0.109	5	641.18				
+10/5/2023	T15	T15L3	Ligustrum_lucidum	0.33	0.093	5	281.82	0.15	0.08	5	15
+10/5/2023	T13	T13C5	Scutia_buxifolia	0.11	0.075	5	681.82	0.09	0.03	2	6
+10/5/2023	T14	T14F1	Fraxinus_sp	0.72	0.188	5	261.11				
+10/5/2023	T14	T14M1	Schinus_longifolius	0.15	0.086	5	573.33				
+10/5/2023	T15	T15L4	Ligustrum_lucidum	0.56	0.178	5	317.86				
+10/5/2023	T15	T15L1	Ligustrum_lucidum	4.99	2.265	5	453.91				
+10/5/2023	T16	T16L2	Ligustrum_lucidum	1.65	0.611	5	370.30	0.27	0.09	5	10
+10/5/2023	T14	T14OL1	Ulmus_populus	0.56	0.167	5	298.21				
+10/5/2023	T13	T13C2	Scutia_buxifolia	0.21	0.127	5	604.76		0.02		4
+10/5/2023	T15	T15C1	Scutia_buxifolia	0.22	0.101	5	459.09				
+10/5/2023	T13	T13C3	Scutia_buxifolia	0.19	0.108	5	568.42				
+10/5/2023	T16	T16L3	Ligustrum_lucidum	1.37	0.519	5	378.83				
+10/5/2023	T16	T16L1	Ligustrum_lucidum	2.14	0.798	5	372.90				
+10/5/2023	T16	T16C4	Scutia_buxifolia	0.21	0.108	5	514.29				
+10/5/2023	T15	T15L5	Ligustrum_lucidum	4.04	1.632	5	403.96				
+10/5/2023	T16	T16C3	Scutia_buxifolia	0.16	0.117	5	731.25				
+10/5/2023	T16	T16C1	Scutia_buxifolia	0.14	0.084	5	600.00				
+10/5/2023	T15	T15L2	Ligustrum_lucidum	0.62	0.241	5	388.71	0.3	0.13	5	10
+10/5/2023	T16	T16L4	Ligustrum_lucidum	0.98	0.268	5	273.47				
+10/5/2023	T16	T16L5	Ligustrum_lucidum	1.12	0.287	5	256.25				
+10/5/2023	T17	T17C4	Scutia_buxifolia	0.13	0.058	5	446.15				
+10/5/2023	T17	T17ST2	Jodina_rhombifolia	0.55	0.223	5	405.45				
+10/5/2023	T17	T17ST1	Jodina_rhombifolia	0.9	0.447	5	496.67				
+10/5/2023	T17	T17C1	Scutia_buxifolia	0.24	0.094	5	391.67				
+10/5/2023	T17	T17ST3	Jodina_rhombifolia	1.13	0.558	5	493.81				
+10/5/2023	T17	T17ST4	Jodina_rhombifolia	0.77	0.232	5	301.30				
+10/5/2023	T17	T17ST5	Jodina_rhombifolia	1.11	0.514	5	463.06				
+10/5/2023	T17	T17C2	Scutia_buxifolia	0.14	0.098	5	700.00				
+10/5/2023	T17	T17L1	Ligustrum_lucidum	0.38	0.156	5	410.53				
+10/5/2023	T17	T17C3	Scutia_buxifolia	0.31	0.191	5	616.13				
+10/5/2023	T17	T17C5	Scutia_buxifolia	0.27	0.081	5	300.00				
+10/5/2023	T18	T18C3	Scutia_buxifolia	0.09	0.042	5	466.67				
+10/5/2023	T18	T18L5	Ligustrum_lucidum	2.9	0.949	5	327.24				
+10/5/2023	T18	T18L4	Ligustrum_lucidum	1.05	0.322	5	306.67				
+10/5/2023	T18	T18C1	Scutia_buxifolia	0.13	0.065	5	500.00				
+10/5/2023	T18	T18ST1	Jodina_rhombifolia	1.07	0.486	5	454.21				
+10/5/2023	T18	T18C2	Scutia_buxifolia	0.2	0.132	5	660.00				
+10/5/2023	T18	T18C4	Scutia_buxifolia	0.26	0.147	5	565.38	0.057	0.02	5	15
+10/5/2023	T18	T18C5	Scutia_buxifolia	0.1	0.05	5	500.00				
+10/5/2023	T18	T18M1	Schinus_longifolius	0.23	0.094	5	408.70				
+10/5/2023	T18	T18L6	Ligustrum_lucidum	NA	NA	5	NA				
+10/5/2023	T18	T18L7	Ligustrum_lucidum	NA	NA	5	NA				
+26-10-23	T11b	T11bL1	Ligustrum_lucidum	2.31	0.645	5	279.22	0.3	0.137	5	10
+26-10-23	T19	T19C3	Scutia_buxifolia	0.18	0.107	5	594.44				
+26-10-23	T19	T19C1	Scutia_buxifolia	0.17	0.075	5	441.18				
+26-10-23	T12	T12C4	Scutia_buxifolia	0.19	0.12	5	631.58				
+26-10-23	T19	T19C4	Scutia_buxifolia	0.14	0.077	5	550.00				
+26-10-23	T12	T12C1	Scutia_buxifolia	0.34	0.21	5	617.65				
+26-10-23	T19	T19C5	Scutia_buxifolia	0.21	0.136	5	647.62				
+26-10-23	T12	T12C2	Scutia_buxifolia	0.18	0.122	5	677.78				
+26-10-23	T19	T19C2	Scutia_buxifolia	0.17	0.11	5	647.06				
+26-10-23	T12	T12C5	Scutia_buxifolia	0.24	0.129	5	537.50				
+26-10-23	T19	T19L1	Ligustrum_lucidum	5.35	1.524	5	284.86				
+26-10-23	T19	T19L3	Ligustrum_lucidum	3.96	1.287	5	325.00				
+26-10-23	T12	T12L1	Ligustrum_lucidum	5.3	1.906	5	359.62	0.203	0.12	3	6
+26-10-23	T12	T12L3	Ligustrum_lucidum	4.06	1.504	5	370.44	0.454	0.229	5	10
+26-10-23	T12	T12C3	Scutia_buxifolia	0.27	0.166	5	614.81				
+26-10-23	T12	T12L2	Ligustrum_lucidum	3.71	1.342	5	361.73	0.476	0.317	5	10
+26-10-23	T12	T12L4	Ligustrum_lucidum	4.78	1.867	5	390.59	0.247	0.149	5	10
+26-10-23	T12	T12M1	Schinus_longifolius	0.41	0.239	5	582.93				
+26-10-23	T11b	T11bL2	Ligustrum_lucidum	4.52	1.404	5	310.62	0.245	0.149	5	10
+26-10-23	T12	T12L5	Ligustrum_lucidum	5.73	2.112	5	368.59				
+26-10-23	T11b	T11bL3	Ligustrum_lucidum	3.73	1.364	5	365.68	0.146	0.083	5	10
+26-10-23	T11b	T11bC4	Scutia_buxifolia	0.21	0.144	5	685.71				
+26-10-23	T11b	T11bL5	Ligustrum_lucidum	3.05	1.119	5	366.89	0.159	0.082	5	10
+26-10-23	T11b	T11bC3	Scutia_buxifolia	0.17	0.094	5	552.94				
+26-10-23	T11b	T11bC2	Scutia_buxifolia	0.17	0.075	5	441.18				
+26-10-23	T11b	T11bC1	Scutia_buxifolia	0.16	0.09	5	562.50				
+26-10-23	T11b	T11bST1	Jodina_rhombifolia	1.07	0.492	5	459.81				
+11/9/2023	T10	T10C3	Scutia_buxifolia	0.35	0.149	5	425.71				
+11/9/2023	T11a	T11aC2	Scutia_buxifolia	0.21	0.093	5	442.86	0.335	0.126	5	6
+11/9/2023	T11a	T11aM1	Schinus_longifolius	0.34	0.141	5	414.71				
+11/9/2023	T11a	T11aC3	Scutia_buxifolia	0.2	0.096	5	480.00				
+11/9/2023	T11a	T11aC4	Scutia_buxifolia	0.21	0.096	5	457.14				
+11/9/2023	T10	T10exo1	NA	1.34	0.371	5	276.87				
+11/9/2023	T10	T10AC2	Acacia_sp	0.31	0.105	1	338.71				
+11/9/2023	T10	T10M3	Schinus_longifolius	0.32	0.153	5	478.13				
+11/9/2023	T10	T10C1	Scutia_buxifolia	0.13	0.07	5	538.46	0.306	0.039	5	3
+11/9/2023	T10	T10C2	Scutia_buxifolia	0.29	0.14	5	482.76				
+11/9/2023	T11a	T11aST3	Jodina_rhombifolia	0.91	0.408	5	448.35				
+11/9/2023	T10	T10M1	Schinus_longifolius	0.24	0.108	5	450.00				
+11/9/2023	T11a	T11aST4	Jodina_rhombifolia	0.64	0.275	5	429.69				
+11/9/2023	T10	T10C4	Scutia_buxifolia	0.13	0.065	5	500.00				
+11/9/2023	T10	T10AC3	Acacia_sp	3.2	1.163	5	363.44				
+11/9/2023	T11a	T11aC1	Scutia_buxifolia	0.27	0.139	5	514.81	0.331	0.068	5	5
+11/9/2023	T10	T10M2	Schinus_longifolius	0.19	0.093	5	489.47				
+11/9/2023	T11a	T11aST1	Jodina_rhombifolia	1.56	0.552	5	353.85				
+11/9/2023	T11a	T11aST2	Jodina_rhombifolia	0.91	0.418	5	459.34				
+11/9/2023	T11a	T11aST5	Jodina_rhombifolia	0.72	0.253	5	351.39				
+11/9/2023	T11a	T11aC5	Scutia_buxifolia	0.09	0.051	5	566.67	0.209	NA	5	NA
+11/9/2023	T10	T10L1	Ligustrum_lucidum	7.34	2.625	5	357.63				
+11/9/2023	T8	T8L4	Ligustrum_lucidum	3.38	1.084	5	320.71				
+11/9/2023	T8	T8M2	Schinus_longifolius	0.22	0.074	4	336.36				
+11/9/2023	T8	T8M1	Schinus_longifolius	0.25	0.084	5	336.00				
+11/9/2023	T8	T8C5	Scutia_buxifolia	0.26	0.129	5	496.15	0.281	0.018	5	3
+11/9/2023	T8	T8C4	Scutia_buxifolia	0.23	0.087	5	378.26				
+11/9/2023	T8	T8C3	Scutia_buxifolia	0.3	0.106	5	353.33				
+11/9/2023	T8	T8C2	Scutia_buxifolia	0.16	0.055	5	343.75				
+11/9/2023	T8	T8L1	Ligustrum_lucidum	2.74	0.876	5	319.71				
+11/9/2023	T8	T8C1	Scutia_buxifolia	0.28	0.104	5	371.43				
+11/9/2023	T8	T8L5	Ligustrum_lucidum	3.55	1.47	5	414.08				
+11/9/2023	T9	T9L2	Ligustrum_lucidum	2.01	0.658	5	327.36				
+11/9/2023	T9	T9C5	Scutia_buxifolia	0.36	0.149	5	413.89				
+11/9/2023	T9	T9M1	Schinus_longifolius	0.24	0.094	5	391.67				
+11/9/2023	T9	T9C3	Scutia_buxifolia	0.2	0.086	5	430.00				
+11/9/2023	T9	T9C1	Scutia_buxifolia	0.18	0.081	5	450.00				
+11/9/2023	T9	T9C2	Scutia_buxifolia	0.2	0.099	4	495.00	0.109	NA	2	6
+11/9/2023	T9	T9C4	Scutia_buxifolia	0.32	0.145	5	453.13				
+11/9/2023	T9	T9L1	Ligustrum_lucidum	4.18	1.537	5	367.70				
+11/9/2023	T4	T4C1	Scutia_buxifolia	0.15	0.079	5	526.67				
+11/9/2023	T4	T4C2	Scutia_buxifolia	0.2	0.129	5	645.00	0.457	0.191	5	13
+11/9/2023	T7	T7C4	Scutia_buxifolia	0.13	0.063	5	484.62				
+11/9/2023	T4	T4M1	Schinus_longifolius	0.13	0.07	5	538.46	0.36	0.215	3	10
+11/9/2023	T4	T4C3	Scutia_buxifolia	0.12	0.079	5	658.33				
+11/9/2023	T4	T4M2	Schinus_longifolius	0.13	0.077	5	592.31	0.266	0.152	5	15
+11/9/2023	T3	T3C1	Scutia_buxifolia	0.31	0.143	5	461.29				
+11/9/2023	T3	T3C3	Scutia_buxifolia	0.21	0.103	5	490.48				
+11/9/2023	T3	T3C2	Scutia_buxifolia	0.15	0.06	5	400.00	0.099	0.071	1	3
+11/9/2023	T3	T3ST1	Jodina_rhombifolia	0.67	0.278	5	414.93				
+11/9/2023	T3	T3C4	Scutia_buxifolia	0.24	0.128	5	533.33				
+11/9/2023	T3	T3C5	Scutia_buxifolia	0.19	0.112	5	589.47				
+11/9/2023	T7	T7C5	Scutia_buxifolia	0.35	0.125	5	357.14				
+11/9/2023	T3	T3ST2	Jodina_rhombifolia	1.84	0.84	5	456.52				
+11/9/2023	T5	T5C5	Scutia_buxifolia	0.35	0.174	5	497.14				
+11/9/2023	T5	T5C4	Scutia_buxifolia	0.16	0.094	5	587.50				
+11/9/2023	T5	T5C3	Scutia_buxifolia	0.39	0.194	5	497.44				
+11/9/2023	T5	T5C2	Scutia_buxifolia	0.41	0.188	5	458.54				
+11/9/2023	T5	T5C1	Scutia_buxifolia	0.21	0.113	5	538.10				
+11/9/2023	T5	T5ST1	Jodina_rhombifolia	0.93	0.384	5	412.90				
+11/9/2023	T5	T5ST2	Jodina_rhombifolia	0.56	0.263	5	469.64				
+11/9/2023	T5	T5ST3	Jodina_rhombifolia	1.42	0.384	5	270.42				
+11/9/2023	T1	T1C5	Scutia_buxifolia	0.13	0.073	5	561.54	0.375	0.187	5	14
+11/9/2023	T1	T1C4	Scutia_buxifolia	0.17	0.1	5	588.24				
+11/9/2023	T6	T6C4	Scutia_buxifolia	0.25	0.132	5	528.00				
+11/9/2023	T6	T6C5	Scutia_buxifolia	0.32	0.189	5	590.63	0.125	0.061	1	3
+11/9/2023	T2	T2C4	Scutia_buxifolia	0.19	0.125	5	657.89				
+11/9/2023	T2	T2C5	Scutia_buxifolia	0.19	0.108	5	568.42	0.913	0.57	5	14
+30-11-23	L25	L25L1	Ligustrum_lucidum	3.55	0.841	5	236.90				
+30-11-23	L25	L25L2	Ligustrum_lucidum	0.77	0.185	5	240.26				
+30-11-23	L25	L25L3	Ligustrum_lucidum	1.93	0.431	5	223.32				
+30-11-23	L25	L25L4	Ligustrum_lucidum	1.46	0.386	5	264.38				
+30-11-23	L25	L25L5	Ligustrum_lucidum	2.56	0.634	5	247.66				
+30-11-23	L21	L21L5	Ligustrum_lucidum	1.69	0.455	5	269.23				
+30-11-23	L21	L21AR1	Acer_sp	1.51	0.349	5	231.13				
+30-11-23	L21	L21L4	Ligustrum_lucidum	4.02	1.127	5	280.35				
+30-11-23	L21	L21L3	Ligustrum_lucidum	1.39	0.442	5	317.99				
+30-11-23	L21	L21L2	Ligustrum_lucidum	2.47	0.796	5	322.27				
+30-11-23	L21	L21L1	Ligustrum_lucidum	1.39	0.382	5	274.82				
+30-11-23	L22	L22E2	Eucalyptus_sp	2.45	0.727	5	296.73				
+30-11-23	L22	L22E1	Eucalyptus_sp	4.52	1.285	5	284.29				
+30-11-23	L22	L22L1	Ligustrum_lucidum	1.25	0.369	5	295.20				
+30-11-23	L22	L22L3	Ligustrum_lucidum	3.23	0.871	5	269.66				
+30-11-23	L22	L22L4	Ligustrum_lucidum	2.96	0.84	5	283.78				
+30-11-23	L22	L22L5	Ligustrum_lucidum	2.96	0.881	5	297.64				
+30-11-23	L22	L22L2	Ligustrum_lucidum	1.79	0.419	5	234.08				
+30-11-23	L24	L24L1	Ligustrum_lucidum	2.54	0.703	5	276.77				
+30-11-23	L24	L24L2	Ligustrum_lucidum	2.55	0.691	5	270.98				
+30-11-23	L24	L24L3	Ligustrum_lucidum	3.46	0.939	5	271.39				
+30-11-23	L24	L24L4	Ligustrum_lucidum	3.25	0.951	5	292.62				
+30-11-23	L24	L24L5	Ligustrum_lucidum	2.11	0.476	5	225.59				
+30-11-23	L23	L23AR1	Acer_sp	2.13	0.488	5	229.11				
+30-11-23	L23	L23L1	Ligustrum_lucidum	4.1	1.385	5	337.80				
+30-11-23	L23	L23L2	Ligustrum_lucidum	4.14	0.824	5	199.03				
+30-11-23	L23	L23L3	Ligustrum_lucidum	1.87	0.449	5	240.11				
+30-11-23	L23	L23L4	Ligustrum_lucidum	2.26	0.62	5	274.34				
+30-11-23	L23	L23L5	Ligustrum_lucidum	1.94	0.557	5	287.11				
+12/11/2023	T9	T9T1	Celtis_tala	0.32	0.124	5	387.50				
+12/11/2023	T9	T9T2	Celtis_tala	0.33	0.109	5	330.30				
+12/11/2023	T9	T9T3	Celtis_tala	0.25	0.09	5	360.00				
+12/11/2023	T10	T10T1	Celtis_tala	0.42	0.181	5	430.95				
+12/11/2023	T11	T11T1	Celtis_tala	0.34	0.094	5	276.47				
+12/12/2023	T17	T17T1	Celtis_tala	0.24	0.086	5	358.33				
+12/12/2023	T17	T17T2	Celtis_tala	0.15	0.054	5	360.00				
+12/12/2023	T17	T17T3	Celtis_tala	0.24	0.093	5	387.50				
+12/12/2023	T18	T18T1	Celtis_tala	0.34	0.092	5	270.59				
+12/12/2023	T18	T18T2	Celtis_tala	0.45	0.122	5	271.11				
+12/12/2023	T18	T18T3	Celtis_tala	0.61	0.162	5	265.57				
+12/12/2023	T19	T19T1	Celtis_tala	0.44	0.131	5	297.73				
+12/12/2023	T19	T19T2	Celtis_tala	0.2	0.067	5	335.00				
+12/12/2023	T19	T19T3	Celtis_tala	0.66	0.178	5	269.70				
+12/12/2023	T19	T19T4	Celtis_tala	0.62	0.147	5	237.10				
+12/12/2023	T19	T19T5	Celtis_tala	0.61	0.123	5	201.64				
+12/12/2023	T20	T20T1	Celtis_tala	0.52	0.158	5	303.85				
+12/12/2023	T20	T20T2	Celtis_tala	0.55	0.176	5	320.00				
+12/12/2023	T20	T20T3	Celtis_tala	0.64	0.185	5	289.06				
+12/12/2023	T20	T20T4	Celtis_tala	0.97	0.232	5	239.18				
+12/12/2023	T20	T20T5	Celtis_tala	0.9	0.209	5	232.22				
+12/12/2023	T21	T21T1	Celtis_tala	0.3	0.111	5	370.00				
+12/12/2023	T21	T21T2	Celtis_tala	0.42	0.148	5	352.38				
+12/12/2023	T21	T21T3	Celtis_tala	0.29	0.083	5	286.21				
+12/12/2023	T21	T21T4	Celtis_tala	0.58	0.142	5	244.83				
+12/12/2023	T22	T22T1	Celtis_tala	0.26	0.085	5	326.92				
+12/12/2023	T22	T22T2	Celtis_tala	0.27	0.108	5	400.00				
+12/12/2023	T23	T23T1	Celtis_tala	0.26	0.06	5	230.77				
+12/12/2023	T23	T23T2	Celtis_tala	0.24	0.052	5	216.67				
+12/12/2023	T23	T23T3	Celtis_tala	0.45	0.097	5	215.56				
+12/12/2023	T23	T23T4	Celtis_tala	0.22	0.093	5	422.73				
+12/12/2023	T23	T23T5	Celtis_tala	0.26	0.105	5	403.85				
+12/12/2023	L12	L12L1	Ligustrum_lucidum	1.09	0.239	5	219.27				
+12/12/2023	L12	L12L2	Ligustrum_lucidum	3.29	0.745	5	226.44				
+12/12/2023	L12	L12L3	Ligustrum_lucidum	2.71	0.61	5	225.09				
+12/12/2023	L12	L12L4	Ligustrum_lucidum	1.35	0.276	5	204.44				
+12/12/2023	L12	L12L5	Ligustrum_lucidum	1.66	0.389	5	234.34				
+12/12/2023	L14	L14AR1	Acer_sp	1.47	0.273	5	185.71				
+12/12/2023	L14	L14AR2	Acer_sp	1.41	0.248	5	175.89				
+12/12/2023	L14	L14AR3	Acer_sp	1.52	0.271	5	178.29				
+12/12/2023	L14	L14L1	Ligustrum_lucidum	2.16	0.473	5	218.98				
+12/12/2023	L14	L14L2	Ligustrum_lucidum	1.43	0.299	5	209.09				
+12/12/2023	L14	L14L3	Ligustrum_lucidum	2.88	0.67	5	232.64				
+12/12/2023	L14	L14L4	Ligustrum_lucidum	1.4	0.293	5	209.29				
+12/12/2023	L14	L14L5	Ligustrum_lucidum	3.55	0.776	5	218.59				
+12/12/2023	L13	L13L1	Ligustrum_lucidum	0.97	0.203	5	209.28				
+12/12/2023	L13	L13L2	Ligustrum_lucidum	6.27	1.161	5	185.17				
+12/12/2023	L13	L13L3	Ligustrum_lucidum	0.74	0.156	5	210.81				
+12/12/2023	L13	L13L4	Ligustrum_lucidum	2.58	0.527	5	204.26				
+12/12/2023	L13	L13L5	Ligustrum_lucidum	1.17	0.24	5	205.13				
+14-12-23	T25	T25T5	Celtis_tala	0.26	0.118	5	453.85				
+14-12-23	T26	T26T1	Celtis_tala	0.4	0.133	5	332.50				
+14-12-23	T26	T26T2	Celtis_tala	0.21	0.093	5	442.86				
+14-12-23	T26	T26T3	Celtis_tala	0.28	0.103	5	367.86				
+14-12-23	T26	T26T4	Celtis_tala	0.2	0.084	5	420.00				
+14-12-23	T26	T26T5	Celtis_tala	0.25	0.086	5	344.00				
+14-12-23	T27	T27T1	Celtis_tala	0.27	0.12	5	444.44				
+14-12-23	T27	T27T2	Celtis_tala	0.25	0.102	5	408.00				
+14-12-23	T27	T27T3	Celtis_tala	0.29	0.113	5	389.66				
+14-12-23	T28	T28T1	Celtis_tala	0.24	0.084	5	350.00				
+14-12-23	T28	T28T2	Celtis_tala	0.38	0.138	5	363.16				
+14-12-23	T28	T28T3	Celtis_tala	0.39	0.133	5	341.03				
+14-12-23	T28	T28T4	Celtis_tala	0.4	0.145	5	362.50				
+14-12-23	T28	T28T5	Celtis_tala	0.36	0.125	5	347.22				
+14-12-23	T29	T29T1	Celtis_tala	0.47	0.19	5	404.26				
+14-12-23	T29	T29T2	Celtis_tala	0.33	0.143	5	433.33				
+14-12-23	T29	T29T3	Celtis_tala	0.31	0.132	5	425.81				
+14-12-23	T29	T29T4	Celtis_tala	0.41	0.167	5	407.32				
+14-12-23	T29	T29T5	Celtis_tala	0.31	0.102	5	329.03				
+14-12-23	T30	T30T1	Celtis_tala	0.5	0.19	5	380.00				
+14-12-23	T30	T30T2	Celtis_tala	0.35	0.133	5	380.00				
+14-12-23	T30	T30T3	Celtis_tala	0.56	0.236	5	421.43				
+14-12-23	T30	T30T4	Celtis_tala	0.26	0.096	5	369.23				
+14-12-23	T30	T30T5	Celtis_tala	0.37	0.144	5	389.19				
+14-12-23	T31	T31T1	Celtis_tala	0.32	0.133	5	415.63				
+14-12-23	T31	T31T2	Celtis_tala	0.17	0.059	5	347.06				
+14-12-23	T31	T31T3	Celtis_tala	0.28	0.117	5	417.86				
+14-12-23	T31	T31T4	Celtis_tala	0.26	0.113	5	434.62				
+14-12-23	T31	T31T5	Celtis_tala	0.43	0.196	5	455.81				
+15-12-23	L16	L16L1	Ligustrum_lucidum	2.72	0.489	5	179.78				
+15-12-23	L16	L16L2	Ligustrum_lucidum	1.32	0.27	5	204.55				
+15-12-23	L16	L16L3	Ligustrum_lucidum	2.5	0.478	5	191.20				
+15-12-23	L16	L16L4	Ligustrum_lucidum	1.69	0.333	5	197.04				
+15-12-23	L16	L16L5	Ligustrum_lucidum	1.96	0.332	5	169.39				
+15-12-23	L17	L17L1	Ligustrum_lucidum	2.54	0.699	5	275.20				
+15-12-23	L17	L17L2	Ligustrum_lucidum	2.76	0.642	4	232.61				
+15-12-23	L17	L17L3	Ligustrum_lucidum	1.9	0.549	5	288.95				
+15-12-23	L17	L17L4	Ligustrum_lucidum	1.3	0.38	5	292.31				
+15-12-23	L17	L17L5	Ligustrum_lucidum	1.94	0.547	5	281.96				
+15-12-23	L17	L17MO1	Morus_alba	5.75	1.548	5	269.22				
+15-12-23	L18	L18L1	Ligustrum_lucidum	1.22	0.258	5	211.48				
+15-12-23	L18	L18L2	Ligustrum_lucidum	1.38	0.284	5	205.80				
+15-12-23	L18	L18L3	Ligustrum_lucidum	4.6	1.023	5	222.39				
+15-12-23	L18	L18L4	Ligustrum_lucidum	1.75	0.348	5	198.86				
+15-12-23	L18	L18L5	Ligustrum_lucidum	2.47	0.621	5	251.42				
+15-12-23	L18	L18P1	Ligustrum_lucidum	0.6	0.111	5	185.00				
+15-12-23	L19	L19L1	Ligustrum_lucidum	1.77	0.5	5	282.49				
+15-12-23	L19	L19L2	Ligustrum_lucidum	2.28	0.535	5	234.65				
+15-12-23	L19	L19L3	Ligustrum_lucidum	2.6	0.634	5	243.85				
+15-12-23	L19	L19L4	Ligustrum_lucidum	4.43	0.979	5	220.99				
+15-12-23	L19	L19L5	Ligustrum_lucidum	2.83	0.61	5	215.55				
+16-12-23	L42	L42LT1	Ligustrum_sinense	2.61	0.298	5	114.18				
+16-12-23	L42	L42LT2	Ligustrum_sinense	2.74	0.343	5	125.18				
+16-12-23	L42	L42AR1	Acer_sp	1.33	0.285	5	214.29				
+16-12-23	L42	L42L1	Ligustrum_lucidum	0.92	0.197	5	214.13				
+16-12-23	L42	L42L2	Ligustrum_lucidum	2	0.432	5	216.00				
+16-12-23	L42	L42L3	Ligustrum_lucidum	1.99	0.538	5	270.35				
+16-12-23	L42	L42L4	Ligustrum_lucidum	2.65	0.693	5	261.51				
+16-12-23	L42	L42L5	Ligustrum_lucidum	1.39	0.362	5	260.43				
+16-12-23	L43	L43L1	Ligustrum_lucidum	0.89	0.194	5	217.98				
+16-12-23	L43	L43L2	Ligustrum_lucidum	1.05	0.306	5	291.43				
+16-12-23	L43	L43L3	Ligustrum_lucidum	1.41	0.308	5	218.44				
+16-12-23	L43	L43L4	Ligustrum_lucidum	2.84	0.643	5	226.41				
+16-12-23	L43	L43L5	Ligustrum_lucidum	3.77	0.913	5	242.18				
+16-12-23	L43	L43E1	Eucalyptus_sp	1.09	0.516	5	473.39				
+16-12-23	L43	L43E2	Eucalyptus_sp	1.08	0.52	5	481.48				
+16-12-23	L43	L43AR1	Acer_sp	2.94	0.668	5	227.21				
+16-12-23	L45	L45FAB1	NA	0.35	0.111	5	317.14				
+16-12-23	L46	L46L1	Ligustrum_lucidum	2.87	0.523	5	182.23				
+16-12-23	L46	L46L2	Ligustrum_lucidum	3.91	0.899	5	229.92				
+16-12-23	L46	L46L3	Ligustrum_lucidum	2.35	0.446	5	189.79				
+16-12-23	L46	L46L4	Ligustrum_lucidum	5.33	0.857	5	160.79				
+16-12-23	L46	L46L5	Ligustrum_lucidum	2.07	0.443	5	214.01				
+16-12-23	L47	L47L1	Ligustrum_lucidum	6.07	1.524	5	251.07				
+16-12-23	L47	L47L2	Ligustrum_lucidum	2.95	0.781	5	264.75				
+16-12-23	L30	L30L1	Ligustrum_lucidum	2.58	0.656	5	254.26				
+16-12-23	L30	L30L2	Ligustrum_lucidum	1.47	0.344	5	234.01				
+16-12-23	L30	L30L3	Ligustrum_lucidum	2.34	0.585	5	250.00				
+16-12-23	L30	L30L4	Ligustrum_lucidum	2.59	0.633	5	244.40				
+16-12-23	L30	L30L5	Ligustrum_lucidum	1.3	0.322	5	247.69				
+16-12-23	L31	L31L1	Ligustrum_lucidum	3.03	0.684	5	225.74				
+16-12-23	L31	L31L2	Ligustrum_lucidum	3.13	0.807	5	257.83				
+16-12-23	L31	L31L3	Ligustrum_lucidum	3	0.762	5	254.00				
+16-12-23	L31	L31L4	Ligustrum_lucidum	3.11	0.763	5	245.34				
+16-12-23	L31	L31L5	Ligustrum_lucidum	3.28	0.751	5	228.96				
+16-12-23	L32	L32L1	Ligustrum_lucidum	1.26	0.273	4	216.67				
+16-12-23	L32	L32L2	Ligustrum_lucidum	1.56	0.354	5	226.92				
+16-12-23	L32	L32L3	Ligustrum_lucidum	2.19	0.558	5	254.79				
+16-12-23	L32	L32L4	Ligustrum_lucidum	1.84	0.466	5	253.26				
+16-12-23	L32	L32L5	Ligustrum_lucidum	2.34	0.589	5	251.71				
+16-12-23	L32	L32C1	Scutia_buxifolia	1.11	0.247	5	222.52				
+16-12-23	L32	L32C2	Scutia_buxifolia	0.46	0.198	5	430.43				
+18-12-23	L50	L50NA1	NA	2.85	0.666	5	233.68				
+18-12-23	L51	L51L3	Ligustrum_lucidum	3.42	0.606	5	177.19				
+18-12-23	L48	L48L1	Ligustrum_lucidum	2.57	0.606	5	235.80				
+18-12-23	L48	L48L2	Ligustrum_lucidum	2.48	0.581	5	234.27				
+18-12-23	L48	L48L3	Ligustrum_lucidum	2.4	0.533	5	222.08				
+18-12-23	L48	L48L4	Ligustrum_lucidum	3	0.683	5	227.67				
+18-12-23	L48	L48L5	Ligustrum_lucidum	3.17	0.79	5	249.21				
+18-12-23	L48	L48AR1	Acer_sp	2.11	0.423	5	200.47				
+18-12-23	L48	L48NA1	NA	1.19	0.295	5	247.90				
+18-12-23	L49	L49AR1	Acer_sp	1.89	0.413	5	218.52				
+18-12-23	L49	L49AR2	Acer_sp	1.88	0.395	5	210.11				
+18-12-23	L49	L49AR3	Acer_sp	3.14	0.668	5	212.74				
+18-12-23	L49	L49AR4	Acer_sp	1.13	0.228	5	201.77				
+18-12-23	L49	L49NA11	NA	4.27	0.899	5	210.54				
+18-12-23	L49	L49L1	Ligustrum_lucidum	1.73	0.36	5	208.09				
+18-12-23	L49	L49L2	Ligustrum_lucidum	3.82	0.939	5	245.81				
+18-12-23	L49	L49L3	Ligustrum_lucidum	3.84	1.078	5	280.73				
+18-12-23	L49	L49L4	Ligustrum_lucidum	2.33	0.47	5	201.72				
+18-12-23	L49	L49L5	Ligustrum_lucidum	1.61	0.313	5	194.41				
+18-12-23	L51	L51L1	Ligustrum_lucidum	2.33	0.481	5	206.44				
+18-12-23	L51	L51L2	Ligustrum_lucidum	1.81	0.351	5	193.92				
+18-12-23	L51	L51L4	Ligustrum_lucidum	1.37	0.207	5	151.09				
+18-12-23	L51	L51L5	Ligustrum_lucidum	3.47	0.756	5	217.87				
+18-12-23	L52	L52L1	Ligustrum_lucidum	4.09	1.001	5	244.74				
+18-12-23	L52	L52L2	Ligustrum_lucidum	2.63	0.653	5	248.29				
+18-12-23	L52	L52L3	Ligustrum_lucidum	4.09	0.9	5	220.05				
+18-12-23	L52	L52L4	Ligustrum_lucidum	4.59	0.976	5	212.64				
+18-12-23	L52	L52L5	Ligustrum_lucidum	1.59	0.368	5	231.45				
+18-12-23	L52	L52AL1	Populus_alba	5.66	1.831	5	323.50				
+18-12-23	L52	L52E1	Eucalyptus_sp	1.24	0.404	5	325.81				
+18-12-23	L41	L41L1	Ligustrum_lucidum	1.62	0.553	5	341.36				
+18-12-23	L41	L41L2	Ligustrum_lucidum	2.48	0.652	5	262.90				
+18-12-23	L41	L41L4	Ligustrum_lucidum	2.69	0.739	4	274.72				
+18-12-23	L41	L41L5	Ligustrum_lucidum	3.84	0.844	5	219.79				
+18-12-23	L52	L52CA1	Catalpa_speciosa	20.18	5.111	3	253.27				
+20-12-23	L33	L33L2	Ligustrum_lucidum	1.518	0.545	5	359.03				
+20-12-23	L40	L40L3	Ligustrum_lucidum	3.476	1.155	5	332.28				
+20-12-23	L34	L34C2	Scutia_buxifolia	0.144	0.11	5	763.89				
+20-12-23	L34	L34C1	Scutia_buxifolia	0.146	0.107	4	732.88				
+20-12-23	L34	L34L3	Ligustrum_lucidum	2.663	0.812	5	304.92				
+20-12-23	L34	L34L1	Ligustrum_lucidum	0.39	0.171	5	438.46				
+20-12-23	L34	L34T1	Celtis_tala	0.304	0.161	5	529.61				
+20-12-23	L34	L34L4	Ligustrum_lucidum	1.53	0.53	5	346.41				
+20-12-23	L34	L34ST1	Jodina_rhombifolia	0.29	0.114	2	393.10				
+20-12-23	L34	L34C3	Scutia_buxifolia	0.319	0.176	5	551.72				
+20-12-23	L34	L34C4	Scutia_buxifolia	0.149	0.124	5	832.21				
+20-12-23	T32	T32T1	Celtis_tala	0.285	0.096	5	336.84				
+20-12-23	T32	T32T2	Celtis_tala	0.236	0.104	5	440.68				
+20-12-23	T32	T32T3	Celtis_tala	0.193	0.071	5	367.88				
+20-12-23	T32	T32T4	Celtis_tala	2.37	0.117	5	49.37				
+20-12-23	T32	T32T5	Celtis_tala	0.252	0.103	5	408.73				
+20-12-23	T33	T33T1	Celtis_tala	0.359	0.182	5	506.96				
+20-12-23	T33	T33T2	Celtis_tala	0.237	0.125	5	527.43				
+20-12-23	T33	T33T3	Celtis_tala	0.329	0.13	5	395.14				
+20-12-23	T33	T33T4	Celtis_tala	0.309	0.129	5	417.48				
+20-12-23	T33	T33T5	Celtis_tala	0.173	0.072	5	416.18				
+20-12-23	T34	T34T1	Celtis_tala	0.245	0.114	5	465.31				
+20-12-23	T34	T34T2	Celtis_tala	0.22	0.108	5	490.91				
+20-12-23	T34	T34T3	Celtis_tala	0.242	0.123	5	508.26				
+20-12-23	T34	T34T4	Celtis_tala	0.201	0.095	5	472.64				
+20-12-23	T34	T34T5	Celtis_tala	0.232	0.107	5	461.21				
+20-12-23	T35	T35T1	Celtis_tala	0.177	0.094	5	531.07				
+20-12-23	T35	T35T2	Celtis_tala	0.239	0.136	5	569.04				
+20-12-23	T35	T35T3	Celtis_tala	0.272	0.114	5	419.12				
+20-12-23	T35	T35T4	Celtis_tala	0.303	0.163	5	537.95				
+16-2-24	T38	T38T1	Celtis_tala	0.16	0.066	5	412.50				
+16-2-24	T38	T38T2	Celtis_tala	0.33	0.173	5	524.24				
+16-2-24	T38	T38T3	Celtis_tala	0.32	0.133	5	415.63				
+16-2-24	T38	T38T4	Celtis_tala	0.49	0.21	5	428.57				
+16-2-24	T38	T38T5	Celtis_tala	0.22	0.09	5	409.09				
+16-2-24	T39	T39T1	Celtis_tala	0.23	0.123	5	534.78				
+16-2-24	T39	T39T2	Celtis_tala	0.27	0.115	5	425.93				
+16-2-24	T39	T39T3	Celtis_tala	0.22	0.102	5	463.64				
+16-2-24	T39	T39T4	Celtis_tala	0.13	0.082	5	630.77				
+16-2-24	T39	T39T5	Celtis_tala	0.33	0.137	5	415.15				
+16-2-24	T40	T40T1	Celtis_tala	0.3	0.151	5	503.33				
+16-2-24	T40	T40T2	Celtis_tala	0.17	0.104	5	611.76				
+16-2-24	T40	T40T3	Celtis_tala	0.27	0.12	5	444.44				
+16-2-24	T40	T40T4	Celtis_tala	0.42	0.218	5	519.05				
+16-2-24	T41	T41T1	Celtis_tala	0.31	0.122	5	393.55				
+16-2-24	T41	T41T2	Celtis_tala	0.17	0.072	5	423.53				
+16-2-24	T41	T41T3	Celtis_tala	0.3	0.088	5	293.33				
+16-2-24	T41	T41T4	Celtis_tala	0.35	0.188	5	537.14				
+16-2-24	T41	T41T5	Celtis_tala	0.14	0.055	5	392.86				
+16-2-24	T41	T41O1	Phytolacca_dioica	3.21	0.645	5	200.93				
+16-2-24	T42	T42T1	Celtis_tala	0.17	0.101	5	594.12				
+16-2-24	T42	T42T2	Celtis_tala	0.23	0.107	5	465.22				
+16-2-24	T42	T42T3	Celtis_tala	0.38	0.112	5	294.74				
+16-2-24	T44	T44T1	Celtis_tala	0.23	0.109	5	473.91				
+16-2-24	T44	T44T2	Celtis_tala	0.3	0.128	5	426.67				
+16-2-24	T44	T44T3	Celtis_tala	0.24	0.117	5	487.50				
+16-2-24	T44	T44T4	Celtis_tala	0.29	0.13	5	448.28				
+16-2-24	T44	T44T5	Celtis_tala	0.52	0.22	5	423.08				
+16-2-24	T46	T46T1	Celtis_tala	0.39	0.152	5	389.74				
+16-2-24	T46	T46T2	Celtis_tala	0.3	0.112	5	373.33				
+16-2-24	T46	T46T3	Celtis_tala	0.45	0.191	5	424.44				
+16-2-24	T46	T46T4	Celtis_tala	0.65	0.26	5	400.00				
+16-2-24	T46	T46T5	Celtis_tala	0.58	0.267	5	460.34				
+16-2-24	T3	T3T1	Celtis_tala	0.41	0.197	5	480.49				
+16-2-24	T3	T3T2	Celtis_tala	0.42	0.164	5	390.48				
+16-2-24	T2	T2T1	Celtis_tala	0.54	0.181	5	335.19				
+16-2-24	T3	T3T3	Celtis_tala	0.43	0.111	5	258.14				
+16-2-24	T5	T5T1	Celtis_tala	0.69	0.264	5	382.61				
+16-2-24	T5	T5T2	Celtis_tala	0.83	0.276	5	332.53				
+16-2-24	T5	T5T3	Celtis_tala	0.35	0.132	5	377.14				
+16-2-24	T5	T5T4	Celtis_tala	0.25	0.11	5	440.00				
+16-2-24	T5	T5T5	Celtis_tala	0.41	0.147	5	358.54				
+16-2-24	T5	T5S1	Sambucus_australis	0.7	0.168	5	240.00				
+16-2-24	T6	T6T1	Celtis_tala	0.39	0.173	5	443.59				
+16-2-24	T6	T6T2	Celtis_tala	0.43	0.118	5	274.42				
+16-2-24	T6	T6T3	Celtis_tala	0.35	0.157	5	448.57				
+16-2-24	L26	L26L1	Ligustrum_lucidum	2.11	0.638	4	302.37				
+16-2-24	L26	L26L3	Ligustrum_lucidum	2.75	0.836	5	304.00				
+16-2-24	L27	L27L1	Ligustrum_lucidum	1.74	0.414	5	237.93				
+16-2-24	L27	L27L2	Ligustrum_lucidum	2.64	0.915	5	346.59				
+16-2-24	L27	L27L3	Ligustrum_lucidum	3.04	0.985	5	324.01				
+16-2-24	L27	L27L4	Ligustrum_lucidum	2.42	0.723	5	298.76				
+16-2-24	L27	L27L5	Ligustrum_lucidum	3.98	1.397	5	351.01				
+16-2-24	L28	L28L1	Ligustrum_lucidum	2.2	0.663	5	301.36				
+16-2-24	L28	L28L2	Ligustrum_lucidum	2.01	0.58	5	288.56				
+16-2-24	L28	L28L4	Ligustrum_lucidum	1.15	0.273	5	237.39				
+16-2-24	L28	L28L5	Ligustrum_lucidum	2.51	0.7	5	278.88				
+16-2-24	L29	L29L3	Ligustrum_lucidum	2.98	0.932	5	312.75				
+16-2-24	L29	L29L4	Ligustrum_lucidum	1.76	0.533	5	302.84				
+16-2-24	L29	L29L5	Ligustrum_lucidum	1.96	0.526	5	268.37				
+3/3/2024	L15	L15OL1	Ulmus_populus	2.7	0.873	5	323.33				
+3/3/2024	L15	L15OL3	Ulmus_populus	1.66	0.548	5	330.12				
+3/3/2024	L15	L15F1	Fraxinus_sp	1.68	0.457	4	272.02				
+3/3/2024	L15	L15L6	Ligustrum_lucidum	1.85	0.594	5	321.08				
+3/3/2024	L15	L15L7	Ligustrum_lucidum	3.69	1.122	5	304.07				
+3/3/2024	L11	L11L1	Ligustrum_lucidum	3.04	0.956	5	314.47				
+3/3/2024	L11	L11L2	Ligustrum_lucidum	1.44	0.429	5	297.92				
+3/3/2024	L11	L11L3	Ligustrum_lucidum	1.21	0.339	5	280.17				
+3/3/2024	L11	L11L4	Ligustrum_lucidum	1.7	0.461	5	271.18				
+3/3/2024	L39	L39AR1	Acer_sp	1.92	0.231	5	120.31				
+3/3/2024	L39	L39L1	Ligustrum_lucidum	0.84	0.252	5	300.00				
+3/3/2024	L39	L39L2	Ligustrum_lucidum	3.36	1.125	5	334.82				
+3/3/2024	L39	L39L3	Ligustrum_lucidum	0.82	0.241	5	293.90				
+3/3/2024	L39	L39L4	Ligustrum_lucidum	1.42	0.411	5	289.44				
+3/3/2024	L39	L39L5	Ligustrum_lucidum	1.3	0.386	5	296.92				
+3/3/2024	L38	L38L2	Ligustrum_lucidum	2.39	0.66	5	276.15				
+3/3/2024	L38	L38L4	Ligustrum_lucidum	1.1	0.304	5	276.36				
+3/3/2024	L38	L38L5	Ligustrum_lucidum	1.3	0.408	5	313.85				
+3/3/2024	L37	L37ST1	Jodina_rhombifolia	1.94	0.705	5	363.40				
+3/3/2024	L37	L37C1	Scutia_buxifolia	0.27	0.144	5	533.33				
+3/3/2024	L37	L37L1	Ligustrum_lucidum	2.09	0.674	5	322.49				
+3/3/2024	L37	L37L3	Ligustrum_lucidum	2.74	0.673	5	245.62				
+3/3/2024	L37	L37L5	Ligustrum_lucidum	1.83	0.629	5	343.72				
+3/3/2024	L36	L36L4	Ligustrum_lucidum	1.46	0.456	5	312.33				
+3/3/2024	L36	L36L2	Ligustrum_lucidum	0.68	0.173	5	254.41				
+3/3/2024	L36	L36L5	Ligustrum_lucidum	1.83	0.566	5	309.29				
+3/3/2024	L35	L35L3	Ligustrum_lucidum	1.49	0.478	5	320.81				
+3/3/2024	L35	L35L4	Ligustrum_lucidum	2.23	0.704	5	315.70				
+3/3/2024	L35	L35L5	Ligustrum_lucidum	0.83	0.243	5	292.77				
+3/8/2024	L20	L20L1	Ligustrum_lucidum	2.26	0.611	5	270.35				
+3/8/2024	L20	L20L2	Ligustrum_lucidum	4.96	1.359	5	273.99				
+3/8/2024	L20	L20L5	Ligustrum_lucidum	2.83	0.769	5	271.73				
+3/8/2024	T24	T24TN1	Celtis_australis	2.21	1.511	5	683.71				
+3/8/2024	T37	T37T1	Celtis_tala	0.24	0.132	5	550.00				
+3/8/2024	T37	T37T2	Celtis_tala	0.32	0.145	5	453.13				
+3/8/2024	T49	T49T1	Celtis_tala	0.43	0.202	5	469.77				
+3/8/2024	T49	T49T2	Celtis_tala	0.48	0.129	5	268.75				
+3/8/2024	T49	T49T3	Celtis_tala	0.44	0.179	5	406.82				
+3/8/2024	T49	T49T4	Celtis_tala	0.36	0.17	5	472.22				
+3/8/2024	T49	T49T5	Celtis_tala	0.39	0.19	5	487.18				
+3/8/2024	T51	T51T1	Celtis_tala	0.53	0.243	5	458.49				
+3/8/2024	T51	T51T2	Celtis_tala	0.36	0.165	5	458.33				
+3/8/2024	T51	T51T3	Celtis_tala	0.55	0.179	5	325.45				
+3/8/2024	T51	T51T4	Celtis_tala	0.52	0.181	5	348.08				
+3/8/2024	T51	T51T5	Celtis_tala	0.59	0.164	5	277.97				
+3/8/2024	T52	T52T1	Celtis_tala	0.47	0.132	5	280.85				
+3/8/2024	T52	T52T2	Celtis_tala	0.31	0.115	5	370.97				
+3/8/2024	T52	T52T3	Celtis_tala	0.55	0.184	5	334.55				
+3/8/2024	T52	T52T4	Celtis_tala	0.5	0.14	5	280.00				
+3/8/2024	T52	T52T5	Celtis_tala	0.25	0.087	5	348.00				
+3/8/2024	T47	T47T1	Celtis_tala	0.51	0.238	5	466.67				
+3/8/2024	T47	T47T2	Celtis_tala	0.38	0.18	5	473.68				
+3/8/2024	T47	T47T3	Celtis_tala	0.47	0.206	5	438.30				
+3/8/2024	T47	T47T4	Celtis_tala	0.59	0.262	5	444.07				
+3/8/2024	T47	T47T5	Celtis_tala	0.38	0.171	5	450.00				
+3/8/2024	T48	T48T1	Celtis_tala	0.49	0.126	5	257.14				
+3/8/2024	T48	T48T2	Celtis_tala	0.34	0.103	5	302.94				
+3/8/2024	T48	T48T3	Celtis_tala	0.37	0.117	5	316.22				
+3/8/2024	T48	T48T4	Celtis_tala	0.41	0.21	5	512.20				
+3/8/2024	T48	T48T5	Celtis_tala	0.53	0.154	5	290.57				
+3/8/2024	T50	T50T1	Celtis_tala	0.35	0.2	5	571.43				
+3/8/2024	T50	T50T2	Celtis_tala	0.42	0.153	5	364.29				
+3/8/2024	T50	T50T3	Celtis_tala	0.44	0.141	5	320.45				
+3/8/2024	T50	T50T4	Celtis_tala	0.42	0.194	5	461.90				
+3/8/2024	T50	T50T5	Celtis_tala	0.51	0.208	5	407.84				
+3/8/2024	T45	T45T1	Celtis_tala	0.24	0.097	4	404.17				
+3/8/2024	T45	T45T2	Celtis_tala	0.43	0.2	5	465.12				
+3/8/2024	T45	T45T3	Celtis_tala	0.56	0.185	5	330.36				
+3/8/2024	T45	T45T4	Celtis_tala	0.4	0.173	5	432.50				
+3/8/2024	T45	T45T5	Celtis_tala	0.81	0.229	5	282.72				
+3/8/2024	T43	T43T1	Celtis_tala	0.46	0.23	5	500.00				
+3/8/2024	T43	T43T2	Celtis_tala	0.19	0.068	5	357.89				
+3/8/2024	T43	T43T3	Celtis_tala	0.2	0.072	5	360.00				
+3/8/2024	T43	T43T5	Celtis_tala	0.31	0.108	5	348.39				
+						3623					
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											

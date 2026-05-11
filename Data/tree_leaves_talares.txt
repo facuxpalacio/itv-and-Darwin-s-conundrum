@@ -1,0 +1,1000 @@
+habitat	treeID	date	pointID	plant_species	wet_mass_g	dry_mass_g	N_leaves	dist_obs_m	slope_deg	height	observer	height_eyes_m
+invaded	L10C1	27-7-23	L10	Scutia_buxifolia	NA	NA	NA	2.38	160	8.07	Agus	1.53
+invaded	L10C2	27-7-23	L10	Scutia_buxifolia	NA	NA	NA	3.7	163	13.63	Agus	1.53
+invaded	L10C3	27-7-23	L10	Scutia_buxifolia	0.26	0.125	5	4.14	160	12.9	Agus	1.53
+invaded	L10L1	27-7-23	L10	Ligustrum_lucidum	NA	NA	NA	4.3	157	11.66	Agus	1.53
+invaded	L10L2	27-7-23	L10	Ligustrum_lucidum	NA	NA	NA	2.53	165	10.97	Agus	1.53
+invaded	L10L3	27-7-23	L10	Ligustrum_lucidum	NA	NA	NA	4.62	160	14.22	Agus	1.53
+invaded	L11L1	3/3/2024	L11	Ligustrum_lucidum	3.04	0.956	5	4.63	147	8.68	Facu	1.55
+invaded	L11L2	3/3/2024	L11	Ligustrum_lucidum	1.44	0.429	5	4.44	150	9.24	Facu	1.55
+invaded	L11L3	3/3/2024	L11	Ligustrum_lucidum	1.21	0.339	5	4.68	150	9.66	Facu	1.55
+invaded	L11L4	3/3/2024	L11	Ligustrum_lucidum	1.7	0.461	5	4.95	144	8.36	Facu	1.55
+invaded	L11L5	3/3/2024	L11	Ligustrum_lucidum	NA	NA	NA	5.4	143	8.72	Facu	1.55
+invaded	L12L1	12/12/2023	L12	Ligustrum_lucidum	1.09	0.239	5	3.2	152	7.55	Agus	1.53
+invaded	L12L2	12/12/2023	L12	Ligustrum_lucidum	3.29	0.745	5	2.83	157	8.2	Agus	1.53
+invaded	L12L3	12/12/2023	L12	Ligustrum_lucidum	2.71	0.61	5	3.1	145	5.96	Agus	1.53
+invaded	L12L4	12/12/2023	L12	Ligustrum_lucidum	1.35	0.276	5	2.53	160	8.48	Agus	1.53
+invaded	L12L5	12/12/2023	L12	Ligustrum_lucidum	1.66	0.389	5	4.71	156	12.11	Agus	1.53
+invaded	L12SP41	12/12/2023	L12	NA4	NA	NA	NA	4.52	154	10.8	Agus	1.53
+invaded	L12SP42	12/12/2023	L12	NA4	NA	NA	NA	4.7	152	10.37	Agus	1.53
+invaded	L12SP43	12/12/2023	L12	NA4	NA	NA	NA	2.07	164	8.75	Agus	1.53
+invaded	L12SP44	12/12/2023	L12	NA4	NA	NA	NA	6.36	148	11.71	Agus	1.53
+invaded	L12SP45	12/12/2023	L12	NA4	NA	NA	NA	1.73	168	9.67	Agus	1.53
+invaded	L13AL1	12/12/2023	L13	Populus_alba	NA	NA	NA	6.07	153	13.44	Agus	1.53
+invaded	L13AL2	12/12/2023	L13	Populus_alba	NA	NA	NA	4.94	164	18.76	Agus	1.53
+invaded	L13AL3	12/12/2023	L13	Populus_alba	NA	NA	NA	7.65	150	14.78	Agus	1.53
+invaded	L13L1	12/12/2023	L13	Ligustrum_lucidum	0.97	0.203	5	3.97	158	11.36	Agus	1.53
+invaded	L13L2	12/12/2023	L13	Ligustrum_lucidum	6.27	1.161	5	3.3	159	10.13	Agus	1.53
+invaded	L13L3	12/12/2023	L13	Ligustrum_lucidum	0.74	0.156	5	2.87	155	7.68	Agus	1.53
+invaded	L13L4	12/12/2023	L13	Ligustrum_lucidum	2.58	0.527	5	4.3	155	10.75	Agus	1.53
+invaded	L13L5	12/12/2023	L13	Ligustrum_lucidum	1.17	0.24	5	2.53	160	8.48	Agus	1.53
+invaded	L13R1	12/12/2023	L13	Quercus_sp	NA	NA	NA	6.1	154	14.04	Agus	1.53
+invaded	L13R2	12/12/2023	L13	Quercus_sp	NA	NA	NA	9.52	153	20.21	Agus	1.53
+invaded	L14AR1	12/12/2023	L14	Acer_sp	1.47	0.273	5	4.3	137	6.14	Agus	1.53
+invaded	L14AR2	12/12/2023	L14	Acer_sp	1.41	0.248	5	5.88	153	13.07	Agus	1.53
+invaded	L14AR3	12/12/2023	L14	Acer_sp	1.52	0.271	5	4.85	155	11.93	Agus	1.53
+invaded	L14L1	12/12/2023	L14	Ligustrum_lucidum	2.16	0.473	5	2.51	165	10.9	Agus	1.53
+invaded	L14L2	12/12/2023	L14	Ligustrum_lucidum	1.43	0.299	5	2.25	161	8.06	Agus	1.53
+invaded	L14L3	12/12/2023	L14	Ligustrum_lucidum	2.88	0.67	5	1.6	159	5.7	Agus	1.53
+invaded	L14L4	12/12/2023	L14	Ligustrum_lucidum	1.4	0.293	5	1.13	157	4.19	Agus	1.53
+invaded	L14L5	12/12/2023	L14	Ligustrum_lucidum	3.55	0.776	5	4.08	152	9.2	Agus	1.53
+invaded	L14SP4	12/12/2023	L14	NA4	NA	NA	NA	7	144	11.16	Agus	1.53
+invaded	L15F1	3/3/2024	L15	Fraxinus_sp	1.68	0.457	4	6.78	149	12.83	Facu	1.55
+invaded	L15L1	3/3/2024	L15	Ligustrum_lucidum	NA	NA	NA	8.32	159	23.22	Facu	1.55
+invaded	L15L2	3/3/2024	L15	Ligustrum_lucidum	NA	NA	NA	8.72	154	19.43	Facu	1.55
+invaded	L15L3	3/3/2024	L15	Ligustrum_lucidum	NA	NA	NA	6.42	144	10.39	Facu	1.55
+invaded	L15OL1	3/3/2024	L15	Ulmus_populus	2.7	0.873	5	7.25	155	17.1	Facu	1.55
+invaded	L15OL2	3/3/2024	L15	Ulmus_populus	NA	NA	NA	7.3	138	9.66	Facu	1.55
+invaded	L15OL3	3/3/2024	L15	Ulmus_populus	1.66	0.548	5	8.8	145	14.12	Facu	1.55
+invaded	L15OL4	3/3/2024	L15	Ulmus_populus	NA	NA	NA	5	141	7.72	Facu	1.55
+invaded	L16L1	15-12-23	L16	Ligustrum_lucidum	2.72	0.489	5	4.12	145	7.51	Fede	1.63
+invaded	L16L2	15-12-23	L16	Ligustrum_lucidum	1.32	0.27	5	3.18	144	6.01	Fede	1.63
+invaded	L16L3	15-12-23	L16	Ligustrum_lucidum	2.5	0.478	5	5.61	151	11.75	Fede	1.63
+invaded	L16L4	15-12-23	L16	Ligustrum_lucidum	1.69	0.333	5	4.21	155	10.66	Fede	1.63
+invaded	L16L5	15-12-23	L16	Ligustrum_lucidum	1.96	0.332	5	2.54	152	6.41	Fede	1.63
+invaded	L16SP51	15-12-23	L16	NA5	NA	NA	NA	4.28	140	6.73	Fede	1.63
+invaded	L16SP61	15-12-23	L16	NA6	NA	NA	NA	3.43	166	15.39	Fede	1.63
+invaded	L17E1	15-12-23	L17	Eucalyptus_sp	NA	NA	NA	5.88	166	25.21	Fede	1.63
+invaded	L17E2	15-12-23	L17	Eucalyptus_sp	NA	NA	NA	4.06	166	17.91	Fede	1.63
+invaded	L17E3	15-12-23	L17	Eucalyptus_sp	NA	NA	NA	2.06	168	11.32	Fede	1.63
+invaded	L17E4	15-12-23	L17	Eucalyptus_sp	NA	NA	NA	2.17	167	11.03	Fede	1.63
+invaded	L17E5	15-12-23	L17	Eucalyptus_sp	NA	NA	NA	3.44	152	8.1	Fede	1.63
+invaded	L17L1	15-12-23	L17	Ligustrum_lucidum	2.54	0.699	5	2.57	146	5.44	Fede	1.63
+invaded	L17L2	15-12-23	L17	Ligustrum_lucidum	2.76	0.642	4	4.68	154	11.23	Fede	1.63
+invaded	L17L3	15-12-23	L17	Ligustrum_lucidum	1.9	0.549	5	3.42	148	7.1	Fede	1.63
+invaded	L17L4	15-12-23	L17	Ligustrum_lucidum	1.3	0.38	5	4.05	122	4.16	Fede	1.63
+invaded	L17L5	15-12-23	L17	Ligustrum_lucidum	1.94	0.547	5	3.6	147	7.17	Fede	1.63
+invaded	L17MO1	15-12-23	L17	Morus_alba	5.75	1.548	5	3.43	166	15.41	Fede	1.65
+invaded	L18L1	15-12-23	L18	Ligustrum_lucidum	1.22	0.258	5	3.51	148	7.25	Fede	1.63
+invaded	L18L2	15-12-23	L18	Ligustrum_lucidum	1.38	0.284	5	2.73	150	6.36	Fede	1.63
+invaded	L18L3	15-12-23	L18	Ligustrum_lucidum	4.6	1.023	5	1.8	160	6.58	Fede	1.63
+invaded	L18L4	15-12-23	L18	Ligustrum_lucidum	1.75	0.348	5	2.11	158	6.85	Fede	1.63
+invaded	L18L5	15-12-23	L18	Ligustrum_lucidum	2.47	0.621	5	1.36	154	4.42	Fede	1.63
+invaded	L18P1	15-12-23	L18	Ligustrum_lucidum	0.6	0.111	5	2.59	158	8.04	Fede	1.63
+invaded	L19L1	15-12-23	L19	Ligustrum_lucidum	1.77	0.5	5	3.37	164	13.38	Fede	1.63
+invaded	L19L2	15-12-23	L19	Ligustrum_lucidum	2.28	0.535	5	3.82	157	10.63	Fede	1.63
+invaded	L19L3	15-12-23	L19	Ligustrum_lucidum	2.6	0.634	5	3.74	159	11.37	Fede	1.63
+invaded	L19L4	15-12-23	L19	Ligustrum_lucidum	4.43	0.979	5	2.62	155	7.25	Fede	1.63
+invaded	L19L5	15-12-23	L19	Ligustrum_lucidum	2.83	0.61	5	3.65	160	11.66	Fede	1.63
+invaded	L19P1	15-12-23	L19	Melia_azedarach	NA	NA	NA	2.31	151	5.8	Fede	1.63
+invaded	L1C1	27-7-23	L1	Scutia_buxifolia	NA	NA	NA	4.65	160	14.31	Agus	1.53
+invaded	L1C2	27-7-23	L1	Scutia_buxifolia	NA	NA	NA	5.33	145	9.14	Agus	1.53
+invaded	L1C3	27-7-23	L1	Scutia_buxifolia	0.35	0.152	5	3.32	142	5.78	Agus	1.53
+invaded	L1L1	27-7-23	L1	Ligustrum_lucidum	NA	NA	NA	4.7	151	10.01	Agus	1.53
+invaded	L1L2	27-7-23	L1	Ligustrum_lucidum	NA	NA	NA	4.38	146	8.02	Agus	1.53
+invaded	L1L3	27-7-23	L1	Ligustrum_lucidum	NA	NA	NA	4.93	157	13.14	Agus	1.53
+invaded	L20E1	3/8/2024	L20	Eucalyptus_sp	NA	NA	NA	14.38	152	28.59	Facu	1.55
+invaded	L20L1	3/8/2024	L20	Ligustrum_lucidum	2.26	0.611	5	5.54	144	9.18	Facu	1.55
+invaded	L20L2	3/8/2024	L20	Ligustrum_lucidum	4.96	1.359	5	6.63	152	14.02	Facu	1.55
+invaded	L20L3	3/8/2024	L20	Ligustrum_lucidum	NA	NA	NA	5.73	149	11.09	Facu	1.55
+invaded	L20L4	3/8/2024	L20	Ligustrum_lucidum	NA	NA	NA	4.82	148	9.26	Facu	1.55
+invaded	L20L5	3/8/2024	L20	Ligustrum_lucidum	2.83	0.769	5	6.5	145	10.83	Facu	1.55
+invaded	L21AR1	30-11-23	L21	Acer_sp	1.51	0.349	5	6.54	140	9.32	Agus	1.53
+invaded	L21E1	30-11-23	L21	Eucalyptus_sp	NA	NA	NA	13.31	151	25.56	Facu	1.55
+invaded	L21L1	30-11-23	L21	Ligustrum_lucidum	1.39	0.382	5	8.11	134	9.38	Facu	1.55
+invaded	L21L2	30-11-23	L21	Ligustrum_lucidum	2.47	0.796	5	3.8	114	3.24	Facu	1.55
+invaded	L21L3	30-11-23	L21	Ligustrum_lucidum	1.39	0.442	5	7.65	138	10.05	Facu	1.55
+invaded	L21L4	30-11-23	L21	Ligustrum_lucidum	4.02	1.127	5	7.34	143	11.29	Facu	1.55
+invaded	L21L5	30-11-23	L21	Ligustrum_lucidum	1.69	0.455	5	7.68	129	7.77	Facu	1.55
+invaded	L22E1	30-11-23	L22	Eucalyptus_sp	4.52	1.285	5	16.24	139	20.23	Facu	1.55
+invaded	L22E2	30-11-23	L22	Eucalyptus_sp	2.45	0.727	5	16.24	145	24.74	Facu	1.55
+invaded	L22E3	30-11-23	L22	Eucalyptus_sp	NA	NA	NA	16.44	133	16.88	Facu	1.55
+invaded	L22L1	30-11-23	L22	Ligustrum_lucidum	1.25	0.369	5	10.2	140	13.71	Facu	1.55
+invaded	L22L2	30-11-23	L22	Ligustrum_lucidum	1.79	0.419	5	8.54	144	13.3	Facu	1.55
+invaded	L22L3	30-11-23	L22	Ligustrum_lucidum	3.23	0.871	5	9.36	142	13.53	Facu	1.55
+invaded	L22L4	30-11-23	L22	Ligustrum_lucidum	2.96	0.84	5	9.53	139	12.51	Facu	1.55
+invaded	L22L5	30-11-23	L22	Ligustrum_lucidum	2.96	0.881	5	8.6	136	10.46	Facu	1.55
+invaded	L23AR1	30-11-23	L23	Acer_sp	2.13	0.488	5	6.02	144	9.84	Facu	1.55
+invaded	L23L1	30-11-23	L23	Ligustrum_lucidum	4.1	1.385	5	6.52	142	9.9	Facu	1.55
+invaded	L23L2	30-11-23	L23	Ligustrum_lucidum	4.14	0.824	5	8.44	130	8.63	Facu	1.55
+invaded	L23L3	30-11-23	L23	Ligustrum_lucidum	1.87	0.449	5	9.62	137	11.87	Facu	1.55
+invaded	L23L4	30-11-23	L23	Ligustrum_lucidum	2.26	0.62	5	7.33	142	10.93	Facu	1.55
+invaded	L23L5	30-11-23	L23	Ligustrum_lucidum	1.94	0.557	5	9.62	138	12.23	Facu	1.55
+invaded	L24L1	30-11-23	L24	Ligustrum_lucidum	2.54	0.703	5	4.8	141	7.48	Facu	1.55
+invaded	L24L2	30-11-23	L24	Ligustrum_lucidum	2.55	0.691	5	8.18	145	13.23	Facu	1.55
+invaded	L24L3	30-11-23	L24	Ligustrum_lucidum	3.46	0.939	5	9.73	142	14	Facu	1.55
+invaded	L24L4	30-11-23	L24	Ligustrum_lucidum	3.25	0.951	5	8.25	145	13.33	Facu	1.55
+invaded	L24L5	30-11-23	L24	Ligustrum_lucidum	2.11	0.476	5	9.33	152	19.1	Facu	1.55
+invaded	L25E1	30-11-23	L25	Eucalyptus_sp	NA	NA	NA	11.16	150	20.88	Facu	1.55
+invaded	L25E2	30-11-23	L25	Eucalyptus_sp	NA	NA	NA	11.86	152	23.86	Facu	1.55
+invaded	L25L1	30-11-23	L25	Ligustrum_lucidum	3.55	0.841	5	8.08	148	14.48	Facu	1.55
+invaded	L25L2	30-11-23	L25	Ligustrum_lucidum	0.77	0.185	5	7.68	149	14.33	Facu	1.55
+invaded	L25L3	30-11-23	L25	Ligustrum_lucidum	1.93	0.431	5	7.4	148	13.39	Facu	1.55
+invaded	L25L4	30-11-23	L25	Ligustrum_lucidum	1.46	0.386	5	9.56	145	15.2	Facu	1.55
+invaded	L25L5	30-11-23	L25	Ligustrum_lucidum	2.56	0.634	5	8	139	10.75	Facu	1.55
+invaded	L26L1	16-2-24	L26	Ligustrum_lucidum	2.11	0.638	4	4.74	154	11.27	Facu	1.55
+invaded	L26L2	16-2-24	L26	Ligustrum_lucidum	NA	NA	NA	5.06	154	11.92	Facu	1.55
+invaded	L26L3	16-2-24	L26	Ligustrum_lucidum	2.75	0.836	5	4.73	153	10.83	Facu	1.55
+invaded	L26L4	16-2-24	L26	Ligustrum_lucidum	NA	NA	NA	4.3	153	9.99	Facu	1.55
+invaded	L26L5	16-2-24	L26	Ligustrum_lucidum	NA	NA	NA	3.82	144	6.81	Facu	1.55
+invaded	L27L1	16-2-24	L27	Ligustrum_lucidum	1.74	0.414	5	4.67	152	10.33	Facu	1.55
+invaded	L27L2	16-2-24	L27	Ligustrum_lucidum	2.64	0.915	5	5.56	152	12.01	Facu	1.55
+invaded	L27L3	16-2-24	L27	Ligustrum_lucidum	3.04	0.985	5	5.33	160	16.19	Facu	1.55
+invaded	L27L4	16-2-24	L27	Ligustrum_lucidum	2.42	0.723	5	6.11	152	13.04	Facu	1.55
+invaded	L27L5	16-2-24	L27	Ligustrum_lucidum	3.98	1.397	5	5.22	148	9.9	Facu	1.55
+invaded	L28L1	16-2-24	L28	Ligustrum_lucidum	2.2	0.663	5	5.45	142	8.53	Facu	1.55
+invaded	L28L2	16-2-24	L28	Ligustrum_lucidum	2.01	0.58	5	5.5	150	11.08	Facu	1.55
+invaded	L28L3	16-2-24	L28	Ligustrum_lucidum	NA	NA	NA	5.69	149	11.02	Facu	1.55
+invaded	L28L4	16-2-24	L28	Ligustrum_lucidum	1.15	0.273	5	5.76	155	13.9	Facu	1.55
+invaded	L28L5	16-2-24	L28	Ligustrum_lucidum	2.51	0.7	5	6	152	12.83	Facu	1.55
+invaded	L29L1	16-2-24	L29	Ligustrum_lucidum	NA	NA	NA	4.64	160	14.3	Facu	1.55
+invaded	L29L2	16-2-24	L29	Ligustrum_lucidum	NA	NA	NA	5.51	145	9.42	Facu	1.55
+invaded	L29L3	16-2-24	L29	Ligustrum_lucidum	2.98	0.932	5	4.98	132	6.03	Facu	1.55
+invaded	L29L4	16-2-24	L29	Ligustrum_lucidum	1.76	0.533	5	5.61	153	12.56	Facu	1.55
+invaded	L29L5	16-2-24	L29	Ligustrum_lucidum	1.96	0.526	5	4.28	158	12.14	Facu	1.55
+invaded	L2C1	27-7-23	L2	Scutia_buxifolia	NA	NA	NA	3.6	159	10.91	Agus	1.53
+invaded	L2C2	27-7-23	L2	Scutia_buxifolia	NA	NA	NA	6.27	146	10.83	Agus	1.53
+invaded	L2L1	27-7-23	L2	Ligustrum_lucidum	NA	NA	NA	5.67	146	9.94	Agus	1.53
+invaded	L2L2	27-7-23	L2	Ligustrum_lucidum	NA	NA	NA	6.6	152	13.94	Agus	1.53
+invaded	L2L3	27-7-23	L2	Ligustrum_lucidum	NA	NA	NA	6.58	155	15.64	Agus	1.53
+invaded	L30L1	16-12-23	L30	Ligustrum_lucidum	2.58	0.656	5	2.86	152	6.91	Agus	1.53
+invaded	L30L2	16-12-23	L30	Ligustrum_lucidum	1.47	0.344	5	2.6	153	6.63	Agus	1.53
+invaded	L30L3	16-12-23	L30	Ligustrum_lucidum	2.34	0.585	5	2.92	166	13.24	Agus	1.53
+invaded	L30L4	16-12-23	L30	Ligustrum_lucidum	2.59	0.633	5	3.74	155	9.55	Agus	1.53
+invaded	L30L5	16-12-23	L30	Ligustrum_lucidum	1.3	0.322	5	3.16	158	9.35	Agus	1.53
+invaded	L31L1	16-12-23	L31	Ligustrum_lucidum	3.03	0.684	5	5.86	154	13.54	Agus	1.53
+invaded	L31L2	16-12-23	L31	Ligustrum_lucidum	3.13	0.807	5	7.13	147	12.51	Agus	1.53
+invaded	L31L3	16-12-23	L31	Ligustrum_lucidum	3	0.762	5	4.77	132	5.82	Agus	1.53
+invaded	L31L4	16-12-23	L31	Ligustrum_lucidum	3.11	0.763	5	4.5	150	9.32	Agus	1.53
+invaded	L31L5	16-12-23	L31	Ligustrum_lucidum	3.28	0.751	5	3	160	9.77	Agus	1.53
+invaded	L32C1	16-12-23	L32	Scutia_buxifolia	1.11	0.247	5	3.14	152	7.44	Agus	1.53
+invaded	L32C2	16-12-23	L32	Scutia_buxifolia	0.46	0.198	5	2.68	147	5.66	Agus	1.53
+invaded	L32L1	16-12-23	L32	Ligustrum_lucidum	1.26	0.273	4	3.52	162	12.36	Agus	1.53
+invaded	L32L2	16-12-23	L32	Ligustrum_lucidum	1.56	0.354	5	3.14	157	8.93	Agus	1.53
+invaded	L32L3	16-12-23	L32	Ligustrum_lucidum	2.19	0.558	5	2.27	156	6.63	Agus	1.53
+invaded	L32L4	16-12-23	L32	Ligustrum_lucidum	1.84	0.466	5	2.38	157	7.14	Agus	1.53
+invaded	L32L5	16-12-23	L32	Ligustrum_lucidum	2.34	0.589	5	4.98	148	9.5	Agus	1.53
+invaded	L33L1	20-12-23	L33	Ligustrum_lucidum	NA	NA	NA	3.37	157	9.47	Agus	1.53
+invaded	L33L2	20-12-23	L33	Ligustrum_lucidum	1.518	0.545	5	3.3	157	9.3	Agus	1.53
+invaded	L33L3	20-12-23	L33	Ligustrum_lucidum	NA	NA	NA	3.4	166	15.17	Agus	1.53
+invaded	L33L4	20-12-23	L33	Ligustrum_lucidum	NA	NA	NA	3.08	160	9.99	Agus	1.53
+invaded	L33L5	20-12-23	L33	Ligustrum_lucidum	NA	NA	NA	3.58	161	11.93	Agus	1.53
+invaded	L34C1	20-12-23	L34	Scutia_buxifolia	0.146	0.107	4	2.6	160	8.67	Agus	1.53
+invaded	L34C2	20-12-23	L34	Scutia_buxifolia	0.144	0.11	5	2.58	152	6.38	Agus	1.53
+invaded	L34C3	20-12-23	L34	Scutia_buxifolia	0.319	0.176	5	3.73	155	9.53	Agus	1.53
+invaded	L34C4	20-12-23	L34	Scutia_buxifolia	0.149	0.124	5	3.39	140	5.57	Agus	1.53
+invaded	L34L1	20-12-23	L34	Ligustrum_lucidum	0.39	0.171	5	2.73	159	8.64	Agus	1.53
+invaded	L34L2	20-12-23	L34	Ligustrum_lucidum	NA	NA	NA	2.94	166	13.32	Agus	1.53
+invaded	L34L3	20-12-23	L34	Ligustrum_lucidum	2.663	0.812	5	3.14	157	8.93	Agus	1.53
+invaded	L34L4	20-12-23	L34	Ligustrum_lucidum	1.53	0.53	5	2.66	156	7.5	Agus	1.53
+invaded	L34ST1	20-12-23	L34	Jodina_rhombifolia	0.29	0.114	2	2.65	152	6.51	Agus	1.53
+invaded	L34ST2	20-12-23	L34	Jodina_rhombifolia	NA	NA	NA	2.22	160	7.63	Agus	1.53
+invaded	L34ST3	20-12-23	L34	Jodina_rhombifolia	NA	NA	NA	3.44	160	10.98	Agus	1.53
+invaded	L34T1	20-12-23	L34	Celtis_tala	0.304	0.161	5	2.29	158	7.2	Agus	1.53
+invaded	L35L1	3/3/2024	L35	Ligustrum_lucidum	NA	NA	NA	4.04	144	7.11	Facu	1.55
+invaded	L35L2	3/3/2024	L35	Ligustrum_lucidum	NA	NA	NA	4.94	152	10.84	Facu	1.55
+invaded	L35L3	3/3/2024	L35	Ligustrum_lucidum	1.49	0.478	5	5.74	153	12.82	Facu	1.55
+invaded	L35L4	3/3/2024	L35	Ligustrum_lucidum	2.23	0.704	5	5.27	156	13.39	Facu	1.55
+invaded	L35L5	3/3/2024	L35	Ligustrum_lucidum	0.83	0.243	5	4.69	150	9.67	Facu	1.55
+invaded	L36L1	3/3/2024	L36	Ligustrum_lucidum	NA	NA	NA	5.33	144	8.89	Facu	1.55
+invaded	L36L2	3/3/2024	L36	Ligustrum_lucidum	0.68	0.173	5	5.48	156	13.86	Facu	1.55
+invaded	L36L3	3/3/2024	L36	Ligustrum_lucidum	NA	NA	NA	5.42	146	9.59	Facu	1.55
+invaded	L36L4	3/3/2024	L36	Ligustrum_lucidum	1.46	0.456	5	4.17	151	9.07	Facu	1.55
+invaded	L36L5	3/3/2024	L36	Ligustrum_lucidum	1.83	0.566	5	4.68	156	12.06	Facu	1.55
+invaded	L37C1	3/3/2024	L37	Scutia_buxifolia	0.27	0.144	5	5.93	138	8.14	Facu	1.55
+invaded	L37L1	3/3/2024	L37	Ligustrum_lucidum	2.09	0.674	5	4.77	136	6.49	Facu	1.55
+invaded	L37L2	3/3/2024	L37	Ligustrum_lucidum	NA	NA	NA	4.3	155	10.77	Facu	1.55
+invaded	L37L3	3/3/2024	L37	Ligustrum_lucidum	2.74	0.673	5	5.62	138	7.79	Facu	1.55
+invaded	L37L4	3/3/2024	L37	Ligustrum_lucidum	NA	NA	NA	4.44	142	7.23	Facu	1.55
+invaded	L37L5	3/3/2024	L37	Ligustrum_lucidum	1.83	0.629	5	5.26	151	11.04	Facu	1.55
+invaded	L37ST1	3/3/2024	L37	Jodina_rhombifolia	1.94	0.705	5	5.13	150	10.44	Facu	1.55
+invaded	L38L1	3/3/2024	L38	Ligustrum_lucidum	NA	NA	NA	5.9	144	9.67	Facu	1.55
+invaded	L38L2	3/3/2024	L38	Ligustrum_lucidum	2.39	0.66	5	5.9	149	11.37	Facu	1.55
+invaded	L38L3	3/3/2024	L38	Ligustrum_lucidum	NA	NA	NA	5.15	150	10.47	Facu	1.55
+invaded	L38L4	3/3/2024	L38	Ligustrum_lucidum	1.1	0.304	5	6.15	145	10.33	Facu	1.55
+invaded	L38L5	3/3/2024	L38	Ligustrum_lucidum	1.3	0.408	5	4.9	146	8.81	Facu	1.55
+invaded	L39AR1	3/3/2024	L39	Acer_sp	1.92	0.231	5	5.83	146	10.19	Facu	1.55
+invaded	L39L1	3/3/2024	L39	Ligustrum_lucidum	0.84	0.252	5	6.71	139	9.27	Facu	1.55
+invaded	L39L2	3/3/2024	L39	Ligustrum_lucidum	3.36	1.125	5	5.36	154	12.54	Facu	1.55
+invaded	L39L3	3/3/2024	L39	Ligustrum_lucidum	0.82	0.241	5	5.6	140	8.22	Facu	1.55
+invaded	L39L4	3/3/2024	L39	Ligustrum_lucidum	1.42	0.411	5	4.48	158	12.64	Facu	1.55
+invaded	L39L5	3/3/2024	L39	Ligustrum_lucidum	1.3	0.386	5	5.68	149	11	Facu	1.55
+invaded	L3L1	27-7-23	L3	Ligustrum_lucidum	NA	NA	NA	1.38	159	5.13	Agus	1.53
+invaded	L3L2	27-7-23	L3	Ligustrum_lucidum	NA	NA	NA	4.77	139	7.02	Agus	1.53
+invaded	L3L3	27-7-23	L3	Ligustrum_lucidum	NA	NA	NA	6.7	145	11.1	Agus	1.53
+invaded	L3ST1	27-7-23	L3	Jodina_rhombifolia	0.97	0.402	5	5.42	136	7.14	Agus	1.53
+invaded	L40L1	20-12-23	L40	Ligustrum_lucidum	NA	NA	NA	3.21	165	13.51	Agus	1.53
+invaded	L40L2	20-12-23	L40	Ligustrum_lucidum	NA	NA	NA	2.03	162	7.78	Agus	1.53
+invaded	L40L3	20-12-23	L40	Ligustrum_lucidum	3.476	1.155	5	3.34	160	10.71	Agus	1.53
+invaded	L40L4	20-12-23	L40	Ligustrum_lucidum	NA	NA	NA	2.5	170	15.71	Agus	1.53
+invaded	L40L5	20-12-23	L40	Ligustrum_lucidum	NA	NA	NA	3.01	160	9.8	Agus	1.53
+invaded	L41E1	18-12-23	L41	Eucalyptus_sp	NA	NA	NA	4.96	158	13.83	Facu	1.55
+invaded	L41L1	18-12-23	L41	Ligustrum_lucidum	1.62	0.553	5	4.55	136	6.26	Facu	1.55
+invaded	L41L2	18-12-23	L41	Ligustrum_lucidum	2.48	0.652	5	4.58	145	8.09	Facu	1.55
+invaded	L41L3	18-12-23	L41	Ligustrum_lucidum	NA	NA	NA	4.03	136	5.72	Facu	1.55
+invaded	L41L4	18-12-23	L41	Ligustrum_lucidum	2.69	0.739	4	4.23	142	6.96	Facu	1.55
+invaded	L41L5	18-12-23	L41	Ligustrum_lucidum	3.84	0.844	5	7.1	150	13.85	Facu	1.55
+invaded	L41P1	18-12-23	L41	Melia_azedarach	NA	NA	NA	8.74	145	14.03	Facu	1.55
+invaded	L42AR1	16-12-23	L42	Acer_sp	1.33	0.285	5	5.07	143	8.36	Fede	1.63
+invaded	L42E1	16-12-23	L42	Eucalyptus_sp	NA	NA	NA	5.41	160	16.49	Fede	1.63
+invaded	L42L1	16-12-23	L42	Ligustrum_lucidum	0.92	0.197	5	3.75	150	8.13	Fede	1.63
+invaded	L42L2	16-12-23	L42	Ligustrum_lucidum	2	0.432	5	3.06	157	8.84	Fede	1.63
+invaded	L42L3	16-12-23	L42	Ligustrum_lucidum	1.99	0.538	5	7.36	146	12.54	Fede	1.63
+invaded	L42L4	16-12-23	L42	Ligustrum_lucidum	2.65	0.693	5	4.02	159	12.1	Fede	1.63
+invaded	L42L5	16-12-23	L42	Ligustrum_lucidum	1.39	0.362	5	4.52	164	17.39	Fede	1.63
+invaded	L42LT1	16-12-23	L42	Ligustrum_sinense	2.61	0.298	5	1.58	148	4.16	Fede	1.63
+invaded	L42LT2	16-12-23	L42	Ligustrum_sinense	2.74	0.343	5	3.62	144	6.61	Fede	1.63
+invaded	L42LT3	16-12-23	L42	Ligustrum_sinense	NA	NA	NA	2.87	149	6.41	Fede	1.63
+invaded	L42LT4	16-12-23	L42	Ligustrum_sinense	NA	NA	NA	4.2	138	6.29	Fede	1.63
+invaded	L42LT5	16-12-23	L42	Ligustrum_sinense	NA	NA	NA	4.64	138	6.78	Fede	1.63
+invaded	L43AR1	16-12-23	L43	Acer_sp	2.94	0.668	5	1.94	151	5.03	Agus	1.53
+invaded	L43E1	16-12-23	L43	Eucalyptus_sp	1.09	0.516	5	5.91	171	38.84	Agus	1.53
+invaded	L43E2	16-12-23	L43	Eucalyptus_sp	1.08	0.52	5	2.76	166	12.6	Agus	1.53
+invaded	L43E3	16-12-23	L43	Eucalyptus_sp	NA	NA	NA	4.28	172	31.98	Agus	1.53
+invaded	L43E4	16-12-23	L43	Eucalyptus_sp	NA	NA	NA	2.43	164	10	Agus	1.53
+invaded	L43E5	16-12-23	L43	Eucalyptus_sp	NA	NA	NA	5.17	153	11.68	Agus	1.53
+invaded	L43L1	16-12-23	L43	Ligustrum_lucidum	0.89	0.194	5	1.61	162	6.49	Agus	1.53
+invaded	L43L2	16-12-23	L43	Ligustrum_lucidum	1.05	0.306	5	2.5	159	8.04	Agus	1.53
+invaded	L43L3	16-12-23	L43	Ligustrum_lucidum	1.41	0.308	5	2.67	160	8.87	Agus	1.53
+invaded	L43L4	16-12-23	L43	Ligustrum_lucidum	2.84	0.643	5	2.43	145	5	Agus	1.53
+invaded	L43L5	16-12-23	L43	Ligustrum_lucidum	3.77	0.913	5	1.82	165	8.32	Agus	1.53
+invaded	L44E1	16-12-23	L45	Eucalyptus_sp	NA	NA	NA	3.45	164	13.56	Agus	1.53
+invaded	L44E2	16-12-23	L45	Eucalyptus_sp	NA	NA	NA	2.69	172	20.67	Agus	1.53
+invaded	L44E3	16-12-23	L45	Eucalyptus_sp	NA	NA	NA	6.3	168	31.17	Agus	1.53
+invaded	L44E4	16-12-23	L45	Eucalyptus_sp	NA	NA	NA	3.34	166	14.93	Agus	1.53
+invaded	L44E5	16-12-23	L45	Eucalyptus_sp	NA	NA	NA	4.78	167	22.23	Agus	1.53
+invaded	L45E1	16-12-23	L45	Eucalyptus_sp	NA	NA	NA	4	155	10.11	Agus	1.53
+invaded	L45E2	16-12-23	L45	Eucalyptus_sp	NA	NA	NA	7.6	160	22.41	Agus	1.53
+invaded	L45E3	16-12-23	L45	Eucalyptus_sp	NA	NA	NA	3.39	166	15.13	Agus	1.53
+invaded	L45FAB1	16-12-23	L45	NA	0.35	0.111	5	4.12	150	8.67	Agus	1.53
+invaded	L46E1	16-12-23	L46	Eucalyptus_sp	NA	NA	NA	3.3	165	13.85	Agus	1.53
+invaded	L46E2	16-12-23	L46	Eucalyptus_sp	NA	NA	NA	4.9	165	19.82	Agus	1.53
+invaded	L46E3	16-12-23	L46	Eucalyptus_sp	NA	NA	NA	5.18	164	19.59	Agus	1.53
+invaded	L46E4	16-12-23	L46	Eucalyptus_sp	NA	NA	NA	6	165	23.92	Agus	1.53
+invaded	L46E5	16-12-23	L46	Eucalyptus_sp	NA	NA	NA	6.77	163	23.67	Agus	1.53
+invaded	L46L1	16-12-23	L46	Ligustrum_lucidum	2.87	0.523	5	3.7	145	6.81	Agus	1.53
+invaded	L46L2	16-12-23	L46	Ligustrum_lucidum	3.91	0.899	5	3.32	153	8.05	Agus	1.53
+invaded	L46L3	16-12-23	L46	Ligustrum_lucidum	2.35	0.446	5	2.47	167	12.23	Agus	1.53
+invaded	L46L4	16-12-23	L46	Ligustrum_lucidum	5.33	0.857	5	2	146	4.5	Agus	1.53
+invaded	L46L5	16-12-23	L46	Ligustrum_lucidum	2.07	0.443	5	3	155	7.96	Agus	1.53
+invaded	L47E1	16-12-23	L47	Eucalyptus_sp	NA	NA	NA	4.92	168	24.68	Agus	1.53
+invaded	L47E2	16-12-23	L47	Eucalyptus_sp	NA	NA	NA	4.29	163	15.56	Agus	1.53
+invaded	L47E3	16-12-23	L47	Eucalyptus_sp	NA	NA	NA	5.5	160	16.64	Agus	1.53
+invaded	L47E4	16-12-23	L47	Eucalyptus_sp	NA	NA	NA	4.93	165	19.93	Agus	1.53
+invaded	L47E5	16-12-23	L47	Eucalyptus_sp	NA	NA	NA	4.14	161	13.55	Agus	1.53
+invaded	L47L1	16-12-23	L47	Ligustrum_lucidum	6.07	1.524	5	3.34	156	9.03	Agus	1.53
+invaded	L47L2	16-12-23	L47	Ligustrum_lucidum	2.95	0.781	5	3.84	160	12.08	Agus	1.53
+invaded	L48AR1	18-12-23	L48	Acer_sp	2.11	0.423	5	4.64	166	20.14	Agus	1.53
+invaded	L48AR2	18-12-23	L48	Acer_sp	NA	NA	NA	3.47	164	13.63	Agus	1.53
+invaded	L48L1	18-12-23	L48	Ligustrum_lucidum	2.57	0.606	5	3.76	162	13.1	Agus	1.53
+invaded	L48L2	18-12-23	L48	Ligustrum_lucidum	2.48	0.581	5	3.33	150	7.3	Agus	1.53
+invaded	L48L3	18-12-23	L48	Ligustrum_lucidum	2.4	0.533	5	2.7	162	9.84	Agus	1.53
+invaded	L48L4	18-12-23	L48	Ligustrum_lucidum	3	0.683	5	3.06	143	5.59	Agus	1.53
+invaded	L48L5	18-12-23	L48	Ligustrum_lucidum	3.17	0.79	5	2.1	166	9.95	Agus	1.53
+invaded	L48NA1	18-12-23	L48	NA1	1.19	0.295	5	2.85	163	10.85	Agus	1.53
+invaded	L48NA2	18-12-23	L48	NA1	NA	NA	NA	3.93	157	10.79	Agus	1.53
+invaded	L49AR1	18-12-23	L49	Acer_sp	1.89	0.413	5	5.12	155	12.51	Agus	1.53
+invaded	L49AR2	18-12-23	L49	Acer_sp	1.88	0.395	5	3.3	157	9.3	Agus	1.53
+invaded	L49AR3	18-12-23	L49	Acer_sp	3.14	0.668	5	3.7	139	5.79	Agus	1.53
+invaded	L49AR4	18-12-23	L49	Acer_sp	1.13	0.228	5	2.3	147	5.07	Agus	1.53
+invaded	L49E1	18-12-23	L49	Eucalyptus_sp	NA	NA	NA	4.23	167	19.85	Agus	1.53
+invaded	L49E2	18-12-23	L49	Eucalyptus_sp	NA	NA	NA	5.55	172	41.02	Agus	1.53
+invaded	L49E3	18-12-23	L49	Eucalyptus_sp	NA	NA	NA	6.1	167	27.95	Agus	1.53
+invaded	L49E4	18-12-23	L49	Eucalyptus_sp	NA	NA	NA	3.74	168	19.13	Agus	1.53
+invaded	L49E5	18-12-23	L49	Eucalyptus_sp	NA	NA	NA	4.71	174	46.34	Agus	1.53
+invaded	L49L1	18-12-23	L49	Ligustrum_lucidum	1.73	0.36	5	1.75	165	8.06	Agus	1.53
+invaded	L49L2	18-12-23	L49	Ligustrum_lucidum	3.82	0.939	5	1.46	155	4.66	Agus	1.53
+invaded	L49L3	18-12-23	L49	Ligustrum_lucidum	3.84	1.078	5	2.69	135	4.22	Agus	1.53
+invaded	L49L4	18-12-23	L49	Ligustrum_lucidum	2.33	0.47	5	2.7	160	8.95	Agus	1.53
+invaded	L49L5	18-12-23	L49	Ligustrum_lucidum	1.61	0.313	5	4.13	160	12.88	Agus	1.53
+invaded	L49NA11	18-12-23	L49	NA1	4.27	0.899	5	3.72	165	15.41	Agus	1.53
+invaded	L49NA21	18-12-23	L49	NA2	NA	NA	NA	1.62	136	3.21	Agus	1.53
+invaded	L4L1	27-7-23	L4	Ligustrum_lucidum	NA	NA	NA	3.18	152	7.51	Agus	1.53
+invaded	L4L2	27-7-23	L4	Ligustrum_lucidum	NA	NA	NA	3.43	144	6.25	Agus	1.53
+invaded	L4L3	27-7-23	L4	Ligustrum_lucidum	NA	NA	NA	5.97	145	10.06	Agus	1.53
+invaded	L50E1	18-12-23	L50	Eucalyptus_sp	NA	NA	NA	5.47	170	32.55	Agus	1.53
+invaded	L50E2	18-12-23	L50	Eucalyptus_sp	NA	NA	NA	6.67	168	32.91	Agus	1.53
+invaded	L50E3	18-12-23	L50	Eucalyptus_sp	NA	NA	NA	6	172	44.22	Agus	1.53
+invaded	L50E4	18-12-23	L50	Eucalyptus_sp	NA	NA	NA	4.89	170	29.26	Agus	1.53
+invaded	L50E5	18-12-23	L50	Eucalyptus_sp	NA	NA	NA	4.96	171	32.85	Agus	1.53
+invaded	L50NA1	18-12-23	L50	NA1	2.85	0.666	5	4.37	156	11.35	Agus	1.53
+invaded	L51AL1	18-12-23	L51	Populus_alba	NA	NA	NA	12.78	136	14.78	Facu	1.55
+invaded	L51L1	18-12-23	L51	Ligustrum_lucidum	2.33	0.481	5	8.14	127	7.68	Facu	1.55
+invaded	L51L2	18-12-23	L51	Ligustrum_lucidum	1.81	0.351	5	8.03	132	8.78	Facu	1.55
+invaded	L51L3	18-12-23	L51	Ligustrum_lucidum	3.42	0.606	5	8.43	144	13.15	Facu	1.55
+invaded	L51L4	18-12-23	L51	Ligustrum_lucidum	1.37	0.207	5	7.48	135	9.03	Facu	1.55
+invaded	L51L5	18-12-23	L51	Ligustrum_lucidum	3.47	0.756	5	6.98	142	10.48	Facu	1.55
+invaded	L51P1	18-12-23	L51	Melia_azedarach	NA	NA	NA	7.8	132	8.57	Facu	1.55
+invaded	L52AL1	18-12-23	L52	Populus_alba	5.66	1.831	5	10.1	144	15.45	Facu	1.55
+invaded	L52CA1	18-12-23	L52	Catalpa_speciosa	20.18	5.111	3	10.45	131	10.63	Facu	1.55
+invaded	L52E1	18-12-23	L52	Eucalyptus_sp	1.24	0.404	5	10.91	133	11.72	Facu	1.55
+invaded	L52L1	18-12-23	L52	Ligustrum_lucidum	4.09	1.001	5	8.94	140	12.2	Facu	1.55
+invaded	L52L2	18-12-23	L52	Ligustrum_lucidum	2.63	0.653	5	6.69	137	8.72	Facu	1.55
+invaded	L52L3	18-12-23	L52	Ligustrum_lucidum	4.09	0.9	5	7.67	140	10.69	Facu	1.55
+invaded	L52L4	18-12-23	L52	Ligustrum_lucidum	4.59	0.976	5	9.93	140	13.38	Facu	1.55
+invaded	L52L5	18-12-23	L52	Ligustrum_lucidum	1.59	0.368	5	7.71	130	8.02	Facu	1.55
+invaded	L53E1	18-12-23	L53	Eucalyptus_sp	NA	NA	NA	8.29	145	13.39	Facu	1.55
+invaded	L53E2	18-12-23	L53	Eucalyptus_sp	NA	NA	NA	8.32	156	20.24	Facu	1.55
+invaded	L53E3	18-12-23	L53	Eucalyptus_sp	NA	NA	NA	10.12	152	20.58	Facu	1.55
+invaded	L53E4	18-12-23	L53	Eucalyptus_sp	NA	NA	NA	8.43	142	12.34	Facu	1.55
+invaded	L53E5	18-12-23	L53	Eucalyptus_sp	NA	NA	NA	10.9	146	17.71	Facu	1.55
+invaded	L5F1	27-7-23	L5	Fraxinus_sp	NA	NA	NA	5.65	148	10.57	Agus	1.53
+invaded	L5F2	27-7-23	L5	Fraxinus_sp	NA	NA	NA	7.54	150	14.59	Agus	1.53
+invaded	L5F3	27-7-23	L5	Fraxinus_sp	NA	NA	NA	4.04	163	14.74	Agus	1.53
+invaded	L5L1	27-7-23	L5	Ligustrum_lucidum	NA	NA	NA	3.31	152	7.76	Agus	1.53
+invaded	L5L2	27-7-23	L5	Ligustrum_lucidum	NA	NA	NA	3.04	154	7.76	Agus	1.53
+invaded	L5L3	27-7-23	L5	Ligustrum_lucidum	0.97	0.332	5	2.7	136	4.33	Agus	1.53
+invaded	L6L1	27-7-23	L6	Ligustrum_lucidum	4.85	1.661	5	4.42	135	5.95	Agus	1.53
+invaded	L6L2	27-7-23	L6	Ligustrum_lucidum	NA	NA	NA	3.94	135	5.47	Agus	1.53
+invaded	L6L3	27-7-23	L6	Ligustrum_lucidum	NA	NA	NA	5.17	161	16.54	Agus	1.53
+invaded	L7L1	27-7-23	L7	Ligustrum_lucidum	NA	NA	NA	4.05	158	11.55	Agus	1.53
+invaded	L7L2	27-7-23	L7	Ligustrum_lucidum	NA	NA	NA	2.86	157	8.27	Agus	1.53
+invaded	L7L3	27-7-23	L7	Ligustrum_lucidum	NA	NA	NA	5	154	11.78	Agus	1.53
+invaded	L8L1	27-7-23	L8	Ligustrum_lucidum	2.85	0.919	5	5.93	160	17.82	Agus	1.53
+invaded	L8L2	27-7-23	L8	Ligustrum_lucidum	NA	NA	NA	4.53	154	10.82	Agus	1.53
+invaded	L8L3	27-7-23	L8	Ligustrum_lucidum	NA	NA	NA	4.83	162	16.4	Agus	1.53
+invaded	L9L1	27-7-23	L9	Ligustrum_lucidum	2.84	0.803	5	4.77	161	15.38	Agus	1.53
+invaded	L9L2	27-7-23	L9	Ligustrum_lucidum	NA	NA	NA	4.29	159	12.71	Agus	1.53
+invaded	L9L3	27-7-23	L9	Ligustrum_lucidum	1.3	0.414	5	5.61	153	12.54	Agus	1.53
+native	T10AC3	11/9/2023	T10	Acacia_sp	3.2	1.163	5	5.27	131	6.13	Facu	1.55
+native	T10AC1	11/9/2023	T10	Acacia_sp	NA	NA	NA	5.9	138	8.1	Facu	1.55
+native	T10AC2	11/9/2023	T10	Acacia_sp	0.31	0.105	1	6.9	140	9.77	Facu	1.55
+native	T10C1	11/9/2023	T10	Scutia_buxifolia	0.13	0.07	5	3.26	118	3.28	Facu	1.55
+native	T10C2	11/9/2023	T10	Scutia_buxifolia	0.29	0.14	5	4.03	128	4.7	Facu	1.55
+native	T10C3	11/9/2023	T10	Scutia_buxifolia	0.35	0.149	5	4.53	134	5.92	Facu	1.55
+native	T10C4	11/9/2023	T10	Scutia_buxifolia	0.13	0.065	5	3.52	117	3.34	Facu	1.55
+native	T10exo1	11/9/2023	T10	NA6	1.34	0.371	5	4.46	124	4.56	Facu	1.55
+native	T10L1	11/9/2023	T10	Ligustrum_lucidum	7.34	2.625	5	6.4	126	6.2	Facu	1.55
+native	T10M1	11/9/2023	T10	Schinus_longifolius	0.24	0.108	5	3.37	127	4.09	Facu	1.55
+native	T10M2	11/9/2023	T10	Schinus_longifolius	0.19	0.093	5	1.95	124	2.87	Facu	1.55
+native	T10M3	11/9/2023	T10	Schinus_longifolius	0.32	0.153	5	4.03	128	4.7	Facu	1.55
+native	T10T1	12/11/2023	T10	Celtis_tala	0.42	0.181	5	1.27	142	3.16	Agus	1.53
+native	T11aC1	11/9/2023	T11a	Scutia_buxifolia	0.27	0.139	5	6.13	132	7.07	Facu	1.55
+native	T11aC2	11/9/2023	T11a	Scutia_buxifolia	0.21	0.093	5	4.87	135	6.42	Facu	1.55
+native	T11aC3	11/9/2023	T11a	Scutia_buxifolia	0.2	0.096	5	3.97	132	5.12	Facu	1.55
+native	T11aC4	11/9/2023	T11a	Scutia_buxifolia	0.21	0.096	5	6.28	136	8.05	Facu	1.55
+native	T11aC5	11/9/2023	T11a	Scutia_buxifolia	0.09	0.051	5	4.27	136	5.97	Facu	1.55
+native	T11aM1	11/9/2023	T11a	Schinus_longifolius	0.34	0.141	5	4.59	129	5.27	Facu	1.55
+native	T11aST1	11/9/2023	T11a	Jodina_rhombifolia	1.56	0.552	5	3.7	129	4.55	Facu	1.55
+native	T11aST2	11/9/2023	T11a	Jodina_rhombifolia	0.91	0.418	5	2.88	135	4.43	Facu	1.55
+native	T11aST3	11/9/2023	T11a	Jodina_rhombifolia	0.91	0.408	5	1.86	122	2.71	Facu	1.55
+native	T11aST4	11/9/2023	T11a	Jodina_rhombifolia	0.64	0.275	5	2.66	134	4.12	Facu	1.55
+native	T11aST5	11/9/2023	T11a	Jodina_rhombifolia	0.72	0.253	5	4.1	126	4.53	Facu	1.55
+native	T11aT1	12/11/2023	T11	Celtis_tala	0.34	0.094	5	2.63	151	6.29	Facu	1.55
+native	T11bAC1	26-10-23	T11b	Acacia_sp	NA	NA	NA	5.95	137	7.93	Facu	1.55
+native	T11bC1	26-10-23	T11b	Scutia_buxifolia	0.16	0.09	5	4.62	138	6.68	Facu	1.55
+native	T11bC2	26-10-23	T11b	Scutia_buxifolia	0.17	0.075	5	6	141	8.96	Facu	1.55
+native	T11bC3	26-10-23	T11b	Scutia_buxifolia	0.17	0.094	5	4.88	139	7.16	Facu	1.55
+native	T11bC4	26-10-23	T11b	Scutia_buxifolia	0.21	0.144	5	2.47	131	3.7	Facu	1.55
+native	T11bL1	26-10-23	T11b	Ligustrum_lucidum	2.31	0.645	5	3.78	132	4.95	Facu	1.55
+native	T11bL2	26-10-23	T11b	Ligustrum_lucidum	4.52	1.404	5	5.34	134	6.71	Facu	1.55
+native	T11bL3	26-10-23	T11b	Ligustrum_lucidum	3.73	1.364	5	5.34	138	7.48	Facu	1.55
+native	T11bL4	26-10-23	T11b	Ligustrum_lucidum	NA	NA	NA	3.82	146	7.21	Facu	1.55
+native	T11bL5	26-10-23	T11b	Ligustrum_lucidum	3.05	1.119	5	4.87	139	7.15	Facu	1.55
+native	T11bST1	26-10-23	T11b	Jodina_rhombifolia	1.07	0.492	5	2.2	136	3.83	Facu	1.55
+native	T12C1	26-10-23	T12	Scutia_buxifolia	0.34	0.21	5	6	126	5.91	Facu	1.55
+native	T12C2	26-10-23	T12	Scutia_buxifolia	0.18	0.122	5	3.93	147	7.6	Facu	1.55
+native	T12C3	26-10-23	T12	Scutia_buxifolia	0.27	0.166	5	3.63	125	4.09	Facu	1.55
+native	T12C4	26-10-23	T12	Scutia_buxifolia	0.19	0.12	5	4.95	136	6.68	Facu	1.55
+native	T12C5	26-10-23	T12	Scutia_buxifolia	0.24	0.129	5	3.59	126	4.16	Facu	1.55
+native	T12L1	26-10-23	T12	Ligustrum_lucidum	5.3	1.906	5	5.8	140	8.46	Facu	1.55
+native	T12L2	26-10-23	T12	Ligustrum_lucidum	3.71	1.342	5	3.42	136	5.09	Facu	1.55
+native	T12L3	26-10-23	T12	Ligustrum_lucidum	4.06	1.504	5	3.52	138	5.46	Facu	1.55
+native	T12L4	26-10-23	T12	Ligustrum_lucidum	4.78	1.867	5	3.29	142	5.76	Facu	1.55
+native	T12L5	26-10-23	T12	Ligustrum_lucidum	5.73	2.112	5	4.95	140	7.45	Facu	1.55
+native	T12M1	26-10-23	T12	Schinus_longifolius	0.41	0.239	5	2.66	132	3.95	Facu	1.55
+native	T13C1	10/5/2023	T13	Scutia_buxifolia	0.12	0.045	5	3.55	149	7.46	Facu	1.55
+native	T13C2	10/5/2023	T13	Scutia_buxifolia	0.21	0.127	5	3.83	129	4.65	Facu	1.55
+native	T13C3	10/5/2023	T13	Scutia_buxifolia	0.19	0.108	5	2.57	118	2.92	Facu	1.55
+native	T13C4	10/5/2023	T13	Scutia_buxifolia	0.17	0.109	5	4.9	135	6.45	Facu	1.55
+native	T13C5	10/5/2023	T13	Scutia_buxifolia	0.11	0.075	5	4.53	134	5.92	Facu	1.55
+native	T13SP21	10/5/2023	T13	NA2	NA	NA	NA	3.9	145	7.12	Facu	1.55
+native	T14F1	10/5/2023	T14	Fraxinus_sp	0.72	0.188	5	9.15	140	12.45	Facu	1.55
+native	T14M1	10/5/2023	T14	Schinus_longifolius	0.15	0.086	5	3.2	130	4.24	Facu	1.55
+native	T14OL1	10/5/2023	T14	Ulmus_populus	0.56	0.167	5	5.58	139	7.97	Facu	1.55
+native	T15C1	10/5/2023	T15	Scutia_buxifolia	0.22	0.101	5	3.03	130	4.09	Facu	1.55
+native	T15L3	10/5/2023	T15	Ligustrum_lucidum	0.33	0.093	5	2.08	126	3.06	Facu	1.55
+native	T15L1	10/5/2023	T15	Ligustrum_lucidum	4.99	2.265	5	2.96	132	4.22	Facu	1.55
+native	T15L2	10/5/2023	T15	Ligustrum_lucidum	0.62	0.241	5	2.52	134	3.98	Facu	1.55
+native	T15L4	10/5/2023	T15	Ligustrum_lucidum	0.56	0.178	5	NA	NA	1.8	Facu	1.55
+native	T15L5	10/5/2023	T15	Ligustrum_lucidum	4.04	1.632	5	2.76	145	5.49	Facu	1.55
+native	T15M1	10/5/2023	T15	Schinus_longifolius	NA	NA	NA	3.28	125	3.85	Facu	1.55
+native	T16C1	10/5/2023	T16	Scutia_buxifolia	0.14	0.084	5	NA	NA	1.7	Facu	1.55
+native	T16C2	10/5/2023	T16	Scutia_buxifolia	0.17	0.07	5	4.76	141	7.43	Facu	1.55
+native	T16C3	10/5/2023	T16	Scutia_buxifolia	0.16	0.117	5	3.42	119	3.45	Facu	1.55
+native	T16C4	10/5/2023	T16	Scutia_buxifolia	0.21	0.108	5	2.65	130	3.77	Facu	1.55
+native	T16C5	10/5/2023	T16	Scutia_buxifolia	NA	NA	NA	3.6	147	7.09	Facu	1.55
+native	T16L1	10/5/2023	T16	Ligustrum_lucidum	2.14	0.798	5	3.91	140	6.21	Facu	1.55
+native	T16L2	10/5/2023	T16	Ligustrum_lucidum	1.65	0.611	5	5.8	146	10.15	Facu	1.55
+native	T16L3	10/5/2023	T16	Ligustrum_lucidum	1.37	0.519	5	2.22	126	3.16	Facu	1.55
+native	T16L4	10/5/2023	T16	Ligustrum_lucidum	0.98	0.268	5	4.78	136	6.5	Facu	1.55
+native	T16L5	10/5/2023	T16	Ligustrum_lucidum	1.12	0.287	5	1.98	133	3.4	Facu	1.55
+native	T17C1	10/5/2023	T17	Scutia_buxifolia	0.24	0.094	5	NA	NA	1.8	Facu	1.55
+native	T17C2	10/5/2023	T17	Scutia_buxifolia	0.14	0.098	5	5.65	148	10.59	Facu	1.55
+native	T17C3	10/5/2023	T17	Scutia_buxifolia	0.31	0.191	5	3.27	135	4.82	Facu	1.55
+native	T17C4	10/5/2023	T17	Scutia_buxifolia	0.13	0.058	5	3.23	125	3.81	Facu	1.55
+native	T17C5	10/5/2023	T17	Scutia_buxifolia	0.27	0.081	5	2.7	135	4.25	Facu	1.55
+native	T17L1	10/5/2023	T17	Ligustrum_lucidum	0.38	0.156	5	NA	NA	2.1	Facu	1.55
+native	T17L2	10/5/2023	T17	Ligustrum_lucidum	NA	NA	NA	4.7	154	11.19	Facu	1.55
+native	T17L3	10/5/2023	T17	Ligustrum_lucidum	NA	NA	NA	5.84	144	9.59	Facu	1.55
+native	T17ST1	10/5/2023	T17	Jodina_rhombifolia	0.9	0.447	5	2.25	141	4.33	Facu	1.55
+native	T17ST2	10/5/2023	T17	Jodina_rhombifolia	0.55	0.223	5	2.23	134	3.7	Facu	1.55
+native	T17ST3	10/5/2023	T17	Jodina_rhombifolia	1.13	0.558	5	5.05	149	9.95	Facu	1.55
+native	T17ST4	10/5/2023	T17	Jodina_rhombifolia	0.77	0.232	5	2.7	135	4.25	Facu	1.55
+native	T17ST5	10/5/2023	T17	Jodina_rhombifolia	1.11	0.514	5	2.1	130	3.31	Facu	1.55
+native	T17T1	12/12/2023	T17	Celtis_tala	0.24	0.086	5	3.6	150	7.87	Fede	1.63
+native	T17T2	12/12/2023	T17	Celtis_tala	0.15	0.054	5	2.6	146	5.48	Fede	1.63
+native	T17T3	12/12/2023	T17	Celtis_tala	0.24	0.093	5	4.15	165	17.12	Fede	1.63
+native	T18C1	10/5/2023	T18	Scutia_buxifolia	0.13	0.065	5	4.86	133	6.08	Facu	1.55
+native	T18C2	10/5/2023	T18	Scutia_buxifolia	0.2	0.132	5	4.38	135	5.93	Facu	1.55
+native	T18C3	10/5/2023	T18	Scutia_buxifolia	0.09	0.042	5	2.97	144	5.64	Facu	1.55
+native	T18C4	10/5/2023	T18	Scutia_buxifolia	0.26	0.147	5	4.62	142	7.46	Facu	1.55
+native	T18C5	10/5/2023	T18	Scutia_buxifolia	0.1	0.05	5	3.92	150	8.34	Facu	1.55
+native	T18L1	10/5/2023	T18	Ligustrum_lucidum	NA	NA	NA	3.55	138	5.49	Facu	1.55
+native	T18L2	10/5/2023	T18	Ligustrum_lucidum	NA	NA	NA	3.78	138	5.75	Facu	1.55
+native	T18L3	10/5/2023	T18	Ligustrum_lucidum	NA	NA	NA	3.47	136	5.14	Facu	1.55
+native	T18L4	10/5/2023	T18	Ligustrum_lucidum	1.05	0.322	5	3.57	146	6.84	Facu	1.55
+native	T18L5	10/5/2023	T18	Ligustrum_lucidum	2.9	0.949	5	4.27	140	6.64	Facu	1.55
+native	T18M1	10/5/2023	T18	Schinus_longifolius	0.23	0.094	5	2.68	129	3.72	Facu	1.55
+native	T18ST1	10/5/2023	T18	Jodina_rhombifolia	1.07	0.486	5	3.73	141	6.16	Facu	1.55
+native	T18T1	12/12/2023	T18	Celtis_tala	0.34	0.092	5	3.7	142	6.37	Fede	1.63
+native	T18T2	12/12/2023	T18	Celtis_tala	0.45	0.122	5	2.8	144	5.48	Fede	1.63
+native	T18T3	12/12/2023	T18	Celtis_tala	0.61	0.162	5	5.7	132	6.76	Fede	1.63
+native	T19C1	26-10-23	T19	Scutia_buxifolia	0.17	0.075	5	6.45	138	8.71	Facu	1.55
+native	T19C2	26-10-23	T19	Scutia_buxifolia	0.17	0.11	5	4.28	140	6.65	Facu	1.55
+native	T19C3	26-10-23	T19	Scutia_buxifolia	0.18	0.107	5	5.32	145	9.15	Facu	1.55
+native	T19C4	26-10-23	T19	Scutia_buxifolia	0.14	0.077	5	5.2	132	6.23	Facu	1.55
+native	T19C5	26-10-23	T19	Scutia_buxifolia	0.21	0.136	5	4.9	139	7.19	Facu	1.55
+native	T19L1	26-10-23	T19	Ligustrum_lucidum	5.35	1.524	5	9.19	142	13.31	Facu	1.55
+native	T19L2	26-10-23	T19	Ligustrum_lucidum	NA	NA	NA	6.94	139	9.53	Facu	1.55
+native	T19L3	26-10-23	T19	Ligustrum_lucidum	3.96	1.287	5	7.9	131	8.42	Facu	1.55
+native	T19T1	12/12/2023	T19	Celtis_tala	0.44	0.131	5	2.8	148	6.11	Fede	1.63
+native	T19T2	12/12/2023	T19	Celtis_tala	0.2	0.067	5	4.7	147	8.87	Fede	1.63
+native	T19T3	12/12/2023	T19	Celtis_tala	0.66	0.178	5	3.63	145	6.81	Fede	1.63
+native	T19T4	12/12/2023	T19	Celtis_tala	0.62	0.147	5	3.7	133	5.08	Fede	1.63
+native	T19T5	12/12/2023	T19	Celtis_tala	0.61	0.123	5	5.1	134	6.56	Fede	1.63
+native	T1C1	25-7-23	T1	Scutia_buxifolia	0.2	0.104	5	7.85	125	7.13	Fede	1.63
+native	T1C2	25-7-23	T1	Scutia_buxifolia	0.2	0.103	5	2.9	124	3.59	Fede	1.63
+native	T1C3	25-7-23	T1	Scutia_buxifolia	0.12	0.06	5	7.1	132	8.02	Fede	1.63
+native	T1C4	11/9/2023	T1	Scutia_buxifolia	0.17	0.1	5	5.53	136	7.28	Facu	1.55
+native	T1C5	11/9/2023	T1	Scutia_buxifolia	0.13	0.073	5	4.95	135	6.5	Facu	1.55
+native	T1L1	25-7-23	T1	Ligustrum_lucidum	5.91	2.129	5	3.27	142	5.82	Fede	1.63
+native	T1ST1	25-7-23	T1	Jodina_rhombifolia	1.56	0.629	5	4.15	144	7.34	Fede	1.63
+native	T1ST2	25-7-23	T1	Jodina_rhombifolia	1.17	0.46	5	5	135	6.63	Fede	1.63
+native	T1ST3	25-7-23	T1	Jodina_rhombifolia	1.47	0.629	5	3	114	2.97	Fede	1.63
+native	T20C1	22-9-23	T20	Scutia_buxifolia	0.14	0.074	5	2.97	123	3.48	Facu	1.55
+native	T20C2	22-9-23	T20	Scutia_buxifolia	0.24	0.138	5	4.08	128	4.74	Facu	1.55
+native	T20C3	22-9-23	T20	Scutia_buxifolia	0.14	0.085	5	3.32	145	6.29	Facu	1.55
+native	T20C4	22-9-23	T20	Scutia_buxifolia	0.15	0.087	5	2.92	140	5.03	Facu	1.55
+native	T20C5	22-9-23	T20	Scutia_buxifolia	0.25	0.134	5	4.57	147	8.59	Facu	1.55
+native	T20ST1	22-9-23	T20	Jodina_rhombifolia	0.76	0.347	5	3.82	142	6.44	Facu	1.55
+native	T20T1	12/12/2023	T20	Celtis_tala	0.52	0.158	5	3.9	152	8.88	Facu	1.55
+native	T20T2	12/12/2023	T20	Celtis_tala	0.55	0.176	5	4.15	143	7.06	Facu	1.55
+native	T20T3	12/12/2023	T20	Celtis_tala	0.64	0.185	5	4.3	124	4.45	Facu	1.55
+native	T20T4	12/12/2023	T20	Celtis_tala	0.97	0.232	5	4.46	127	4.91	Facu	1.55
+native	T20T5	12/12/2023	T20	Celtis_tala	0.9	0.209	5	4.7	142	7.57	Facu	1.55
+native	T21C1	22-9-23	T21	Scutia_buxifolia	0.12	0.048	5	2.88	135	4.43	Facu	1.55
+native	T21C2	22-9-23	T21	Scutia_buxifolia	0.21	0.116	5	2.96	140	5.08	Facu	1.55
+native	T21C3	22-9-23	T21	Scutia_buxifolia	0.28	0.153	5	4.53	138	6.58	Facu	1.55
+native	T21C4	22-9-23	T21	Scutia_buxifolia	0.26	0.153	5	4.26	130	5.12	Facu	1.55
+native	T21C5	22-9-23	T21	Scutia_buxifolia	0.22	0.147	5	3.63	122	3.82	Facu	1.55
+native	T21M1	22-9-23	T21	Schinus_longifolius	0.14	0.069	5	2.1	131	3.38	Facu	1.55
+native	T21M2	22-9-23	T21	Schinus_longifolius	0.17	0.083	5	2.79	123	3.36	Facu	1.55
+native	T21T1	12/12/2023	T21	Celtis_tala	0.3	0.111	5	4.8	135	6.35	Facu	1.55
+native	T21T2	12/12/2023	T21	Celtis_tala	0.42	0.148	5	2.07	142	4.2	Facu	1.55
+native	T21T3	12/12/2023	T21	Celtis_tala	0.29	0.083	5	2.2	136	3.83	Facu	1.55
+native	T21T4	12/12/2023	T21	Celtis_tala	0.58	0.142	5	2.5	139	4.43	Facu	1.55
+native	T22C1	22-9-23	T22	Scutia_buxifolia	0.18	0.074	5	4.82	138	6.9	Facu	1.55
+native	T22C2	22-9-23	T22	Scutia_buxifolia	0.33	0.166	5	2.63	136	4.27	Facu	1.55
+native	T22C3	22-9-23	T22	Scutia_buxifolia	0.26	0.123	5	3.4	141	5.75	Facu	1.55
+native	T22C4	22-9-23	T22	Scutia_buxifolia	0.34	0.196	5	4.08	140	6.41	Facu	1.55
+native	T22C5	22-9-23	T22	Scutia_buxifolia	0.21	0.11	5	3.28	142	5.75	Facu	1.55
+native	T22M1	22-9-23	T22	Schinus_longifolius	0.14	0.05	5	2.65	126	3.48	Facu	1.55
+native	T22M2	22-9-23	T22	Schinus_longifolius	0.25	0.079	5	2.72	142	5.03	Facu	1.55
+native	T22NA1	22-9-23	T22	NA1	NA	NA	NA	5.67	143	9.07	Facu	1.55
+native	T22T1	12/12/2023	T22	Celtis_tala	0.26	0.085	5	3	146	6.1	Fede	1.65
+native	T22T2	12/12/2023	T22	Celtis_tala	0.27	0.108	5	4.1	140	6.54	Fede	1.65
+native	T23C1	22-9-23	T23	Scutia_buxifolia	0.14	0.084	5	2.57	142	4.84	Facu	1.55
+native	T23C2	22-9-23	T23	Scutia_buxifolia	0.24	0.142	5	2.86	122	3.34	Facu	1.55
+native	T23C3	22-9-23	T23	Scutia_buxifolia	0.14	0.078	5	3.13	123	3.58	Facu	1.55
+native	T23C4	22-9-23	T23	Scutia_buxifolia	0.17	0.09	5	5.96	139	8.41	Facu	1.55
+native	T23C5	22-9-23	T23	Scutia_buxifolia	0.23	0.144	5	2.44	127	3.39	Facu	1.55
+native	T23T1	12/12/2023	T23	Celtis_tala	0.26	0.06	5	3.4	150	7.44	Facu	1.55
+native	T23T2	12/12/2023	T23	Celtis_tala	0.24	0.052	5	2.7	156	7.61	Facu	1.55
+native	T23T3	12/12/2023	T23	Celtis_tala	0.45	0.097	5	3.3	154	8.32	Facu	1.55
+native	T23T4	12/12/2023	T23	Celtis_tala	0.22	0.093	5	3.37	137	5.16	Facu	1.55
+native	T23T5	12/12/2023	T23	Celtis_tala	0.26	0.105	5	5.63	127	5.79	Facu	1.55
+native	T24C1	22-9-23	T24	Scutia_buxifolia	0.16	0.065	5	5.78	132	6.75	Facu	1.55
+native	T24C2	22-9-23	T24	Scutia_buxifolia	0.16	0.093	5	2.14	134	3.62	Facu	1.55
+native	T24C3	22-9-23	T24	Scutia_buxifolia	0.14	0.084	5	2.07	125	3	Facu	1.55
+native	T24C4	22-9-23	T24	Scutia_buxifolia	0.22	0.117	5	2.95	141	5.19	Facu	1.55
+native	T24C5	22-9-23	T24	Scutia_buxifolia	0.25	0.125	5	4	139	6.15	Facu	1.55
+native	T24M1	22-9-23	T24	Schinus_longifolius	0.23	0.106	5	NA	N	1.8	Facu	1.55
+native	T24M2	22-9-23	T24	Schinus_longifolius	0.21	0.083	5	5.64	129	6.12	Facu	1.55
+native	T24TN1	3/8/2024	T24	Celtis_australis	2.21	1.511	5	5.25	142	8.27	Facu	1.55
+native	T24TN1	3/8/2024	T24	Celtis_australis	2.21	1.511	5	3.74	138	5.7	Facu	1.55
+native	T24TN2	3/8/2024	T24	Celtis_australis	NA	NA	NA	7.28	137	9.36	Facu	1.55
+native	T25C1	28-7-23	T25	Scutia_buxifolia	0.13	0.065	5	3.28	140	5.44	Agus	1.53
+native	T25C2	28-7-23	T25	Scutia_buxifolia	0.36	0.2	5	3.95	127	4.51	Agus	1.53
+native	T25C3	28-7-23	T25	Scutia_buxifolia	0.44	0.267	5	2.95	160	9.64	Agus	1.53
+native	T25C4	31-8-23	T25	Scutia_buxifolia	0.31	0.197	5	4.25	129	4.99	Facu	1.55
+native	T25C5	31-8-23	T25	Scutia_buxifolia	0.21	0.132	5	3.12	135	4.67	Facu	1.55
+native	T25T1	14-12-23	T21	Celtis_tala	0.26	0.118	5	2	100	1.98	Fede	1.63
+native	T26C1	28-7-23	T26	Scutia_buxifolia	0.49	0.252	5	1.78	130	3.02	Agus	1.53
+native	T26C2	28-7-23	T26	Scutia_buxifolia	0.31	0.146	5	4.72	150	9.71	Agus	1.53
+native	T26C3	28-7-23	T26	Scutia_buxifolia	0.21	0.116	5	7.2	135	8.73	Agus	1.53
+native	T26C4	31-8-23	T26	Scutia_buxifolia	0.23	0.141	5	2.47	125	3.28	Facu	1.55
+native	T26C5	31-8-23	T26	Scutia_buxifolia	0.29	0.173	5	NA	NA	2.1	Facu	1.55
+native	T26T1	14-12-23	T26	Celtis_tala	0.4	0.133	5	6.1	144	10.03	Fede	1.63
+native	T26T2	14-12-23	T26	Celtis_tala	0.21	0.093	5	2.76	134	4.3	Fede	1.63
+native	T26T3	14-12-23	T26	Celtis_tala	0.28	0.103	5	4.9	123	4.81	Fede	1.63
+native	T26T4	14-12-23	T26	Celtis_tala	0.2	0.084	5	3.3	135	4.93	Fede	1.63
+native	T26T5	14-12-23	T26	Celtis_tala	0.25	0.086	5	3.5	141	5.95	Fede	1.63
+native	T27C1	28-7-23	T27	Scutia_buxifolia	0.29	0.169	5	4.45	129	5.13	Agus	1.53
+native	T27C2	28-7-23	T27	Scutia_buxifolia	0.32	0.176	5	5.08	120	4.46	Agus	1.53
+native	T27C3	28-7-23	T27	Scutia_buxifolia	0.24	0.132	5	3.28	130	4.28	Agus	1.53
+native	T27C4	31-8-23	T27	Scutia_buxifolia	0.28	0.183	5	3.33	125	3.88	Facu	1.55
+native	T27C5	31-8-23	T27	Scutia_buxifolia	0.22	0.139	5	4.34	119	3.96	Facu	1.55
+native	T27M1	28-7-23	T27	Schinus_longifolius	0.42	0.187	5	2.64	114	2.71	Agus	1.53
+native	T27T1	14-12-23	T27	Celtis_tala	0.27	0.12	5	3	131	4.24	Fede	1.63
+native	T27T2	14-12-23	T27	Celtis_tala	0.25	0.102	5	4.52	145	8.09	Fede	1.63
+native	T27T3	14-12-23	T27	Celtis_tala	0.29	0.113	5	3.6	127	4.34	Fede	1.63
+native	T28C1	28-7-23	T28	Scutia_buxifolia	0.52	0.266	5	7.52	147	13.11	Agus	1.53
+native	T28C2	28-7-23	T28	Scutia_buxifolia	0.24	0.137	5	3.86	145	7.04	Agus	1.53
+native	T28C3	28-7-23	T28	Scutia_buxifolia	0.27	0.122	5	8.1	122	6.59	Agus	1.53
+native	T28C4	31-8-23	T28	Scutia_buxifolia	0.25	0.14	5	4.29	135	5.84	Facu	1.55
+native	T28C5	31-8-23	T28	Scutia_buxifolia	0.47	0.284	5	4.4	132	5.51	Facu	1.55
+native	T28T1	14-12-23	T28	Celtis_tala	0.24	0.084	5	3.38	154	8.56	Fede	1.63
+native	T28T2	14-12-23	T28	Celtis_tala	0.38	0.138	5	4.72	129	5.45	Fede	1.63
+native	T28T3	14-12-23	T28	Celtis_tala	0.39	0.133	5	4.84	140	7.4	Fede	1.63
+native	T28T4	14-12-23	T28	Celtis_tala	0.4	0.145	5	4.15	132	5.37	Fede	1.63
+native	T28T5	14-12-23	T28	Celtis_tala	0.36	0.125	5	4.9	132	6.04	Fede	1.63
+native	T29C1	28-7-23	T29	Scutia_buxifolia	0.15	0.068	5	2.7	132	3.96	Agus	1.53
+native	T29C2	28-7-23	T29	Scutia_buxifolia	NA	NA	NA	3.4	142	5.88	Agus	1.53
+native	T29C3	28-7-23	T29	Scutia_buxifolia	0.26	0.14	5	2.85	145	5.6	Agus	1.53
+native	T29C4	31-8-23	T29	Scutia_buxifolia	0.38	0.204	5	5.12	134	6.49	Facu	1.55
+native	T29C5	31-8-23	T29	Scutia_buxifolia	0.36	0.191	5	3.63	140	5.88	Facu	1.55
+native	T29T1	14-12-23	T29	Celtis_tala	0.47	0.19	5	2.2	135	3.83	Fede	1.63
+native	T29T2	14-12-23	T29	Celtis_tala	0.33	0.143	5	4.78	129	5.5	Fede	1.63
+native	T29T3	14-12-23	T29	Celtis_tala	0.31	0.132	5	4.12	137	6.05	Fede	1.63
+native	T29T4	14-12-23	T29	Celtis_tala	0.41	0.167	5	1.8	129	3.09	Fede	1.63
+native	T29T5	14-12-23	T29	Celtis_tala	0.31	0.102	5	4.32	141	6.96	Fede	1.63
+native	T2C1	25-7-23	T2	Scutia_buxifolia	NA	NA	NA	5.92	129	6.42	Fede	1.63
+native	T2C2	25-7-23	T2	Scutia_buxifolia	0.22	0.12	5	5.15	141	7.99	Fede	1.63
+native	T2C4	11/9/2023	T2	Scutia_buxifolia	0.19	0.125	5	6.16	132	7.1	Facu	1.55
+native	T2C5	11/9/2023	T2	Scutia_buxifolia	0.19	0.108	5	5.63	135	7.18	Facu	1.55
+native	T2M1	25-7-23	T2	Scutia_buxifolia	0.17	0.071	5	7.6	134	8.97	Fede	1.63
+native	T2M2	25-7-23	T2	Scutia_buxifolia	0.16	0.076	5	3.2	142	5.73	Fede	1.63
+native	T2ST1	25-7-23	T2	Jodina_rhombifolia	0.56	0.218	5	3.5	132	4.78	Fede	1.63
+native	T2ST2	25-7-23	T2	Jodina_rhombifolia	1.34	0.541	5	2.5	133	3.96	Fede	1.63
+native	T2ST3	25-7-23	T2	Jodina_rhombifolia	0.87	0.336	5	6	136	7.84	Fede	1.63
+native	T2T1	16-2-24	T2	Celtis_tala	0.54	0.181	5	6.37	138	8.62	Facu	1.55
+native	T30C1	28-7-23	T30	Scutia_buxifolia	0.47	0.231	5	2.08	152	5.44	Agus	1.53
+native	T30C2	28-7-23	T30	Scutia_buxifolia	0.22	0.095	5	2.83	149	6.24	Agus	1.53
+native	T30C3	28-7-23	T30	Scutia_buxifolia	0.25	0.113	5	2.78	142	5.09	Agus	1.53
+native	T30C4	31-8-23	T30	Scutia_buxifolia	0.33	0.163	5	5.05	129	5.64	Facu	1.55
+native	T30C5	31-8-23	T30	Scutia_buxifolia	0.34	0.168	5	3.96	135	5.51	Facu	1.55
+native	T30T1	14-12-23	T30	Celtis_tala	0.5	0.19	5	4.29	143	7.32	Fede	1.63
+native	T30T2	14-12-23	T30	Celtis_tala	0.35	0.133	5	3.94	133	5.3	Fede	1.63
+native	T30T3	14-12-23	T30	Celtis_tala	0.56	0.236	5	3.85	137	5.76	Fede	1.63
+native	T30T4	14-12-23	T30	Celtis_tala	0.26	0.096	5	4.55	117	3.95	Fede	1.63
+native	T30T5	14-12-23	T30	Celtis_tala	0.37	0.144	5	2.6	145	5.34	Fede	1.63
+native	T31C1	28-7-23	T31	Scutia_buxifolia	0.28	0.134	5	4.62	140	7.04	Agus	1.53
+native	T31C2	28-7-23	T31	Scutia_buxifolia	0.17	0.087	5	1.57	145	3.77	Agus	1.53
+native	T31C3	28-7-23	T31	Scutia_buxifolia	0.15	0.083	5	6.7	141	9.8	Agus	1.53
+native	T31C4	31-8-23	T31	Scutia_buxifolia	0.17	0.095	5	3.57	130	4.55	Facu	1.55
+native	T31C5	31-8-23	T31	Scutia_buxifolia	NA	NA	NA	5.07	136	6.8	Facu	1.55
+native	T31T1	14-12-23	T31	Celtis_tala	0.32	0.133	5	3.86	147	7.57	Fede	1.63
+native	T31T2	14-12-23	T31	Celtis_tala	0.17	0.059	5	3.04	136	4.78	Fede	1.63
+native	T31T3	14-12-23	T31	Celtis_tala	0.28	0.117	5	3.63	135	5.26	Fede	1.63
+native	T31T4	14-12-23	T31	Celtis_tala	0.26	0.113	5	3.3	131	4.5	Fede	1.63
+native	T31T5	14-12-23	T31	Celtis_tala	0.43	0.196	5	3.77	130	4.79	Fede	1.63
+native	T32C1	28-7-23	T32	Scutia_buxifolia	0.26	0.126	5	5.45	146	9.61	Agus	1.53
+native	T32C2	28-7-23	T32	Scutia_buxifolia	0.15	0.069	5	2.85	139	4.81	Agus	1.53
+native	T32M1	28-7-23	T32	Schinus_longifolius	0.19	0.071	5	2.93	118	3.09	Agus	1.53
+native	T32T1	20-12-23	T32	Celtis_tala	0.285	0.096	5	4.77	127	5.22	Fede	1.63
+native	T32T2	20-12-23	T32	Celtis_tala	0.236	0.104	5	3.88	142	6.6	Fede	1.63
+native	T32T3	20-12-23	T32	Celtis_tala	0.193	0.071	5	3.27	146	6.48	Fede	1.63
+native	T32T4	20-12-23	T32	Celtis_tala	2.37	0.117	5	4.46	143	7.55	Fede	1.63
+native	T32T5	20-12-23	T32	Celtis_tala	0.252	0.103	5	4.97	136	6.78	Fede	1.63
+native	T33C1	31-8-23	T33	Scutia_buxifolia	0.2	0.096	5	3.6	127	4.26	Facu	1.55
+native	T33C2	31-8-23	T33	Scutia_buxifolia	0.28	0.149	5	4.2	134	5.61	Facu	1.55
+native	T33C3	31-8-23	T33	Scutia_buxifolia	0.27	0.147	5	3.78	128	4.5	Facu	1.55
+native	T33C4	31-8-23	T33	Scutia_buxifolia	0.18	0.092	5	4.48	139	6.7	Facu	1.55
+native	T33C5	31-8-23	T33	Scutia_buxifolia	0.32	0.162	5	3.44	138	5.37	Facu	1.55
+native	T33C5	31-8-23	T33	Scutia_buxifolia	0.2	0.114	5	3.44	138	5.37	Facu	1.55
+native	T33T1	20-12-23	T33	Celtis_tala	0.359	0.182	5	6.18	129	6.63	Fede	1.63
+native	T33T2	20-12-23	T33	Celtis_tala	0.237	0.125	5	5.96	128	6.29	Fede	1.63
+native	T33T3	20-12-23	T33	Celtis_tala	0.329	0.13	5	5.34	132	6.44	Fede	1.63
+native	T33T4	20-12-23	T33	Celtis_tala	0.309	0.129	5	8.53	131	9.05	Fede	1.63
+native	T33T5	20-12-23	T33	Celtis_tala	0.173	0.072	5	3.51	135	5.14	Fede	1.63
+native	T34C1	28-7-23	T34	Scutia_buxifolia	0.44	0.256	5	6.75	135	8.28	Agus	1.53
+native	T34C2	28-7-23	T34	Scutia_buxifolia	0.18	0.094	5	4.49	136	6.18	Agus	1.53
+native	T34T1	20-12-23	T34	Celtis_tala	0.245	0.114	5	2.31	132	3.71	Fede	1.63
+native	T34T2	20-12-23	T34	Celtis_tala	0.22	0.108	5	3.38	147	6.83	Fede	1.63
+native	T34T3	20-12-23	T34	Celtis_tala	0.242	0.123	5	5.56	131	6.46	Fede	1.63
+native	T34T4	20-12-23	T34	Celtis_tala	0.201	0.095	5	6.15	136	8	Fede	1.63
+native	T34T5	20-12-23	T34	Celtis_tala	0.232	0.107	5	5.17	142	8.25	Fede	1.63
+native	T35C1	28-7-23	T35	Scutia_buxifolia	NA	NA	NA	3.85	135	5.38	Agus	1.53
+native	T35C2	28-7-23	T35	Scutia_buxifolia	0.28	0.158	5	2.63	123	3.24	Agus	1.53
+native	T35C3	28-7-23	T35	Scutia_buxifolia	NA	NA	NA	6.34	121	5.34	Agus	1.53
+native	T35C4	31-8-23	T35	Scutia_buxifolia	0.26	0.126	4	6.77	131	7.44	Facu	1.55
+native	T35M1	28-7-23	T35	Schinus_longifolius	0.32	0.144	5	3.45	141	5.79	Agus	1.53
+native	T35T1	20-12-23	T35	Celtis_tala	0.177	0.094	5	2.94	127	3.85	Fede	1.63
+native	T35T2	20-12-23	T35	Celtis_tala	0.239	0.136	5	4.48	143	7.58	Fede	1.63
+native	T35T3	20-12-23	T35	Celtis_tala	0.272	0.114	5	4.46	145	8	Fede	1.63
+native	T35T4	20-12-23	T35	Celtis_tala	0.303	0.163	5	6.14	134	7.56	Fede	1.63
+native	T36C1	31-8-23	T36	Scutia_buxifolia	0.21	0.113	5	5.87	127	5.97	Facu	1.55
+native	T36C2	31-8-23	T36	Scutia_buxifolia	0.31	0.173	5	3.43	130	4.43	Facu	1.55
+native	T36C3	31-8-23	T36	Scutia_buxifolia	0.18	0.11	5	3.03	140	5.16	Facu	1.55
+native	T36C4	31-8-23	T36	Scutia_buxifolia	0.37	0.1	5	2.55	128	3.54	Facu	1.55
+native	T36C5	31-8-23	T36	Scutia_buxifolia	0.11	0.063	5	3.83	131	4.88	Facu	1.55
+native	T36M1	31-8-23	T36	Schinus_longifolius	0.37	0.169	5	3.61	133	4.92	Facu	1.55
+native	T37C1	31-8-23	T37	Scutia_buxifolia	0.14	0.073	5	3.25	138	5.16	Facu	1.55
+native	T37C2	31-8-23	T37	Scutia_buxifolia	0.19	0.099	5	4.73	140	7.19	Facu	1.55
+native	T37C3	31-8-23	T37	Scutia_buxifolia	0.19	0.098	5	2.94	143	5.45	Facu	1.55
+native	T37C4	31-8-23	T37	Scutia_buxifolia	0.28	0.17	5	5.6	130	6.25	Facu	1.55
+native	T37C5	31-8-23	T37	Scutia_buxifolia	0.19	0.099	5	2.26	120	2.85	Facu	1.55
+native	T37ST1	31-8-23	T37	Jodina_rhombifolia	1.31	0.71	5	2.47	132	3.77	Facu	1.55
+native	T37ST2	31-8-23	T37	Jodina_rhombifolia	1.65	0.921	5	2.01	131	3.3	Facu	1.55
+native	T37ST3	31-8-23	T37	Jodina_rhombifolia	1.96	0.985	5	3.49	138	5.43	Facu	1.55
+native	T37T1	3/8/2024	T37	Celtis_tala	0.24	0.132	5	6.65	148	12.19	Facu	1.55
+native	T37T2	3/8/2024	T37	Celtis_tala	0.32	0.145	5	5.7	126	5.69	Facu	1.55
+native	T38C1	28-7-23	T38	Scutia_buxifolia	0.36	0.201	5	2.2	120	2.82	Facu	1.55
+native	T38T1	16-2-24	T38	Celtis_tala	0.16	0.066	5	3.81	140	6.09	Facu	1.55
+native	T38T2	16-2-24	T38	Celtis_tala	0.33	0.173	5	4.37	147	8.28	Facu	1.55
+native	T38T3	16-2-24	T38	Celtis_tala	0.32	0.133	5	4.5	133	5.75	Facu	1.55
+native	T38T4	16-2-24	T38	Celtis_tala	0.49	0.21	5	4.83	144	8.2	Facu	1.55
+native	T38T5	16-2-24	T38	Celtis_tala	0.22	0.09	5	6.88	142	10.36	Facu	1.55
+native	T39C1	28-7-23	T39	Scutia_buxifolia	0.17	0.1	5	2.57	132	3.86	Facu	1.55
+native	T39C2	28-7-23	T39	Scutia_buxifolia	0.16	0.084	5	3.86	119	3.69	Facu	1.55
+native	T39C3	28-7-23	T39	Scutia_buxifolia	0.11	0.055	5	3.9	133	5.19	Facu	1.55
+native	T39C4	28-7-23	T39	Scutia_buxifolia	0.26	0.132	5	3.28	130	4.3	Facu	1.55
+native	T39C5	28-7-23	T39	Scutia_buxifolia	0.35	0.205	5	2.78	116	2.91	Facu	1.55
+native	T39T1	16-2-24	T39	Celtis_tala	0.23	0.123	5	4	146	7.48	Facu	1.55
+native	T39T2	16-2-24	T39	Celtis_tala	0.27	0.115	5	3.24	150	7.16	Facu	1.55
+native	T39T3	16-2-24	T39	Celtis_tala	0.22	0.102	5	3.74	139	5.85	Facu	1.55
+native	T39T4	16-2-24	T39	Celtis_tala	0.13	0.082	5	4.58	149	9.17	Facu	1.55
+native	T39T5	16-2-24	T39	Celtis_tala	0.33	0.137	5	5.72	150	11.46	Facu	1.55
+native	T3C1	11/9/2023	T3	Scutia_buxifolia	0.31	0.143	5	5.68	135	7.23	Facu	1.55
+native	T3C2	11/9/2023	T3	Scutia_buxifolia	0.15	0.06	5	4.64	135	6.19	Facu	1.55
+native	T3C3	11/9/2023	T3	Scutia_buxifolia	0.21	0.103	5	3.97	132	5.12	Facu	1.55
+native	T3C4	11/9/2023	T3	Scutia_buxifolia	0.24	0.128	5	4.8	139	7.07	Facu	1.55
+native	T3C5	11/9/2023	T3	Scutia_buxifolia	0.19	0.112	5	3.87	134	5.29	Facu	1.55
+native	T3ST1	11/9/2023	T3	Jodina_rhombifolia	0.67	0.278	5	3.5	136	5.17	Facu	1.55
+native	T3ST2	11/9/2023	T3	Jodina_rhombifolia	1.84	0.84	5	4.14	132	5.28	Facu	1.55
+native	T3T1	16-2-24	T3	Celtis_tala	0.41	0.197	5	4.77	135	6.32	Facu	1.55
+native	T3T2	16-2-24	T3	Celtis_tala	0.42	0.164	5	4.89	148	9.38	Facu	1.55
+native	T40C1	14-7-23	T40	Scutia_buxifolia	0.32	0.171	5	4.83	130	5.51	Isa	1.455
+native	T40C2	14-7-23	T40	Scutia_buxifolia	0.28	0.163	5	3.58	125	3.96	Isa	1.455
+native	T40C3	14-7-23	T40	Scutia_buxifolia	0.24	0.148	5	3.13	140	5.19	Isa	1.455
+native	T40C4	14-7-23	T40	Scutia_buxifolia	0.29	0.151	5	NA	NA	1.47	Isa	1.455
+native	T40C5	14-7-23	T40	Scutia_buxifolia	0.32	0.191	5	4.75	143	7.76	Isa	1.455
+native	T40T1	16-2-24	T40	Celtis_tala	0.3	0.151	5	4.02	140	6.34	Facu	1.55
+native	T40T2	16-2-24	T40	Celtis_tala	0.17	0.104	5	3.42	139	5.48	Facu	1.55
+native	T40T3	16-2-24	T40	Celtis_tala	0.27	0.12	5	3.97	154	9.69	Facu	1.55
+native	T40T4	16-2-24	T40	Celtis_tala	0.42	0.218	5	4.34	141	6.91	Facu	1.55
+native	T41ST3	14-7-23	T41	Jodina_rhombifolia	0.89	0.4	5	6.2	110	3.71	Isa	1.455
+native	T41C1	14-7-23	T41	Scutia_buxifolia	0.19	0.084	5	6.26	135	7.72	Isa	1.455
+native	T41C2	14-7-23	T41	Scutia_buxifolia	0.21	0.119	5	7.2	125	6.5	Isa	1.455
+native	T41C3	14-7-23	T41	Scutia_buxifolia	0.16	0.087	5	5.48	115	4.01	Isa	1.455
+native	T41C4	14-7-23	T41	Scutia_buxifolia	0.31	0.171	5	3.14	110	2.6	Isa	1.455
+native	T41C5	14-7-23	T41	Scutia_buxifolia	0.24	0.144	5	5.85	148	10.82	Isa	1.455
+native	T41M1	14-7-23	T41	Schinus_longifolius	0.33	0.144	5	7.1	130	7.41	Isa	1.455
+native	T41O1	16-2-24	T41	Phytolacca_dioica	3.21	0.645	5	4.23	128	4.85	Facu	1.55
+native	T41ST1	14-7-23	T41	Jodina_rhombifolia	NA	NA	NA	7.08	120	5.54	Isa	1.455
+native	T41ST2	14-7-23	T41	Jodina_rhombifolia	1.05	0.458	5	8.4	130	8.5	Isa	1.455
+native	T41T1	16-2-24	T41	Celtis_tala	0.31	0.122	5	5.19	132	6.22	Facu	1.55
+native	T41T2	16-2-24	T41	Celtis_tala	0.17	0.072	5	5.4	137	7.34	Facu	1.55
+native	T41T3	16-2-24	T41	Celtis_tala	0.3	0.088	5	5.46	140	8.06	Facu	1.55
+native	T41T4	16-2-24	T41	Celtis_tala	0.35	0.188	5	3.81	156	10.11	Facu	1.55
+native	T41T5	16-2-24	T41	Celtis_tala	0.14	0.055	5	5.52	130	6.18	Facu	1.55
+native	T42C1	28-7-23	T42	Scutia_buxifolia	0.19	0.106	5	2.35	120	2.91	Facu	1.55
+native	T42C2	28-7-23	T42	Scutia_buxifolia	0.27	0.154	5	3.6	127	4.26	Facu	1.55
+native	T42C3	28-7-23	T42	Scutia_buxifolia	0.14	0.078	5	3.3	131	4.42	Facu	1.55
+native	T42C4	28-7-23	T42	Scutia_buxifolia	0.27	0.15	5	3	126	3.73	Facu	1.55
+native	T42C5	28-7-23	T42	Scutia_buxifolia	0.48	0.269	5	3.58	139	5.67	Facu	1.55
+native	T42T1	16-2-24	T42	Celtis_tala	0.17	0.101	5	3.5	140	5.72	Facu	1.55
+native	T42T2	16-2-24	T42	Celtis_tala	0.23	0.107	5	3.85	152	8.79	Facu	1.55
+native	T42T3	16-2-24	T42	Celtis_tala	0.38	0.112	5	3.72	155	9.53	Facu	1.55
+native	T43C1	20-7-23	T43	Scutia_buxifolia	0.23	0.12	5	7.39	139	10.05	Facu	1.55
+native	T43C2	20-7-23	T43	Scutia_buxifolia	NA	NA	NA	1.9	140	3.81	Facu	1.55
+native	T43C3	20-7-23	T43	Scutia_buxifolia	0.17	0.084	5	4.17	141	6.7	Facu	1.55
+native	T43C4	20-7-23	T43	Scutia_buxifolia	NA	NA	NA	2.29	146	4.95	Facu	1.55
+native	T43CU1	20-7-23	T43	Sapium_haematospermum	0.88	0.33	5	4.94	141	7.65	Facu	1.55
+native	T43M1	20-7-23	T43	Schinus_longifolius	0.46	0.196	5	3.24	146	6.35	Facu	1.55
+native	T43ST1	20-7-23	T43	Jodina_rhombifolia	1.26	0.573	5	NA	NA	1.85	Facu	1.55
+native	T43ST2	20-7-23	T43	Jodina_rhombifolia	1.48	0.624	5	1.49	137	3.15	Facu	1.55
+native	T43T1	3/8/2024	T43	Celtis_tala	0.46	0.23	5	3.95	130	4.86	Facu	1.55
+native	T43T2	3/8/2024	T43	Celtis_tala	0.19	0.068	5	3.79	142	6.4	Facu	1.55
+native	T43T3	3/8/2024	T43	Celtis_tala	0.2	0.072	5	4.68	143	7.76	Facu	1.55
+native	T43T4	3/8/2024	T43	Celtis_tala	NA	NA	NA	3.9	140	6.2	Facu	1.55
+native	T43T5	3/8/2024	T43	Celtis_tala	0.31	0.108	5	3.04	139	5.05	Facu	1.55
+native	T44C1	20-7-23	T44	Scutia_buxifolia	0.17	0.085	5	0.73	130	2.16	Facu	1.55
+native	T44C2	20-7-23	T44	Scutia_buxifolia	0.23	0.125	5	2.83	134	4.28	Facu	1.55
+native	T44C3	20-7-23	T44	Scutia_buxifolia	0.25	0.131	5	4.81	140	7.28	Facu	1.55
+native	T44C4	20-7-23	T44	Scutia_buxifolia	0.22	0.113	5	2.88	132	4.14	Facu	1.55
+native	T44C5	20-7-23	T44	Scutia_buxifolia	0.07	0.035	3	0.96	131	2.38	Facu	1.55
+native	T44ST1	20-7-23	T44	Jodina_rhombifolia	1.51	0.777	5	1.14	126	2.38	Facu	1.55
+native	T44T1	16-2-24	T44	Celtis_tala	0.23	0.109	5	3.79	136	5.47	Facu	1.55
+native	T44T2	16-2-24	T44	Celtis_tala	0.3	0.128	5	4.13	152	9.32	Facu	1.55
+native	T44T3	16-2-24	T44	Celtis_tala	0.24	0.117	5	4.11	145	7.42	Facu	1.55
+native	T44T4	16-2-24	T44	Celtis_tala	0.29	0.13	5	5.08	145	8.8	Facu	1.55
+native	T44T5	16-2-24	T44	Celtis_tala	0.52	0.22	5	5	153	11.36	Facu	1.55
+native	T45C1	28-7-23	T45	Scutia_buxifolia	0.3	0.168	5	NA	NA	4	Facu	1.55
+native	T45C2	28-7-23	T45	Scutia_buxifolia	0.14	0.073	5	NA	NA	4.5	Facu	1.55
+native	T45T1	3/8/2024	T45	Celtis_tala	0.24	0.097	4	4.3	143	7.26	Facu	1.55
+native	T45T2	3/8/2024	T45	Celtis_tala	0.43	0.2	5	5.13	151	10.8	Facu	1.55
+native	T45T3	3/8/2024	T45	Celtis_tala	0.56	0.185	5	4.24	155	10.64	Facu	1.55
+native	T45T4	3/8/2024	T45	Celtis_tala	0.4	0.173	5	4.38	146	8.04	Facu	1.55
+native	T45T5	3/8/2024	T45	Celtis_tala	0.81	0.229	5	4.46	142	7.26	Facu	1.55
+native	T46C1	28-7-23	T46	Scutia_buxifolia	0.24	0.138	5	2.82	110	2.58	Facu	1.55
+native	T46ST1	28-7-23	T46	Jodina_rhombifolia	2.62	1.211	5	1.66	104	1.94	Agus	1.53
+native	T46ST2	28-7-23	T46	Jodina_rhombifolia	0.84	0.45	5	4.04	128	4.71	Facu	1.55
+native	T46ST3	28-7-23	T46	Jodina_rhombifolia	0.76	0.326	5	1.83	109	2.18	Facu	1.55
+native	T46T1	16-2-24	T46	Celtis_tala	0.39	0.152	5	5.15	138	7.27	Facu	1.55
+native	T46T2	16-2-24	T46	Celtis_tala	0.3	0.112	5	4.17	124	4.36	Facu	1.55
+native	T46T3	16-2-24	T46	Celtis_tala	0.45	0.191	5	3.86	136	5.55	Facu	1.55
+native	T46T4	16-2-24	T46	Celtis_tala	0.65	0.26	5	3.57	145	6.65	Facu	1.55
+native	T46T5	16-2-24	T46	Celtis_tala	0.58	0.267	5	2.77	137	4.52	Facu	1.55
+native	T47C1	31-8-23	T47	Scutia_buxifolia	0.25	0.149	5	5.32	125	5.28	Facu	1.55
+native	T47T1	3/8/2024	T47	Celtis_tala	0.51	0.238	5	3.93	130	4.85	Facu	1.55
+native	T47T2	3/8/2024	T47	Celtis_tala	0.38	0.18	5	2.87	135	4.42	Facu	1.55
+native	T47T3	3/8/2024	T47	Celtis_tala	0.47	0.206	5	2.34	133	3.73	Facu	1.55
+native	T47T4	3/8/2024	T47	Celtis_tala	0.59	0.262	5	2.22	120	2.83	Facu	1.55
+native	T47T5	3/8/2024	T47	Celtis_tala	0.38	0.171	5	3.8	144	6.78	Facu	1.55
+native	T48C1	14-7-23	T48	Scutia_buxifolia	0.3	0.156	5	NA	NA	4.7	Facu	1.55
+native	T48C1	31-8-23	T48	Scutia_buxifolia	0.21	0.127	5	NA	NA	4.7	Facu	1.55
+native	T48C2	14-7-23	T48	Scutia_buxifolia	0.44	0.236	5	2.63	136	4.27	Facu	1.55
+native	T48C3	14-7-23	T48	Scutia_buxifolia	0.29	0.146	5	4.6	146	8.37	Facu	1.55
+native	T48ST1	14-7-23	T48	Jodina_rhombifolia	1.43	0.682	5	3	125	3.65	Facu	1.55
+native	T48ST2	14-7-23	T48	Jodina_rhombifolia	1.23	0.562	5	4.48	140	6.89	Facu	1.55
+native	T48T1	3/8/2024	T48	Celtis_tala	0.49	0.126	5	6.51	138	8.78	Facu	1.55
+native	T48T2	3/8/2024	T48	Celtis_tala	0.34	0.103	5	5.4	134	6.76	Facu	1.55
+native	T48T3	3/8/2024	T48	Celtis_tala	0.37	0.117	5	4.28	145	7.66	Facu	1.55
+native	T48T4	3/8/2024	T48	Celtis_tala	0.41	0.21	5	5.48	147	9.99	Facu	1.55
+native	T48T5	3/8/2024	T48	Celtis_tala	0.53	0.154	5	5.48	152	11.86	Facu	1.55
+native	T49C1	31-8-23	T49	Scutia_buxifolia	0.17	0.089	5	3.2	125	3.79	Facu	1.55
+native	T49C2	31-8-23	T49	Scutia_buxifolia	0.33	0.168	5	2.65	135	4.2	Facu	1.55
+native	T49C3	31-8-23	T49	Scutia_buxifolia	0.23	0.122	5	NA	N	2	Facu	1.55
+native	T49C4	31-8-23	T49	Scutia_buxifolia	0.38	0.196	5	2.34	122	3.01	Facu	1.55
+native	T49C5	31-8-23	T49	Scutia_buxifolia	0.24	0.141	5	1.7	130	2.98	Facu	1.55
+native	T49M1	31-8-23	T49	Schinus_longifolius	0.26	0.147	5	1.47	122	2.47	Facu	1.55
+native	T49M2	31-8-23	T49	Schinus_longifolius	0.19	0.097	4	1.7	124	2.7	Facu	1.55
+native	T49ST1	31-8-23	T49	Jodina_rhombifolia	1.32	0.747	5	1.95	118	2.59	Facu	1.55
+native	T49ST2	31-8-23	T49	Jodina_rhombifolia	0.6	0.265	5	NA	N	1.7	Facu	1.55
+native	T49ST3	31-8-23	T49	Jodina_rhombifolia	0.85	0.568	5	2.73	129	3.76	Facu	1.55
+native	T49T1	3/8/2024	T49	Celtis_tala	0.43	0.202	5	5.1	128	5.53	Facu	1.55
+native	T49T2	3/8/2024	T49	Celtis_tala	0.48	0.129	5	5.1	135	6.65	Facu	1.55
+native	T49T3	3/8/2024	T49	Celtis_tala	0.44	0.179	5	3.4	129	4.3	Facu	1.55
+native	T49T4	3/8/2024	T49	Celtis_tala	0.36	0.17	5	4.07	140	6.4	Facu	1.55
+native	T49T5	3/8/2024	T49	Celtis_tala	0.39	0.19	5	4.5	142	7.31	Facu	1.55
+native	T4C1	11/9/2023	T4	Scutia_buxifolia	0.15	0.079	5	3.2	116	3.11	Facu	1.55
+native	T4C2	11/9/2023	T4	Scutia_buxifolia	0.2	0.129	5	3.95	118	3.65	Facu	1.55
+native	T4C3	11/9/2023	T4	Scutia_buxifolia	0.12	0.079	5	4.27	120	4.02	Facu	1.55
+native	T4M1	11/9/2023	T4	Schinus_longifolius	0.13	0.07	5	4.4	128	4.99	Facu	1.55
+native	T4M2	11/9/2023	T4	Schinus_longifolius	0.13	0.077	5	3.09	129	4.05	Facu	1.55
+native	T50C1	31-8-23	T50	Scutia_buxifolia	0.22	0.129	5	4.57	145	8.08	Facu	1.55
+native	T50C1	14-7-23	T50	Scutia_buxifolia	0.34	0.182	5	4.57	145	8.08	Facu	1.55
+native	T50T1	3/8/2024	T50	Celtis_tala	0.35	0.2	5	3.87	132	5.03	Facu	1.55
+native	T50T2	3/8/2024	T50	Celtis_tala	0.42	0.153	5	3.62	132	4.81	Facu	1.55
+native	T50T3	3/8/2024	T50	Celtis_tala	0.44	0.141	5	3.62	131	4.7	Facu	1.55
+native	T50T4	3/8/2024	T50	Celtis_tala	0.42	0.194	5	5.48	142	8.56	Facu	1.55
+native	T50T5	3/8/2024	T50	Celtis_tala	0.51	0.208	5	5.48	125	5.39	Facu	1.55
+native	T51T1	3/8/2024	T51	Celtis_tala	0.53	0.243	5	6.1	147	10.94	Facu	1.55
+native	T51T2	3/8/2024	T51	Celtis_tala	0.36	0.165	5	6.46	141	9.53	Facu	1.55
+native	T51T3	3/8/2024	T51	Celtis_tala	0.55	0.179	5	5.61	142	8.73	Facu	1.55
+native	T51T4	3/8/2024	T51	Celtis_tala	0.52	0.181	5	6.1	137	8.09	Facu	1.55
+native	T51T5	3/8/2024	T51	Celtis_tala	0.59	0.164	5	3.9	135	5.45	Facu	1.55
+native	T52C1	31-8-23	T52	Scutia_buxifolia	0.3	0.155	5	5.32	135	6.87	Facu	1.55
+native	T52C2	31-8-23	T52	Scutia_buxifolia	0.28	0.16	5	3.08	124	3.63	Facu	1.55
+native	T52C3	31-8-23	T52	Scutia_buxifolia	0.17	0.095	5	3.63	125	4.09	Facu	1.55
+native	T52C4	31-8-23	T52	Scutia_buxifolia	0.19	0.102	5	3.78	131	4.84	Facu	1.55
+native	T52C5	31-8-23	T52	Scutia_buxifolia	0.27	0.152	5	4.17	128	4.81	Facu	1.55
+native	T52T1	3/8/2024	T52	Celtis_tala	0.47	0.132	5	6.18	141	9.18	Facu	1.55
+native	T52T2	3/8/2024	T52	Celtis_tala	0.31	0.115	5	5.2	140	7.75	Facu	1.55
+native	T52T3	3/8/2024	T52	Celtis_tala	0.55	0.184	5	3.67	137	5.49	Facu	1.55
+native	T52T4	3/8/2024	T52	Celtis_tala	0.5	0.14	5	4.93	143	8.09	Facu	1.55
+native	T52T5	3/8/2024	T52	Celtis_tala	0.25	0.087	5	3.59	136	5.27	Facu	1.55
+native	T5C1	11/9/2023	T5	Scutia_buxifolia	0.21	0.113	5	5.83	135	7.38	Facu	1.55
+native	T5C2	11/9/2023	T5	Scutia_buxifolia	0.41	0.188	5	6.15	133	7.28	Facu	1.55
+native	T5C3	11/9/2023	T5	Scutia_buxifolia	0.39	0.194	5	5.9	139	8.34	Facu	1.55
+native	T5C4	11/9/2023	T5	Scutia_buxifolia	0.16	0.094	5	6.3	135	7.85	Facu	1.55
+native	T5C5	11/9/2023	T5	Scutia_buxifolia	0.35	0.174	5	5.56	130	6.22	Facu	1.55
+native	T5S1	11/9/2023	T5	Sambucus_australis	0.7	0.168	5	3.58	140	5.82	Facu	1.55
+native	T5ST1	11/9/2023	T5	Jodina_rhombifolia	0.93	0.384	5	2.83	130	3.92	Facu	1.55
+native	T5ST1	11/9/2023	T5	Jodina_rhombifolia	0.93	0.384	5	2.83	130	3.92	Facu	1.55
+native	T5ST2	11/9/2023	T5	Jodina_rhombifolia	0.56	0.263	5	3.89	135	5.44	Facu	1.55
+native	T5ST3	11/9/2023	T5	Jodina_rhombifolia	1.42	0.384	5	3.89	130	4.81	Facu	1.55
+native	T5T1	16-2-24	T5	Celtis_tala	0.69	0.264	5	5.18	149	10.17	Facu	1.55
+native	T5T2	16-2-24	T5	Celtis_tala	0.83	0.276	5	4.94	141	7.65	Facu	1.55
+native	T5T3	16-2-24	T5	Celtis_tala	0.35	0.132	5	6.56	134	7.88	Facu	1.55
+native	T5T4	16-2-24	T5	Celtis_tala	0.25	0.11	5	4.06	134	5.47	Facu	1.55
+native	T5T5	16-2-24	T5	Celtis_tala	0.41	0.147	5	4.92	134	6.3	Facu	1.55
+native	T6C1	25-7-23	T6	Scutia_buxifolia	0.28	0.132	5	2.31	130	3.47	Agus	1.53
+native	T6C2	25-7-23	T6	Scutia_buxifolia	0.25	0.138	5	2.87	147	5.95	Agus	1.53
+native	T6C3	25-7-23	T6	Scutia_buxifolia	0.42	0.161	5	4.28	148	8.38	Agus	1.53
+native	T6C4	11/9/2023	T6	Scutia_buxifolia	0.25	0.132	5	7.57	132	8.37	Facu	1.55
+native	T6C5	11/9/2023	T6	Scutia_buxifolia	0.32	0.189	5	5.61	132	6.6	Facu	1.55
+native	T6ST1	25-7-23	T6	Jodina_rhombifolia	1.37	0.556	5	3.2	140	5.34	Agus	1.53
+native	T6T1	16-2-24	T6	Celtis_tala	0.39	0.173	5	3.55	128	4.32	Facu	1.55
+native	T6T2	16-2-24	T6	Celtis_tala	0.43	0.118	5	6.03	134	7.37	Facu	1.55
+native	T6T3	16-2-24	T6	Celtis_tala	0.35	0.157	5	5.07	140	7.59	Facu	1.55
+native	T7C1	25-7-23	T7	Scutia_buxifolia	0.13	0.081	5	2.86	140	4.94	Agus	1.53
+native	T7C2	25-7-23	T7	Scutia_buxifolia	0.33	0.158	5	6	128	6.22	Agus	1.53
+native	T7C3	25-7-23	T7	Scutia_buxifolia	0.16	0.088	5	3.78	145	6.93	Agus	1.53
+native	T7C4	11/9/2023	T7	Scutia_buxifolia	0.13	0.063	5	5.04	137	6.95	Facu	1.55
+native	T7C5	11/9/2023	T7	Scutia_buxifolia	0.35	0.125	5	6	142	9.23	Facu	1.55
+native	T7N1	11/9/2023	T7	Neltuma_alba	NA	NA	NA	4.81	134	6.17	Agus	1.53
+native	T7ST1	25-7-23	T7	Jodina_rhombifolia	0.79	0.34	5	4.85	120	4.33	Agus	1.53
+native	T8C1	11/9/2023	T8	Scutia_buxifolia	0.28	0.104	5	8.1	130	8.35	Facu	1.55
+native	T8C2	11/9/2023	T8	Scutia_buxifolia	0.16	0.055	5	4.65	134	6.04	Facu	1.55
+native	T8C3	11/9/2023	T8	Scutia_buxifolia	0.3	0.106	5	5.5	135	7.05	Facu	1.55
+native	T8C4	11/9/2023	T8	Scutia_buxifolia	0.23	0.087	5	3.89	139	6.02	Facu	1.55
+native	T8C5	11/9/2023	T8	Scutia_buxifolia	0.26	0.129	5	5.02	124	4.94	Facu	1.55
+native	T8L1	11/9/2023	T8	Ligustrum_lucidum	2.74	0.876	5	4.18	140	6.53	Facu	1.55
+native	T8L2	11/9/2023	T8	Ligustrum_lucidum	NA	NA	NA	4.2	138	6.21	Facu	1.55
+native	T8L3	11/9/2023	T8	Ligustrum_lucidum	NA	NA	NA	1.1	144	3.06	Facu	1.55
+native	T8L4	11/9/2023	T8	Ligustrum_lucidum	3.38	1.084	5	4.66	135	6.21	Facu	1.55
+native	T8M1	11/9/2023	T8	Schinus_longifolius	0.25	0.084	5	3.47	136	5.14	Facu	1.55
+native	T8M2	11/9/2023	T8	Schinus_longifolius	0.22	0.074	4	4.94	131	5.84	Facu	1.55
+native	T9C1	11/9/2023	T9	Scutia_buxifolia	0.18	0.081	5	4.3	138	6.33	Facu	1.55
+native	T9C2	11/9/2023	T9	Scutia_buxifolia	0.2	0.099	4	5	136	6.73	Facu	1.55
+native	T9C3	11/9/2023	T9	Scutia_buxifolia	0.2	0.086	5	6.3	130	6.84	Facu	1.55
+native	T9C4	11/9/2023	T9	Scutia_buxifolia	0.32	0.145	5	3.59	128	4.35	Facu	1.55
+native	T9C5	11/9/2023	T9	Scutia_buxifolia	0.36	0.149	5	5.38	130	6.06	Facu	1.55
+native	T9L1	11/9/2023	T9	Ligustrum_lucidum	4.18	1.537	5	5.65	139	8.05	Facu	1.55
+native	T9L2	11/9/2023	T9	Ligustrum_lucidum	2.01	0.658	5	4.28	139	6.47	Facu	1.55
+native	T9L3	11/9/2023	T9	Ligustrum_lucidum	NA	NA	NA	3.85	135	5.4	Facu	1.55
+native	T9L4	11/9/2023	T9	Ligustrum_lucidum	NA	NA	NA	4	140	6.32	Facu	1.55
+native	T9M1	11/9/2023	T9	Schinus_longifolius	0.24	0.094	5	6.3	136	8.07	Facu	1.55
+native	T9T1	12/11/2023	T9	Celtis_tala	0.32	0.124	5	1.95	125	2.9	Agus	1.53
+native	T9T2	12/11/2023	T9	Celtis_tala	0.33	0.109	5	3.21	138	5.1	Agus	1.53
+native	T9T3	12/11/2023	T9	Celtis_tala	0.25	0.09	5	2.67	137	4.39	Agus	1.53
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
