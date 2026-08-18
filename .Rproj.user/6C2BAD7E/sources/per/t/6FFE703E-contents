@@ -123,7 +123,172 @@ ggplot(varcomps_long, aes(x = trait, y = variance, fill = component)) +
   ) +
   theme_minimal()
 
-# Trait space
+# Trait spaces based on means
+# 1. Standardize traits
+df_traits <- trees %>%
+  mutate(
+    height_z = as.numeric(scale(height)),
+    LDMC_z   = as.numeric(scale(LDMC))
+  )
+
+mean_sp <- trees %>%
+  filter(
+    !plant_species %in% c(
+      "Acacia_sp",
+      "Acer_sp",
+      "Catalpa_speciosa",
+      "Eucalyptus_sp",
+      "Fraxinus_sp",
+      "Ligustrum_sinense",
+      "Celtis_australis",
+      "NA1","NA2","NA4","NA5","NA6",
+      "Populus_alba",
+      "Melia_azedarach",
+      "Quercus_sp",
+      "Ulmus_populus"
+    )
+  ) %>%
+  group_by(plant_species) %>%
+  summarise(
+    height = mean(height, na.rm = TRUE),
+    LDMC   = mean(LDMC, na.rm = TRUE),
+    .groups = "drop"
+  )
+
+mean_sp <- mean_sp %>%
+  mutate(
+    group = ifelse(
+      plant_species == "Ligustrum_lucidum",
+      "Ligustrum lucidum",
+      "Native species"
+    ))
+
+ggplot(mean_sp, aes(x = height, y = LDMC)) +
+  geom_point(aes(shape = group),size = 4) +
+  scale_shape_manual(
+    values = c(
+      "Native species" = 16,
+      "Ligustrum lucidum" = 17
+    )
+  ) +
+  labs(
+    x = "Tree height (m)",
+    y = "Leaf dry matter content (g/mg)",
+    shape = NULL
+  ) +
+  theme_bw() +
+  geom_text(
+    aes(label = plant_species),
+    vjust = -0.8,
+    size = 3.5
+  )
+
+# 2. Trait meands (natives)
+native_species <- df_traits %>%
+  filter(
+    habitat == "native",
+    !plant_species %in% c(
+      "Ligustrum_lucidum",
+      "Acacia_sp",
+      "Celtis_australis",
+      "NA1", "NA2", "NA6"
+    )) %>%
+  group_by(plant_species) %>%
+  summarise(
+    height_z = mean(height_z, na.rm = TRUE),
+    LDMC_z   = mean(LDMC_z, na.rm = TRUE),
+    .groups = "drop"
+  )
+
+# 3. Ligustrum lucidum mean
+ligustrum_mean <- df_traits %>%
+  filter(plant_species == "Ligustrum_lucidum") %>%
+  summarise(
+    height_z = mean(height_z, na.rm = TRUE),
+    LDMC_z   = mean(LDMC_z, na.rm = TRUE),
+    .groups = "drop"
+  )
+
+
+# 4. Funcional distance between Ligustrum and each native
+native_dist <- native_species %>%
+  mutate(
+    distance_Ligustrum = sqrt(
+      (height_z - ligustrum_mean$height_z)^2 +
+        (LDMC_z - ligustrum_mean$LDMC_z)^2
+    )
+  ) %>%
+  select(plant_species, distance_Ligustrum)
+native_dist
+
+# Null model
+species_pool <- bind_rows(
+  native_species %>%
+    select(plant_species, height_z, LDMC_z),
+  ligustrum_mean %>%
+    mutate(plant_species = "Ligustrum_lucidum")
+)
+
+MPD_observed <- mean(native_dist$distance_Ligustrum,na.rm=T)
+MPD_observed
+
+set.seed(123)
+
+n_sim <- 999
+
+MPD_null <- numeric(n_sim)
+
+for (i in 1:n_sim) {
+  
+  # Randomly select one species as an "invader"
+  invader_random <- sample(
+    species_pool$plant_species,
+    size = 1
+  )
+  
+  # Traits of selected species
+  invader_traits <- species_pool %>%
+    filter(plant_species == invader_random)
+  
+  # Pool comparison: remaining species
+  native_random <- species_pool %>%
+    filter(plant_species != invader_random)
+  
+  # Distances
+  distances <- sqrt(
+    (native_random$height_z - invader_traits$height_z)^2 +
+      (native_random$LDMC_z - invader_traits$LDMC_z)^2
+  )
+  
+  # MPD
+  MPD_null[i] <- mean(distances,na.rm=T)
+}
+
+SES_MPD <- (
+  MPD_observed - mean(MPD_null,na.rm=T)
+) / sd(MPD_null,na.rm=T)
+SES_MPD
+
+p_value <- (
+  sum(abs(MPD_null - mean(MPD_null,na.rm=T)) >=
+        abs(MPD_observed - mean(MPD_null,na.rm=T)),na.rm=T) + 1
+) / (n_sim + 1)
+
+p_value
+
+hist(
+  MPD_null,
+  breaks = 30,
+  xlab = "Mean functional distance",
+  main = "Null distribution of MPD"
+)
+
+abline(
+  v = MPD_observed,
+  lwd = 3
+)
+
+# Trait space accounting for ITV
 plot(trees$dry_mass_g, trees$wet_mass_g)
 plot(trees$height, trees$LDMC)
 cor(trees$height, trees$LDMC, method = "spearman", use = "complete.obs")
@@ -221,26 +386,26 @@ trait_space_habitat <- funspace(data.frame(zheight, zLDMC),
                                 threshold = 0.999)
 FRich <- trait_space_habitat$FD$groups$FRich
 set.seed(123)
-# Número de iteraciones
+# Number of iterations
 n_iter <- 999
 
-# Guardar resultados
+# Store results
 FRich_boot <- matrix(NA, nrow = n_iter, ncol = length(unique(trees_na$habitat)))
 colnames(FRich_boot) <- levels(as.factor(trees_na$habitat))
 
 for(i in 1:n_iter){
   
-  # Submuestreo: 100 individuos por hábitat
+  # Subsampling: 100 individuals per habitat type
   samp <- trees_na %>%
     group_by(habitat) %>%
     slice_sample(n = 100) %>%
     ungroup()
   
-  # Reescalar rasgos en la muestra
+  # Rescale traits
   zheight <- scale(samp$height)
   zLDMC   <- scale(samp$LDMC)
   
-  # Calcular espacio funcional
+  # Compute functional space
   fs <- funspace(
     data.frame(zheight, zLDMC),
     n_divisions = 300,
@@ -248,16 +413,16 @@ for(i in 1:n_iter){
     threshold = 0.999
   )
   
-  # Guardar FRich
+  # Store FRich
   FRich_boot[i, ] <- fs$FD$groups$FRich
 }
 
-# Resumen
+# Summary
 FRich_boot <- read.csv("C:/RD/FRich_boot.csv")
 apply(FRich_boot, 2, mean)
 apply(FRich_boot, 2, sd)
 
-# Distribuciones
+# Distributions
 boxplot(FRich_boot)
 t.test(FRich_boot$invaded,FRich_boot$native,var.equal=F)
 
