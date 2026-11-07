@@ -9,6 +9,7 @@ library(lmerTest) # mixed models p-values
 library(ggplot2) # plotting
 library(funspace) # trait spaces
 library(hypervolume) # hypervolumes
+library(ggnewscale) # color palettes
 
 ### Tree functional space
 trees <- read.table(here("Data", "tree_leaves_talares.txt"), head = T)
@@ -45,6 +46,203 @@ t.test(fruit$xPeso_sem ~ fruit$inv)
 # Collinearity
 cor.test(trees$height, trees$LDMC, use = "complete.obs")
 
+# Summary at the plot level
+trees %>%
+  distinct(plant_species) %>%
+  summarise(regional_richness = n())
+
+native_species <- c(
+  "Celtis_tala",
+  "Scutia_buxifolia",
+  "Jodina_rhombifolia",
+  "Schinus_longifolius",
+  "Phytolacca_dioica",
+  "Sapium_haematospermum",
+  "Sambucus_australis",
+  "Neltuma_alba"
+)
+
+trees <- trees %>%
+  mutate(origin = ifelse(
+    plant_species %in% native_species,
+    "Native", "Non-native"
+  ))
+
+richness_plot <- trees %>%
+  filter(!grepl("^NA", plant_species)) %>%
+  distinct(pointID, habitat, plant_species, origin) %>%
+  group_by(pointID, habitat, origin) %>%
+  summarise(richness = n_distinct(plant_species), .groups = "drop") %>%
+  pivot_wider(
+    names_from = origin,
+    values_from = richness,
+    values_fill = 0
+  ) %>%
+  mutate(total_richness = Native + `Non-native`)
+
+richness_plot %>% group_by(habitat) %>%
+  summarize(mean_rich = mean(total_richness),
+            sd_rich = sd(total_richness),
+            min_rich = min(total_richness),
+            max_rich = max(total_richness))
+
+# Exotic species different from Ligustrum lucidum
+trees %>%
+  filter(
+    !plant_species %in% native_species,
+    plant_species != "Ligustrum lucidum"
+  ) %>%
+  distinct(plant_species) %>%
+  arrange(plant_species) %>% filter(-c(10:14))
+
+trees %>%
+  filter(
+    !plant_species %in% native_species,
+    plant_species != "Ligustrum lucidum"
+  ) %>%
+  distinct(habitat, plant_species) %>%
+  count(habitat, name = "n_exotic_species")
+
+trees %>%
+  filter(
+    !plant_species %in% native_species,
+    plant_species != "Ligustrum lucidum"
+  ) %>%
+  distinct(habitat, pointID, plant_species) %>%
+  group_by(habitat, plant_species) %>%
+  summarise(n_plots = n_distinct(pointID), .groups = "drop")
+
+table(trees$habitat)
+
+trees %>%
+  distinct(treeID, .keep_all = TRUE) %>%
+  count(habitat, plant_species, name = "n_individuals") %>%
+  arrange(habitat, desc(n_individuals))
+
+# one observation per individual
+individuals <- trees %>%
+  filter(!is.na(treeID), treeID != "") %>%
+  distinct(habitat, pointID, plant_species, treeID, .keep_all = TRUE)
+
+# Variability within each plot
+variability_plot <- individuals %>%
+  group_by(plant_species, pointID) %>%
+  summarise(
+    across(
+      c(height, LDMC),
+      list(
+        mean = ~mean(.x, na.rm = TRUE),
+        SD = ~sd(.x, na.rm = TRUE),
+        CV = ~100 * sd(.x, na.rm = TRUE) / mean(.x, na.rm = TRUE)
+      ),
+      .names = "{.col}_{.fn}"
+    ),
+    n = n(),
+    .groups = "drop"
+  ) 
+
+# Summary between plots for each species
+variability_species <- variability_plot %>%
+  pivot_longer(
+    cols = -c(plant_species, pointID, n),
+    names_to = c("trait", ".value"),
+    names_pattern = "(height|LDMC)_(mean|SD|CV)"
+  ) %>%
+  group_by(plant_species, trait) %>%
+  summarise(
+    n_plots = n(),
+    mean = mean(CV, na.rm = TRUE),
+    SD = sd(CV, na.rm = TRUE),
+    mean_trait = mean(mean, na.rm = TRUE),
+    SD_trait = sd(mean, na.rm = TRUE),
+    mean_CV = mean(CV, na.rm = TRUE),
+    SD_CV = sd(CV, na.rm = TRUE),
+    .groups = "drop"
+  )
+
+# Boxplots of traits
+individuals <- trees %>%
+  filter(
+    !is.na(treeID),
+    treeID != "",
+    !is.na(plant_species),
+    !grepl("^NA", plant_species)
+  ) %>%
+  distinct(treeID, .keep_all = TRUE) %>%
+  group_by(plant_species) %>%
+  filter(n_distinct(treeID) > 1) %>%
+  ungroup()
+
+# Order according to median height
+species_order_height <- individuals %>%
+  group_by(plant_species) %>%
+  summarise(mediana = median(height, na.rm = TRUE)) %>%
+  arrange(desc(mediana)) %>%
+  pull(plant_species)
+
+# Order according to median LDMC
+species_order_LDMC <- individuals %>%
+  filter(is.finite(LDMC)) %>%
+  group_by(plant_species) %>%
+  summarise(mediana = median(LDMC)) %>%
+  arrange(desc(mediana)) %>%
+  pull(plant_species)
+
+p_height <- ggplot(individuals,
+                   aes(x = plant_species, y = height,
+                       fill = habitat)) +
+  geom_boxplot(
+    position = position_dodge(width = 0.8),
+    alpha = 0.6,
+    outlier.shape = NA
+  ) +
+  geom_point(
+    aes(color = habitat),
+    position = position_jitterdodge(
+      jitter.width = 0.15,
+      dodge.width = 0.8
+    ),
+    alpha = 0.35,
+    size = 1.5
+  ) +
+  labs(x = NULL, y = "Plant height (m)",
+       fill = "Community type",
+       color = "Community type") +
+  theme(
+    axis.text.x = element_text(angle = 45, hjust = 1),
+    legend.position = "top"
+  ) + scale_x_discrete(limits = species_order_height)
+
+p_height
+
+p_LDMC <- ggplot(
+  filter(individuals, is.finite(LDMC)),
+  aes(x = plant_species, y = LDMC, fill = habitat)
+)  +
+  geom_boxplot(
+    position = position_dodge(width = 0.8),
+    alpha = 0.6,
+    outlier.shape = NA
+  ) +
+  geom_point(
+    aes(color = habitat),
+    position = position_jitterdodge(
+      jitter.width = 0.15,
+      dodge.width = 0.8
+    ),
+    alpha = 0.35,
+    size = 1.5
+  ) +
+  labs(x = NULL, y = "Leaf dry matter content (mg/g)",
+       fill = "Community type",
+       color = "Community type") +
+  theme(
+    axis.text.x = element_text(angle = 45, hjust = 1),
+    legend.position = "top"
+  )+ scale_x_discrete(limits = species_order_LDMC)
+
+p_LDMC
+
 # Sources of variation
 trees$pointID <- as.factor(trees$pointID)
 native <- subset(trees, habitat == "native")
@@ -71,6 +269,33 @@ pct_mult # If pct_mult is high (e.g.> 50%), nestedeness can be estimated in gene
 # 4) check combinations with 1 obs and with multiple obs
 counts %>% filter(n_ind == 1) %>% slice_head(n = 10)   # first 10 combs with 1 obs
 counts %>% arrange(desc(n_ind)) %>% slice_head(n = 10) # top 10 combs with more reps
+
+# Check native spcies into invaded plots and invasive species into native plots
+native_species <- c(
+  "Celtis_tala",
+  "Scutia_buxifolia",
+  "Jodina_rhombifolia",
+  "Schinus_longifolius"
+)
+
+trees <- trees %>%
+  mutate(
+    species_origin = case_when(
+      plant_species %in% native_species ~ "Native",
+      plant_species == "Ligustrum_lucidum" ~ "Ligustrum",
+      TRUE ~ "Other_exotic"
+    )
+  )
+
+composition_habitat <- trees %>%
+  count(habitat, species_origin, name = "n_individuals") %>%
+  group_by(habitat) %>%
+  mutate(
+    proportion = n_individuals / sum(n_individuals) * 100
+  ) %>%
+  ungroup()
+
+composition_habitat
 
 # Variance components
 hist(native$height)
@@ -122,6 +347,35 @@ ggplot(varcomps_long, aes(x = trait, y = variance, fill = component)) +
     end = 0     
   ) +
   theme_minimal()
+
+# Species contribution to ITV
+species_contribution <- trees %>%
+  filter(
+    !is.na(treeID),
+    !is.na(plant_species),
+    !grepl("^NA", plant_species)
+  ) %>%
+  distinct(treeID, .keep_all = TRUE) %>%
+  pivot_longer(
+    cols = c(height, LDMC),
+    names_to = "trait",
+    values_to = "value"
+  ) %>%
+  filter(is.finite(value)) %>%
+  group_by(habitat, trait, plant_species) %>%
+  summarise(
+    n = n(),
+    variance = var(value,na.rm=T),
+    SS_within = (n - 1)*variance,
+    .groups = "drop"
+  ) %>%
+  group_by(habitat, trait) %>%
+  mutate(
+    contribution_percent = 100*SS_within/ sum(SS_within,na.rm=T)
+  ) %>%
+  ungroup()
+
+species_contribution
 
 # Trait spaces based on means
 # 1. Standardize traits
@@ -183,7 +437,7 @@ ggplot(mean_sp, aes(x = height, y = LDMC)) +
     size = 3.5
   )
 
-# 2. Trait meands (natives)
+# 2. Trait means (natives)
 native_species <- df_traits %>%
   filter(
     habitat == "native",
@@ -208,7 +462,6 @@ ligustrum_mean <- df_traits %>%
     LDMC_z   = mean(LDMC_z, na.rm = TRUE),
     .groups = "drop"
   )
-
 
 # 4. Funcional distance between Ligustrum and each native
 native_dist <- native_species %>%
@@ -310,19 +563,14 @@ ggplot(data = common_trees, aes(x = height, y = LDMC)) +
 
 zheight <- scale(trees_na$height)
 zLDMC <- scale(trees_na$LDMC)
-trait_space_global <- funspace(data.frame(zheight, zLDMC),
-                               n_divisions = 300, threshold = 0.999)
+
 trait_space_habitat <- funspace(data.frame(zheight, zLDMC),
                                 n_divisions = 300, 
                                 group.vec = as.factor(trees_na$habitat),
                                 threshold = 0.999)
-trait_space_species <- funspace(data.frame(zheight, zLDMC),
-                                n_divisions = 300, 
-                                group.vec = as.factor(trees_na$plant_species),
-                                threshold = 0.95)
-summary(trait_space_global)
+
 summary(trait_space_habitat)
-summary(trait_space_species)
+
 
 # Plots
 plot(x = trait_space_habitat, # funspace object
@@ -340,6 +588,108 @@ plot(x = trait_space_habitat,
      xlim = c(-2,2), ylim = c(-4,4), 
      axis.title.x = "Tree height",
      axis.title.y = "Leaf dry matter content")
+
+# The two hypervolumes in the same plot
+grid <- trait_space_habitat$parameters$evaluation_grid
+
+df_invaded <- data.frame(
+  grid,
+  density = as.vector(
+    trait_space_habitat$groups$invaded$images$noThreshold.quantiles
+  ),
+  quantile = as.vector(
+    trait_space_habitat$groups$invaded$images$TPD.quantiles
+  ),
+  habitat = "Invaded"
+)
+
+df_native <- data.frame(
+  grid,
+  density = as.vector(
+    trait_space_habitat$groups$native$images$noThreshold.quantiles
+  ),
+  quantile = as.vector(
+    trait_space_habitat$groups$native$images$TPD.quantiles
+  ),
+  habitat = "Native"
+)
+
+df <- bind_rows(df_invaded, df_native)
+
+ggplot() +
+  
+  # Native
+  geom_raster(
+    data = filter(df, habitat == "Native", !is.na(quantile)),
+    aes(x = trait1, y = trait2, fill = density),
+    alpha = 0.8
+  ) +
+  scale_fill_gradientn(
+    colours = c("#0000FF", "#C6DBEF"),
+    name = "Native"
+  ) +
+  
+  ggnewscale::new_scale_fill() +
+  
+  # Invaded
+  geom_raster(
+    data = filter(df, habitat == "Invaded", !is.na(quantile)),
+    aes(x = trait1, y = trait2, fill = density),
+    alpha = 0.5
+  ) +
+  scale_fill_gradientn(
+    colours = c("#FF0000","#FFFF00"),
+    name = "Invaded"
+  ) +
+  
+  # Contornos de ambos hábitats
+  geom_contour(
+    data = df,
+    aes(
+      x = trait1,
+      y = trait2,
+      z = quantile,
+      color = habitat
+    ),
+    breaks = c(0.25, 0.50, 0.99),
+    linewidth = 0.65,
+    na.rm = TRUE
+  ) +
+  
+  scale_color_manual(
+    values = c(
+      "Invaded" = "orange",
+      "Native" = "blue"
+    )
+  ) +
+  
+  scale_linetype_manual(
+    values = c("Native" = "solid", "Invaded" = "dashed"),
+    guide = "none"
+  ) +
+  
+  coord_cartesian(
+    xlim = c(-4, 6),
+    ylim = c(-4, 4)
+  ) +
+  
+  labs(
+    x = "Tree height",
+    y = "Leaf dry matter content",
+    color = "Habitat"
+  ) +
+  
+  theme_classic(base_size = 13) +
+  theme(
+    panel.border = element_rect(
+      colour = "black",
+      fill = NA,
+      linewidth = 0.8
+    ),
+    axis.line = element_blank()
+  ) +
+  geom_vline(xintercept=0,linetype="dashed",col="gray40")+
+  geom_hline(yintercept=0,linetype="dashed",col="gray40")
 
 # Overlap between hypervolumes
 native_traits <- na.omit(trees[trees$habitat == "native", c("height", "LDMC")])
@@ -426,3 +776,63 @@ apply(FRich_boot, 2, sd)
 boxplot(FRich_boot)
 t.test(FRich_boot$invaded,FRich_boot$native,var.equal=F)
 
+##########################################################
+### SENSITIVITY ANALYSIS
+##########################################################
+# Prepare data and standardize traits globally
+dat <- trees %>%
+  filter(complete.cases(height, LDMC)) %>%
+  mutate(
+    zheight = as.numeric(scale(height)),
+    zLDMC = as.numeric(scale(LDMC))
+  )
+
+native <- c("Celtis_tala", "Scutia_buxifolia",
+            "Jodina_rhombifolia", "Schinus_longifolius")
+
+# Three scenarios
+scenarios <- list(
+  Original = dat,
+  Invaded_without_natives = dat %>%
+    filter(!(habitat == "invaded" & plant_species %in% native)),
+  Native_without_Ligustrum = dat %>%
+    filter(!(habitat == "native" & plant_species == "Ligustrum_lucidum"))
+)
+
+# Check sample sizes
+sapply(scenarios, function(x) table(x$habitat))
+
+# Calculate Jaccard overlap
+set.seed(123)
+n_iter <- 999
+
+results <- lapply(scenarios, function(d) {
+  
+  replicate(n_iter, {
+    
+    samp <- d %>%
+      group_by(habitat) %>%
+      slice_sample(n = 100) %>%
+      ungroup()
+    
+    hv_native <- hypervolume(
+      samp[samp$habitat == "native", c("zheight", "zLDMC")]
+    )
+    
+    hv_invaded <- hypervolume(
+      samp[samp$habitat == "invaded", c("zheight", "zLDMC")]
+    )
+    
+    hv <- hypervolume_set(hv_native, hv_invaded,
+                          check.memory = FALSE)
+    
+    as.numeric(hypervolume_overlap_statistics(hv)[1])
+  })
+})
+
+# Summary
+do.call(rbind, lapply(results, function(x)
+  c(mean = mean(x), SD = sd(x),
+    lower = quantile(x, 0.025),
+    upper = quantile(x, 0.975))
+))
