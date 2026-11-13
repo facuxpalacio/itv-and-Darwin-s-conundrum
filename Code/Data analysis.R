@@ -725,7 +725,69 @@ ggplot(data = data.frame(HV_overlap$distribution), aes(x = jaccard)) +
   geom_vline(xintercept = Jaccard,
              color = "blue", linetype = "dashed", linewidth = 1) +
   theme_bw()
+
+##### SENSITIVITY ANALYSIS - BOOTSTRAP PER PLOT
+trees_boot <- trees %>%
+  filter(
+    !is.na(pointID),
+    !is.na(habitat),
+    !is.na(height),
+    !is.na(LDMC)
+  ) %>%
+  distinct(treeID, .keep_all = TRUE) %>%
+  select(treeID, pointID, habitat, height, LDMC)
+
+bootstrap_overlap <- function(data) {
   
+  plots_native <- unique(data$pointID[data$habitat == "native"])
+  plots_invaded <- unique(data$pointID[data$habitat == "invaded"])
+  
+  sampled_native <- sample(plots_native, length(plots_native), replace = TRUE)
+  sampled_invaded <- sample(plots_invaded, length(plots_invaded), replace = TRUE)
+  
+  get_trees <- function(plots, habitat) {
+    bind_rows(lapply(plots, function(p) {
+      data[data$pointID == p & data$habitat == habitat, ]
+    }))
+  }
+  
+  native <- get_trees(sampled_native, "native") %>%
+    select(height, LDMC) %>%
+    na.omit()
+  
+  invaded <- get_trees(sampled_invaded, "invaded") %>%
+    select(height, LDMC) %>%
+    na.omit()
+  
+  hv_native <- hypervolume(scale(native))
+  hv_invaded <- hypervolume(scale(invaded))
+  
+  hvlist <- hypervolume_set(
+    hv_native, hv_invaded,
+    check.memory = FALSE
+  )
+  
+  hypervolume_overlap_statistics(hvlist)
+}
+
+set.seed(123)
+
+results <- replicate(999, bootstrap_overlap(trees_boot))
+
+results <- as.data.frame(t(results))
+
+summ_res <- results %>%
+  summarise(
+    across(
+      everything(),
+      list(
+        mean = ~ mean(.x, na.rm = TRUE),
+        lower = ~ quantile(.x, 0.025, na.rm = TRUE),
+        upper = ~ quantile(.x, 0.975, na.rm = TRUE)
+      )
+    )
+  )
+
 #### Functional richness
 trees_na <- na.omit(trees)
 zheight <- scale(trees_na$height)
